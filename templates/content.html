@@ -3,7 +3,7 @@
 {% block content %}
 <article class="content">
     <header class="mb-4">
-        <h1 class="display-4">{{ title }}</h1>
+        <h1 class="display-4">{{ title|cleanTitle }}</h1>
         {% if category %}
         <div class="mb-2">
             {% for cat in category %}

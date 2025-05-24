@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% if title %}{{ title }} - {% endif %}Garagem do Madeira</title>
+    <title>{% if title %}{{ title|cleanTitle }} - {% endif %}Garagem do Madeira</title>
     <meta name="description"
         content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Seu portal de notícias automotivas{% endif %}">
     <meta name="keywords"

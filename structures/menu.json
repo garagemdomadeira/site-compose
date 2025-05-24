@@ -7,6 +7,12 @@
             "icon": "house"
         },
         {
+            "id": "todos-posts",
+            "label": "Todos os Posts",
+            "url": "all-posts.html",
+            "icon": "list-ul"
+        },
+        {
             "id": "noticias",
             "label": "Notícias",
             "url": "noticias.html",

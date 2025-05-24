@@ -1,3 +1,4 @@
+/* styles.css */
 /* Importação de fontes */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 /* Estilos personalizados */
@@ -336,3 +337,40 @@ body {
     border: 0;
     border-top: 1px solid #dee2e6;
 }
+
+
+/* embeds.css */
+.youtube-embed {
+    width: 1920px;
+    height: 1080px;
+    max-width: 100%;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+.youtube-embed iframe {
+    width: 1920px;
+    height: 1080px;
+    max-width: 100%;
+    max-height: calc(100vw * 0.5625);
+    /* Mantém proporção 16:9 baseada na largura da tela */
+    border: 0;
+}
+
+/* Media query para telas menores que 1920px */
+@media screen and (max-width: 1920px) {
+    .youtube-embed {
+        width: 100%;
+        height: auto;
+    }
+
+    .youtube-embed iframe {
+        width: 100%;
+        height: calc(100vw * 0.5625);
+        /* Mantém proporção 16:9 */
+    }
+}
+

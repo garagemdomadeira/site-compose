@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <h1 class="mb-4">Todos os Posts</h1>
+
+    {% for year in sortedYears %}
+    <div class="year-section mb-5">
+        <h2 class="border-bottom pb-2 mb-4">{{ year }}</h2>
+
+        {% for monthIndex in range(11, -1, -1) %}
+        {% if postsByYear[year][monthIndex] %}
+        <div class="month-section mb-4">
+            <h3 class="h4 text-muted mb-3">{{ months[monthIndex] }}</h3>
+            <div class="row">
+                {% for post in postsByYear[year][monthIndex] %}
+                {% set monthNum = monthIndex + 1 %}
+                {% if monthNum < 10 %} {% set monthStr='0' ~ monthNum %} {% else %} {% set monthStr=monthNum %} {% endif
+                    %} <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100">
+                        {% if post.mainImage %}
+                        <img src="{{ post.mainImage }}" class="card-img-top" alt="{{ post.title|cleanTitle }}">
+                        {% endif %}
+                        <div class="card-body">
+                            <h5 class="card-title">{{ post.title|cleanTitle }}</h5>
+                            <p class="card-text text-muted">
+                                <small>{{ post.date|date("d/m/Y") }}</small>
+                            </p>
+                            <a href="{{ post.link }}" class="btn btn-primary">Ler mais</a>
+                        </div>
+                    </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+{% endfor %}
+</div>
+{% endblock %}

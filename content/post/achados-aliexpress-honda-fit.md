@@ -1,0 +1,33 @@
+---
+title: "Achados AliExpress Honda Fit"
+date: "2023-10-25"
+coverImage: "dallc2b7e-2023-11-01-18.07.34-photo-in-1920x1080-resolution-showcasing-a-front-view-of-a-first-generation-white-honda-fit-against-the-backdrop-of-a-massive-chinese-flag.-multiple-p.png"
+---
+
+[![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-24-as-10.48.52.jpg?w=640)](https://s.click.aliexpress.com/e/_DCjzwUT)
+
+Luzes de teto para Honda Fit
+
+[![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-25-as-09.40.40.jpg?w=574)](https://pt.aliexpress.com/item/1005002418157836.html)
+
+**60 grampos diversos para Honda Fit**
+
+Todo mundo precisa ter isso guardado para eventual quebra ao fazer algum serviço.
+
+[![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-25-as-09.45.24.jpg?w=573)](https://s.click.aliexpress.com/e/_DkxS9Cb)
+
+**Tampa do radiador com protetor térmico**
+
+A mais próxima do padrão original, com proteção para não queimar as mãos.
+
+[![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-25-as-10.00.49.jpg?w=525)](https://s.click.aliexpress.com/e/_DDJhGYP)
+
+**Trava elétrica do porta-malas**
+
+Existem várias unidades que já apresentam problema, é fácil fazer a substituição.
+
+[![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-25-as-10.36.43.jpg?w=520)](https://s.click.aliexpress.com/e/_DltsPaR)
+
+**Botões do ar condicionado**
+
+Muito mais estilosos que os originais.

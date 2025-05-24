@@ -1,6 +1,6 @@
 ---
 title: "Honda CR-V - Montagem pós pintura"
-date: "2023-07-28"
+date: "2023-07-15"
 categories: 
   - "honda-cr-v"
   - "procedimentos"
@@ -9,7 +9,6 @@ tags:
   - "honda"
   - "honda-crv"
   - "manutencao"
-coverImage: "crv3.jpeg"
 ---
 
 https://www.youtube.com/watch?v=CctzkRoFkBE

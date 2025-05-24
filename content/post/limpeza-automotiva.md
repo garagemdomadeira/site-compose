@@ -1,7 +1,6 @@
 ---
 title: "Limpeza automotiva"
 date: "2023-11-01"
-coverImage: "dallc2b7e-2023-11-01-17.51.37-high-resolution-photograph-showcasing-a-hand-firmly-gripping-an-automotive-cleaning-brush-as-it-scrubs-a-component-of-a-vehicle.-the-scene-is-well-li.png"
 ---
 
 Deixei uma lista dos produtos que utilizo na limpeza e cuidado com meus carros. A missão é facilitar quem está perdido e não sabe quais produtos comprar para cuidados básicos, nada muito profissional.

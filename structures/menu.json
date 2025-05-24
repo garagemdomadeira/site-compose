@@ -13,27 +13,9 @@
             "icon": "list-ul"
         },
         {
-            "id": "noticias",
-            "label": "Notícias",
-            "url": "noticias.html",
-            "icon": "newspaper"
-        },
-        {
-            "id": "reviews",
-            "label": "Reviews",
-            "url": "reviews.html",
-            "icon": "star"
-        },
-        {
-            "id": "eventos",
-            "label": "Eventos",
-            "url": "eventos.html",
-            "icon": "calendar"
-        },
-        {
             "id": "sobre",
             "label": "Sobre",
-            "url": "sobre.html",
+            "url": "/2021/03/about/",
             "icon": "info-circle"
         },
         {

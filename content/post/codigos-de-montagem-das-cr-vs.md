@@ -1,11 +1,10 @@
 ---
-title: "Códigos de montagem das CR-Vs."
-date: "2021-09-06"
+title: "Códigos de montagem das CR-Vs"
+date: "2021-09-15"
 categories: 
   - "honda-cr-v"
 tags: 
   - "manutencao"
-coverImage: "crv.jpeg"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/09/header_qualquer.jpg?w=1024)

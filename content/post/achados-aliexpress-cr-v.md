@@ -1,7 +1,6 @@
 ---
-title: "Achados AliExpress - CR-V"
+title: "Achados AliExpress CR-V"
 date: "2023-10-25"
-coverImage: "dallc2b7e-2023-11-01-18.04.23-photo-in-1920x1080-resolution-showcasing-a-front-view-of-a-white-2010-honda-cr-v-against-the-backdrop-of-a-massive-chinese-flag.-multiple-packages-are.png"
 ---
 
 Uma coletânea de itens que fico garimpando no AliExpress e que acho que poderia ser útil para você.

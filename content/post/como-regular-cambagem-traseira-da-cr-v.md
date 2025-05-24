@@ -1,6 +1,6 @@
 ---
-title: "Como \"regular\" cambagem traseira da CR-V"
-date: "2021-03-25"
+title: "Como regular cambagem traseira da CR-V"
+date: "2021-03-15"
 categories: 
   - "honda-cr-v"
   - "procedimentos"

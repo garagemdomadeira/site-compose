@@ -1,6 +1,6 @@
 ---
-title: "Minhas experiências após REMAP"
-date: "2022-01-28"
+title: "Minhas experiências após remap"
+date: "2022-01-15"
 categories: 
   - "honda-cr-v"
   - "procedimentos"
@@ -11,7 +11,6 @@ tags:
   - "reflash"
   - "remap"
   - "teste"
-coverImage: "motor.jpeg"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2022/01/header_remap-1.jpeg?w=1024)

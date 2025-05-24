@@ -1,7 +1,7 @@
 {# Destaque principal (full-width) #}
 {% if section.layout == "full-width" %}
 <div class="card mb-4">
-    <img src="{{ section.data.image }}" class="card-img-top" alt="{{ section.data.title }}">
+    <img src="{{ section.data.mainImage or section.data.image }}" class="card-img-top" alt="{{ section.data.title }}">
     <div class="card-body">
         <h2 class="card-title">{{ section.data.title }}</h2>
         <p class="card-text">{{ section.data.description }}</p>
@@ -18,7 +18,7 @@
         {% for item in section.items %}
         <div class="col-md-{{ 12 // (section.layout == 'two-columns' and 2 or 4) }} mb-3">
             <div class="card h-100">
-                <img src="{{ item.image }}" class="card-img-top" alt="{{ item.title }}">
+                <img src="{{ item.mainImage or item.image }}" class="card-img-top" alt="{{ item.title }}">
                 <div class="card-body">
                     <h3 class="card-title">{{ item.title }}</h3>
                     <p class="card-text">{{ item.description }}</p>

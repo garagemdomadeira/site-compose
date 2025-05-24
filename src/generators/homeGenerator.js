@@ -9,6 +9,7 @@ import path from 'path';
 import { outputDir, env } from '../utils/config.js';
 import { readStructure, readMenu, cleanOutput, copyStaticFiles } from '../services/fileService.js';
 import { fileExists } from '../utils/fileExists.js';
+import { detectMainImage } from '../utils/postImage.js';
 
 const defaultImage = '/assets/default_image.jpg';
 
@@ -30,13 +31,13 @@ async function ensureImageExists(image, postLink) {
 async function processSections(sections) {
     // Percorre todas as seções e ajusta as imagens
     return Promise.all(sections.map(async section => {
-        if (section.data && section.data.image && section.data.link) {
-            section.data.image = await ensureImageExists(section.data.image, section.data.link);
+        if (section.data && section.data.slug) {
+            section.data.mainImage = detectMainImage(section.data);
         }
         if (section.items) {
             section.items = await Promise.all(section.items.map(async item => {
-                if (item.image && item.link) {
-                    item.image = await ensureImageExists(item.image, item.link);
+                if (item.slug) {
+                    item.mainImage = detectMainImage(item);
                 }
                 return item;
             }));

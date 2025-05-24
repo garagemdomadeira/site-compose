@@ -23,25 +23,16 @@ const env = nunjucks.configure(templatesDir, {
     noCache: true
 });
 
-/**
- * Filtro de data para o Nunjucks
- * @param {string} str - String de entrada (não utilizada)
- * @param {string} format - Formato da data (não utilizado)
- * @returns {string} Ano atual como string
- */
+// Filtro para remover aspas do título
+env.addFilter('cleanTitle', function(str) {
+    if (!str) return '';
+    return str.replace(/^['"]|['"]$/g, '');
+});
+
+// Filtro de data para o Nunjucks
 env.addFilter('date', function(str, format) {
     const date = new Date();
     return date.getFullYear().toString();
-});
-
-/**
- * Filtro para remover aspas do título
- * @param {string} str - String de entrada
- * @returns {string} String sem aspas
- */
-env.addFilter('cleanTitle', function(str) {
-    if (!str) return '';
-    return str.replace(/^["']|["']$/g, '');
 });
 
 export {

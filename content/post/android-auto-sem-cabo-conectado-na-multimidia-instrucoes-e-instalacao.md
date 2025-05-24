@@ -1,6 +1,6 @@
 ---
-title: "ANDROID AUTO SEM CABO CONECTADO NA MULTIMÍDIA INSTRUÇÕES E INSTALAÇÃO"
-date: "2024-01-26"
+title: "Android Auto sem cabo conectado na multimídia - Instruções e instalação"
+date: "2024-01-15"
 categories: 
   - "honda-cr-v"
   - "multimidia"
@@ -8,7 +8,6 @@ tags:
   - "android"
   - "android-auto"
   - "multimidia"
-coverImage: "android-auto.png"
 ---
 
 <!--more-->

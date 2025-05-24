@@ -1,7 +1,6 @@
 ---
-title: "Ofertas diversas"
-date: "2023-10-24"
-coverImage: "e702f200-779a-4e03-b0f2-8d8e0a3bf3bb.webp"
+title: "Ofertas do AliExpress"
+date: "2023-10-15"
 ---
 
 > Deixando aqui alguns bons produtos que achei bastante úteis no meu dia a dia.  

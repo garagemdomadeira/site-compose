@@ -23,6 +23,6 @@ E durante essees desafios eu tenho aprendido muita coisa, e tenho visto que, ao 
 
 Youtube: [https://www.youtube.com/@garagemdomadeira](https://www.youtube.com/@garagemdomadeira)
 
-Telegram: https://t.me/garagemdomadeira
+Whatsapp: https://forms.gle/gWwDVjJLBVsVCbZ48
 
 Instagram: https://Instagram.com/garagemdomadeira

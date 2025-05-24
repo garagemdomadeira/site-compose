@@ -9,6 +9,7 @@ import { generateContentPages } from './generators/contentGenerator.js';
 import { generateAllPostsPage } from './generators/allPostsGenerator.js';
 import { readMarkdownFiles } from './services/contentService.js';
 import { readMenu } from './services/fileService.js';
+import { copyImagesToOutput } from './services/imageService.js';
 
 /**
  * Função principal que coordena a geração do site
@@ -22,6 +23,9 @@ async function main() {
         // Carrega dados necessários
         const posts = await readMarkdownFiles();
         const menu = await readMenu();
+        
+        // Copia as imagens para output/media
+        await copyImagesToOutput(posts);
         
         // Gera as páginas
         await generateHomePage();

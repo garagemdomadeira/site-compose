@@ -1,7 +1,6 @@
 ---
-title: "Achados AliExpress Honda Fit"
+title: "Ferramentas que eu uso e aprovo"
 date: "2023-10-25"
-coverImage: "dallc2b7e-2023-11-01-18.07.34-photo-in-1920x1080-resolution-showcasing-a-front-view-of-a-first-generation-white-honda-fit-against-the-backdrop-of-a-massive-chinese-flag.-multiple-p.png"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-24-as-10.48.52.jpg?w=640)](https://s.click.aliexpress.com/e/_DCjzwUT)

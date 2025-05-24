@@ -1,6 +1,6 @@
 ---
-title: "CAMERA 360 PARTE 3"
-date: "2024-04-26"
+title: "Câmera 360 - Parte 3"
+date: "2024-04-15"
 categories: 
   - "kia-sportage"
   - "multimidia"
@@ -10,7 +10,6 @@ tags:
   - "cr-v"
   - "destaque"
   - "sportage"
-coverImage: "videocapture_20240420-214722-1.jpg"
 ---
 
 <!--more-->

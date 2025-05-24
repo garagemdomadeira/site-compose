@@ -1,7 +1,6 @@
 ---
 title: "Multimídias Lelong"
-date: "2024-11-11"
-coverImage: "d_nq_np_2x_822374-mlb75347830675_032024-f.webp"
+date: "2024-11-15"
 ---
 
 Lista das principais multimídias da Lelong. Para quem está na dúvida de qual multimídia comprar, listei as especificações principais, o tamanho da tela, memória e caso queiram usar o sistema de câmera 360, vejam se possui suporte:

@@ -1,7 +1,6 @@
 ---
 title: "Itens de revisão Kia Sportage"
-date: "2024-09-23"
-coverImage: "youtube-16.png"
+date: "2024-09-15"
 ---
 
 Reuni aqui os produtos que eu utilizo durante as revisões, vou marcar também o período de cada troca para facilitar a sua vida. Conforme eu for incluindo os demais vídeos essa lista vai ser atualizada.

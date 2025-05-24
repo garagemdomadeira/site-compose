@@ -11,25 +11,8 @@ import { readMenu } from '../services/fileService.js';
 import { readMarkdownFiles } from '../services/contentReader.js';
 import { generatePostLink } from '../utils/postLink.js';
 import { detectMainImage } from '../utils/postImage.js';
-import { fileExists } from '../utils/fileExists.js';
 
 const defaultImage = '/assets/default_image.jpg';
-
-async function getMainImage(post) {
-    const mainImage = detectMainImage(post);
-    if (mainImage && !mainImage.startsWith('http')) {
-        // Espera-se que a imagem esteja em output/ano/mes/slug/images/nome.jpg
-        const date = new Date(post.date);
-        const year = date.getFullYear().toString();
-        const month = (date.getMonth() + 1).toString().padStart(2, '0');
-        const postDir = path.join(outputDir, year, month, post.slug, 'images');
-        const imagePath = path.join(postDir, path.basename(mainImage));
-        if (await fileExists(imagePath)) {
-            return mainImage;
-        }
-    }
-    return defaultImage;
-}
 
 /**
  * Gera a página que lista todos os posts
@@ -53,11 +36,11 @@ export async function generateAllPostsPage() {
         ]);
 
         // Adiciona o campo link e mainImage em cada post
-        const postsWithLinks = await Promise.all(posts.map(async post => ({
+        const postsWithLinks = posts.map(post => ({
             ...post,
             link: generatePostLink(post),
-            mainImage: await getMainImage(post)
-        })));
+            mainImage: detectMainImage(post)
+        }));
 
         // Organiza os posts por ano e mês
         const postsByYear = postsWithLinks.reduce((acc, post) => {

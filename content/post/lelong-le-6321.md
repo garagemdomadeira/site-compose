@@ -7,7 +7,6 @@ categories:
 tags: 
   - "destaque"
   - "honda"
-coverImage: "screenshot-2024-07-12-as-18.18.55.jpg"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2024/07/screenshot-2024-07-12-as-18.18.55.jpg?w=606)](https://mercadolivre.com/sec/11s8Chp)

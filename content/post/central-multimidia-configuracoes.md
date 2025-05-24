@@ -1,6 +1,6 @@
 ---
-title: "Central multimídia - Configurações"
-date: "2023-07-28"
+title: "Central Multimídia - Configurações"
+date: "2023-07-15"
 categories: 
   - "honda-cr-v"
   - "multimidia"
@@ -9,7 +9,6 @@ tags:
   - "honda"
   - "honda-crv"
   - "manutencao"
-coverImage: "crv2.jpeg"
 ---
 
 https://youtu.be/OvLRIJ\_tKm4

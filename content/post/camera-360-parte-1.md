@@ -1,6 +1,6 @@
 ---
-title: "CAMERA 360 PARTE 1"
-date: "2024-04-05"
+title: "Câmera 360 - Parte 1"
+date: "2024-04-15"
 categories: 
   - "kia-sportage"
   - "multimidia"

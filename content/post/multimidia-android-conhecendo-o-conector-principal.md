@@ -1,11 +1,10 @@
 ---
-title: "MULTIMÍDIA ANDROID - CONHECENDO O CONECTOR PRINCIPAL"
-date: "2024-06-12"
+title: "Multimídia Android - Conhecendo o conector principal"
+date: "2024-06-15"
 categories: 
   - "multimidia"
 tags: 
   - "android"
-coverImage: "conector.jpg"
 ---
 
 https://youtu.be/tTd3Xy3o3RI

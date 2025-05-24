@@ -1,6 +1,6 @@
 ---
-title: "CR-V - Rodas e Pneus"
-date: "2021-09-06"
+title: "CR-V Rodas e Pneus"
+date: "2021-09-15"
 categories: 
   - "honda-cr-v"
   - "lista-de-pecas"
@@ -10,7 +10,6 @@ tags:
   - "pneu"
   - "roda"
   - "suspensao"
-coverImage: "roda.jpeg"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/09/header_rodas.jpg?w=1024)

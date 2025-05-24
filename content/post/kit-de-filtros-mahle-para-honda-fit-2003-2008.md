@@ -10,7 +10,6 @@ tags:
   - "filtro-de-cabine"
   - "honda"
   - "manutencao"
-coverImage: "filtro.jpeg"
 ---
 
 Olá pessoal, gostaria de mostrar pra vocês o kit de filtros mahle com todos os filtros para Honda Fit 2003-2008

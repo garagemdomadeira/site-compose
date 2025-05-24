@@ -1,0 +1,32 @@
+{# Destaque principal (full-width) #}
+{% if section.layout == "full-width" %}
+<div class="card mb-4">
+    <img src="{{ section.data.image }}" class="card-img-top" alt="{{ section.data.title }}">
+    <div class="card-body">
+        <h2 class="card-title">{{ section.data.title }}</h2>
+        <p class="card-text">{{ section.data.description }}</p>
+        <a href="{{ section.data.link }}" class="btn btn-primary">Leia mais</a>
+    </div>
+</div>
+{% endif %}
+
+{# Destaques em duas ou quatro colunas #}
+{% if section.layout == "two-columns" or section.layout == "four-columns" %}
+<div class="mb-4">
+    {% if section.title %}<h2 class="mb-3">{{ section.title }}</h2>{% endif %}
+    <div class="row">
+        {% for item in section.items %}
+        <div class="col-md-{{ 12 // (section.layout == 'two-columns' and 2 or 4) }} mb-3">
+            <div class="card h-100">
+                <img src="{{ item.image }}" class="card-img-top" alt="{{ item.title }}">
+                <div class="card-body">
+                    <h3 class="card-title">{{ item.title }}</h3>
+                    <p class="card-text">{{ item.description }}</p>
+                    <a href="{{ item.link }}" class="btn btn-outline-primary btn-sm">Leia mais</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}

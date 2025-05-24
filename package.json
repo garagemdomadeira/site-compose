@@ -1,0 +1,24 @@
+{
+  "name": "garagem_do_madeira",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/server.js",
+    "build": "node src/index.js",
+    "watch": "nodemon --watch src --watch structures --watch templates --ext js,json,html --exec 'npm run build'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Site de notícias automotivas Garagem do Madeira",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "nunjucks": "3.2.4"
+  }
+}

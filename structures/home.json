@@ -1,0 +1,148 @@
+{
+    "page": "home",
+    "title": "Garagem do Madeira - Notícias Automotivas",
+    "sections": [
+        {
+            "type": "highlight",
+            "component": "news-card",
+            "layout": "full-width",
+            "data": {
+                "image": "https://placehold.co/1200x600",
+                "title": "Título da Notícia Principal",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "link": "post.html"
+            }
+        },
+        {
+            "type": "highlights",
+            "component": "news-card",
+            "layout": "two-columns",
+            "title": "Destaques",
+            "items": [
+                {
+                    "image": "https://placehold.co/800x500",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/800x500",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "link": "post.html"
+                }
+            ]
+        },
+        {
+            "type": "products",
+            "component": "product-card",
+            "layout": "six-columns",
+            "title": "Produtos em Destaque",
+            "items": [
+                {
+                    "image": "https://placehold.co/300x300",
+                    "title": "Óleo de Motor",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/300x300",
+                    "title": "Filtro de Ar",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/300x300",
+                    "title": "Pastilha de Freio",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/300x300",
+                    "title": "Bateria",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/300x300",
+                    "title": "Pneu",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/300x300",
+                    "title": "Lâmpada",
+                    "link": "#"
+                }
+            ]
+        },
+        {
+            "type": "latest-news",
+            "component": "news-card",
+            "layout": "four-columns",
+            "title": "Últimas Notícias",
+            "items": [
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                }
+            ]
+        },
+        {
+            "type": "quote",
+            "component": "quote",
+            "layout": "full-width",
+            "data": {
+                "text": "A paixão por carros vai além do metal e da gasolina, é uma história de amor com a estrada.",
+                "author": "Garagem do Madeira"
+            }
+        },
+        {
+            "type": "more-news",
+            "component": "news-card",
+            "layout": "four-columns",
+            "title": "Mais Notícias",
+            "items": [
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "title": "Título da Notícia",
+                    "description": "Lorem ipsum dolor sit amet.",
+                    "link": "post.html"
+                }
+            ]
+        }
+    ]
+}

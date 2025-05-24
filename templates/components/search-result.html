@@ -1,0 +1,26 @@
+<!-- Search Result -->
+<div class="mb-4">
+    <h2 class="mb-3">{{ section.title }}</h2>
+    {% for item in section.items %}
+    <a href="{{ item.link }}" class="list-group-item list-group-item-action p-0 mb-3 bg-white rounded-3 shadow-sm">
+        <div class="row g-0">
+            <div class="col-md-3">
+                <img src="{{ item.image }}" class="img-fluid rounded-start h-100" style="object-fit: cover;"
+                    alt="{{ item.title }}">
+            </div>
+            <div class="col-md-9">
+                <div class="p-4">
+                    <div class="d-flex gap-2 mb-2">
+                        {% for category in item.categories %}
+                        <span class="badge bg-primary">{{ category }}</span>
+                        {% endfor %}
+                    </div>
+                    <h3 class="h4 fw-bold mb-2">{{ item.title }}</h3>
+                    <p class="mb-2">{{ item.description }}</p>
+                    <small class="text-muted">{{ item.date }} • {{ item.readingTime }}</small>
+                </div>
+            </div>
+        </div>
+    </a>
+    {% endfor %}
+</div>

@@ -1,0 +1,12 @@
+<!-- Breadcrumb -->
+<nav aria-label="breadcrumb" class="mb-4">
+    <ol class="breadcrumb">
+        {% for item in section.items %}
+        {% if item.active %}
+        <li class="breadcrumb-item active" aria-current="page">{{ item.text }}</li>
+        {% else %}
+        <li class="breadcrumb-item"><a href="{{ item.link }}" class="text-decoration-none">{{ item.text }}</a></li>
+        {% endif %}
+        {% endfor %}
+    </ol>
+</nav>

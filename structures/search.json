@@ -1,0 +1,81 @@
+{
+    "page": "search",
+    "title": "Resultados da busca: {query} - Garagem do Madeira",
+    "sections": [
+        {
+            "type": "breadcrumb",
+            "component": "breadcrumb",
+            "items": [
+                {
+                    "text": "Home",
+                    "link": "index.html"
+                },
+                {
+                    "text": "Resultados da busca",
+                    "active": true
+                }
+            ]
+        },
+        {
+            "type": "search-results",
+            "component": "search-result",
+            "title": "Resultados da busca para \"{query}\"",
+            "items": [
+                {
+                    "image": "https://placehold.co/400x300",
+                    "categories": [
+                        "Novidades",
+                        "Toyota"
+                    ],
+                    "title": "Novo Toyota Corolla 2024: Design Moderno e Tecnologia Avançada",
+                    "description": "A Toyota revelou o novo Corolla 2024 com um design completamente renovado e uma série de atualizações tecnológicas que prometem revolucionar o segmento de sedãs médios.",
+                    "date": "15 de Março, 2024",
+                    "readingTime": "5 min de leitura",
+                    "link": "post.html"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "categories": [
+                        "Preços",
+                        "Toyota"
+                    ],
+                    "title": "Toyota anuncia preços do novo Corolla 2024",
+                    "description": "Confira a tabela de preços e as versões disponíveis do novo Toyota Corolla 2024, que chega ao mercado com preços a partir de R$ 145.900.",
+                    "date": "14 de Março, 2024",
+                    "readingTime": "3 min de leitura",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "categories": [
+                        "Comparativo",
+                        "Toyota"
+                    ],
+                    "title": "Comparativo: Corolla vs. Honda Civic",
+                    "description": "Análise detalhada entre os dois sedãs mais vendidos do mercado brasileiro. Confira qual modelo oferece melhor custo-benefício.",
+                    "date": "13 de Março, 2024",
+                    "readingTime": "7 min de leitura",
+                    "link": "#"
+                },
+                {
+                    "image": "https://placehold.co/400x300",
+                    "categories": [
+                        "Teste",
+                        "Toyota"
+                    ],
+                    "title": "Teste: Corolla 2024 na estrada",
+                    "description": "Impressões após 1000km de rodagem com o novo Toyota Corolla 2024. Confira como o sedã se comporta em diferentes situações.",
+                    "date": "12 de Março, 2024",
+                    "readingTime": "6 min de leitura",
+                    "link": "#"
+                }
+            ],
+            "pagination": {
+                "current": 1,
+                "total": 3,
+                "hasPrevious": false,
+                "hasNext": true
+            }
+        }
+    ]
+}

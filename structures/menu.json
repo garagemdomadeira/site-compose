@@ -1,0 +1,40 @@
+{
+    "menuItems": [
+        {
+            "id": "home",
+            "label": "Home",
+            "url": "index.html",
+            "icon": "house"
+        },
+        {
+            "id": "noticias",
+            "label": "Notícias",
+            "url": "noticias.html",
+            "icon": "newspaper"
+        },
+        {
+            "id": "reviews",
+            "label": "Reviews",
+            "url": "reviews.html",
+            "icon": "star"
+        },
+        {
+            "id": "eventos",
+            "label": "Eventos",
+            "url": "eventos.html",
+            "icon": "calendar"
+        },
+        {
+            "id": "sobre",
+            "label": "Sobre",
+            "url": "sobre.html",
+            "icon": "info-circle"
+        },
+        {
+            "id": "contato",
+            "label": "Contato",
+            "url": "contato.html",
+            "icon": "envelope"
+        }
+    ]
+}

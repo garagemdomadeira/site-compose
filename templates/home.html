@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h1 class="display-4 mb-4">{{ title }}</h1>
+        <p class="lead">{{ description }}</p>
+    </div>
+</div>
+
+<div class="row mt-4">
+    {% for section in sections %}
+    <div class="col-12 mb-4">
+        {% include "components/" + section.component + ".html" %}
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

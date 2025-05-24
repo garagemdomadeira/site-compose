@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="content">
+    <header class="mb-4">
+        <h1 class="display-4">{{ title }}</h1>
+        {% if category %}
+        <div class="mb-2">
+            {% for cat in category %}
+            <span class="badge bg-primary me-2">{{ cat }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+        {% if tags %}
+        <div class="mb-3">
+            {% for tag in tags %}
+            <span class="badge bg-secondary me-2">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </header>
+
+    <div class="content-body">
+        {% for block in content %}
+        {% if block.type == 'paragraph' %}
+        <div class="mb-4">
+            {{ block.content | safe }}
+        </div>
+        {% elif block.type == 'heading' %}
+        {{ block.content | safe }}
+        {% elif block.type == 'image' %}
+        <figure class="mb-4">
+            {% if block.content %}
+            <img src="{{ block.content }}" alt="{{ block.params.alt }}" class="img-fluid">
+            {% endif %}
+            {% if block.params.caption %}
+            <figcaption class="text-muted mt-2">{{ block.params.caption }}</figcaption>
+            {% endif %}
+        </figure>
+        {% elif block.type == 'table' %}
+        <div class="table-responsive mb-4">
+            {{ block.content | safe }}
+        </div>
+        {% elif block.type == 'separator' %}
+        <hr class="my-4">
+        {% elif block.type == 'more' %}
+        <div class="more-content">
+            {{ block.content | safe }}
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+
+    {% if destaques %}
+    <div class="highlights mt-4 p-4 bg-light rounded">
+        <h3>Destaques</h3>
+        <ul class="list-unstyled">
+            {% for destaque in destaques %}
+            <li class="mb-2">
+                <i class="bi bi-check-circle-fill text-success me-2"></i>
+                {{ destaque }}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</article>
+{% endblock %}

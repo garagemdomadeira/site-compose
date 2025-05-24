@@ -18,37 +18,16 @@
             {% endfor %}
         </div>
         {% endif %}
+        {% if date %}
+        <div class="text-muted mb-3">
+            <i class="bi bi-calendar3 me-2"></i>
+            {{ date }}
+        </div>
+        {% endif %}
     </header>
 
     <div class="content-body">
-        {% for block in content %}
-        {% if block.type == 'paragraph' %}
-        <div class="mb-4">
-            {{ block.content | safe }}
-        </div>
-        {% elif block.type == 'heading' %}
-        {{ block.content | safe }}
-        {% elif block.type == 'image' %}
-        <figure class="mb-4">
-            {% if block.content %}
-            <img src="{{ block.content }}" alt="{{ block.params.alt }}" class="img-fluid">
-            {% endif %}
-            {% if block.params.caption %}
-            <figcaption class="text-muted mt-2">{{ block.params.caption }}</figcaption>
-            {% endif %}
-        </figure>
-        {% elif block.type == 'table' %}
-        <div class="table-responsive mb-4">
-            {{ block.content | safe }}
-        </div>
-        {% elif block.type == 'separator' %}
-        <hr class="my-4">
-        {% elif block.type == 'more' %}
-        <div class="more-content">
-            {{ block.content | safe }}
-        </div>
-        {% endif %}
-        {% endfor %}
+        {{ content | safe }}
     </div>
 
     {% if destaques %}

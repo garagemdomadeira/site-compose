@@ -2,6 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import nunjucks from 'nunjucks';
+import { marked } from 'marked';
 
 // Configuração de diretórios
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -9,7 +10,8 @@ const rootDir = path.resolve(__dirname, '..');
 const outputDir = path.join(rootDir, 'output');
 const structuresDir = path.join(rootDir, 'structures');
 const templatesDir = path.join(rootDir, 'templates');
-const contentDir = path.join(rootDir, 'content');
+const contentDir = path.join(rootDir, 'content', 'post');
+const mediaDir = path.join(rootDir, 'media');
 
 // Configuração do Nunjucks
 const env = nunjucks.configure(templatesDir, {
@@ -22,6 +24,97 @@ env.addFilter('date', function(str, format) {
     const date = new Date();
     return date.getFullYear().toString();
 });
+
+// Função para extrair metadados do frontmatter do Markdown
+function extractFrontmatter(content) {
+    const frontmatterRegex = /^---\n([\s\S]*?)\n---/;
+    const match = content.match(frontmatterRegex);
+    
+    if (match) {
+        const frontmatter = match[1];
+        const metadata = {};
+        
+        frontmatter.split('\n').forEach(line => {
+            const [key, ...values] = line.split(':');
+            if (key && values.length > 0) {
+                metadata[key.trim()] = values.join(':').trim();
+            }
+        });
+        
+        // Garante que a data está no formato correto
+        if (metadata.date) {
+            const date = new Date(metadata.date);
+            metadata.year = date.getFullYear().toString();
+            metadata.month = (date.getMonth() + 1).toString().padStart(2, '0');
+        }
+        
+        return {
+            metadata,
+            content: content.slice(match[0].length).trim()
+        };
+    }
+    
+    return {
+        metadata: {},
+        content
+    };
+}
+
+// Função para encontrar imagem na pasta media
+async function findImageInMedia(imageName) {
+    try {
+        // Lista todos os anos
+        const years = await fs.readdir(mediaDir);
+        
+        for (const year of years) {
+            const yearPath = path.join(mediaDir, year);
+            const months = await fs.readdir(yearPath);
+            
+            for (const month of months) {
+                const monthPath = path.join(yearPath, month);
+                const files = await fs.readdir(monthPath);
+                
+                // Procura por arquivos que contenham o nome da imagem
+                const matchingFile = files.find(file => file.includes(imageName));
+                if (matchingFile) {
+                    return path.join(monthPath, matchingFile);
+                }
+            }
+        }
+        return null;
+    } catch (error) {
+        console.error('❌ Erro ao procurar imagem:', error);
+        return null;
+    }
+}
+
+// Função para copiar imagens do post
+async function copyPostImages(content, outputPath) {
+    try {
+        // Cria pasta de imagens no diretório de saída
+        const imagesDir = path.join(outputPath, 'images');
+        await fs.mkdir(imagesDir, { recursive: true });
+
+        // Procura por links de imagens no Markdown
+        const imageRegex = /!\[.*?\]\((.*?)\)/g;
+        let match;
+        
+        while ((match = imageRegex.exec(content)) !== null) {
+            const imagePath = match[1];
+            const imageName = path.basename(imagePath);
+            
+            // Procura a imagem na pasta media
+            const mediaImagePath = await findImageInMedia(imageName);
+            if (mediaImagePath) {
+                // Copia a imagem para a pasta de saída
+                await fs.copyFile(mediaImagePath, path.join(imagesDir, imageName));
+                console.log(`✅ Imagem ${imageName} copiada com sucesso`);
+            }
+        }
+    } catch (error) {
+        console.error('❌ Erro ao copiar imagens do post:', error);
+    }
+}
 
 // Função para limpar a pasta output
 async function cleanOutput() {
@@ -59,21 +152,28 @@ async function readMenu() {
     }
 }
 
-// Função para ler todos os arquivos de conteúdo
-async function readContentFiles() {
+// Função para ler todos os arquivos Markdown
+async function readMarkdownFiles() {
     try {
         const files = await fs.readdir(contentDir);
-        const contentFiles = files.filter(file => file.endsWith('.json'));
-        const contents = await Promise.all(
-            contentFiles.map(async file => {
+        const markdownFiles = files.filter(file => file.endsWith('.md'));
+        const posts = await Promise.all(
+            markdownFiles.map(async file => {
                 const content = await fs.readFile(path.join(contentDir, file), 'utf-8');
-                return JSON.parse(content);
+                const { metadata, content: markdownContent } = extractFrontmatter(content);
+                const html = marked(markdownContent);
+                
+                return {
+                    ...metadata,
+                    content: html,
+                    slug: path.basename(file, '.md')
+                };
             })
         );
-        console.log(`✅ ${contents.length} arquivos de conteúdo carregados com sucesso`);
-        return contents;
+        console.log(`✅ ${posts.length} arquivos Markdown carregados com sucesso`);
+        return posts;
     } catch (error) {
-        console.error('❌ Erro ao ler arquivos de conteúdo:', error);
+        console.error('❌ Erro ao ler arquivos Markdown:', error);
         throw error;
     }
 }
@@ -131,23 +231,26 @@ async function generateHomePage() {
 // Função para gerar páginas de conteúdo
 async function generateContentPages() {
     try {
-        const contents = await readContentFiles();
+        const posts = await readMarkdownFiles();
         const menu = await readMenu();
 
-        for (const content of contents) {
+        for (const post of posts) {
             const pageData = {
-                ...content,
+                ...post,
                 menu
             };
 
-            // Cria o diretório se não existir
-            const contentDir = path.join(outputDir, content.slug);
-            await fs.mkdir(contentDir, { recursive: true });
+            // Cria a estrutura de diretórios ano/mês/post
+            const postDir = path.join(outputDir, post.year, post.month, post.slug);
+            await fs.mkdir(postDir, { recursive: true });
+
+            // Copia as imagens do post
+            await copyPostImages(post.content, postDir);
 
             // Renderiza o template de conteúdo
             const html = nunjucks.render('content.html', pageData);
-            await fs.writeFile(path.join(contentDir, 'index.html'), html);
-            console.log(`✅ Página ${content.slug} gerada com sucesso`);
+            await fs.writeFile(path.join(postDir, 'index.html'), html);
+            console.log(`✅ Página ${post.year}/${post.month}/${post.slug} gerada com sucesso`);
         }
     } catch (error) {
         console.error('❌ Erro ao gerar páginas de conteúdo:', error);

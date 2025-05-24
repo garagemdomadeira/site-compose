@@ -6,6 +6,9 @@
 
 import { generateHomePage } from './generators/homeGenerator.js';
 import { generateContentPages } from './generators/contentGenerator.js';
+import { generateAllPostsPage } from './generators/allPostsGenerator.js';
+import { readMarkdownFiles } from './services/contentService.js';
+import { readMenu } from './services/fileService.js';
 
 /**
  * Função principal que coordena a geração do site
@@ -15,8 +18,16 @@ import { generateContentPages } from './generators/contentGenerator.js';
 async function main() {
     try {
         console.log('🚀 Iniciando geração de páginas...');
+        
+        // Carrega dados necessários
+        const posts = await readMarkdownFiles();
+        const menu = await readMenu();
+        
+        // Gera as páginas
         await generateHomePage();
         await generateContentPages();
+        await generateAllPostsPage(posts, menu);
+        
         console.log('✨ Geração de páginas concluída com sucesso!');
     } catch (error) {
         console.error('❌ Erro durante a geração de páginas:', error);

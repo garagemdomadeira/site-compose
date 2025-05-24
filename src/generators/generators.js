@@ -6,4 +6,5 @@
 
 export { generatePage } from './pageGenerator.js';
 export { generatePost } from './postGenerator.js';
-export { generateFeed, generateSitemap } from './feedGenerator.js'; 
+export { generateFeed, generateSitemap } from './feedGenerator.js';
+export { generateAllPostsPage } from './allPostsGenerator.js'; 

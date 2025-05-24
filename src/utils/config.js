@@ -34,6 +34,16 @@ env.addFilter('date', function(str, format) {
     return date.getFullYear().toString();
 });
 
+/**
+ * Filtro para remover aspas do título
+ * @param {string} str - String de entrada
+ * @returns {string} String sem aspas
+ */
+env.addFilter('cleanTitle', function(str) {
+    if (!str) return '';
+    return str.replace(/^["']|["']$/g, '');
+});
+
 export {
     rootDir,
     outputDir,

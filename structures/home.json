@@ -1,16 +1,15 @@
 {
     "page": "home",
-    "title": "Garagem do Madeira - Notícias Automotivas",
+    "title": "",
     "sections": [
         {
             "type": "highlight",
             "component": "news-card",
             "layout": "full-width",
             "data": {
-                "image": "https://placehold.co/1200x600",
-                "title": "Filtros para Honda CR-V 2007-2011",
-                "description": "Muitas pessoas têm dificuldade em encontrar os códigos alternativos para peças de manutenção rotineira de seus veículos, outros compram as peças e não conseguem saber se estão levando realmente aquilo que compraram. Por isso resolvi colocar um fim nessas questões de uma vez por todas.",
-                "link": "2021/03/filtros-par-honda-cr-v-2007-2011/index.html"
+                "title": "ATUALIZAÇOES DAS MULTIMÍDIAS",
+                "description": "Para atualizar as multimídias Lelong você precisa seguir alguns passos.",
+                "link": "2025/02/atualizacoes-das-multimidias/"
             }
         },
         {
@@ -20,31 +19,21 @@
             "title": "Destaques",
             "items": [
                 {
-                    "image": "https://placehold.co/800x500",
-                    "title": "COMO REMOVER PARACHOQUE HONDA FIT 2003-2008",
-                    "description": "Neste vídeo, você está prestes a desvendar o segredo por trás da remoção do para-choque do Honda Fit de primeira geração, produzido entre 2003 e 2008. Este procedimento é crucial para uma variedade de outras tarefas automotivas, desde reparos simples até personalizações mais complexas.",
-                    "link": "2021/09/como-remover-parachoque-honda-fit-2003-2008/index.html"
+                    "title": "MÓDULOS DE CONFORTO KIA SPORTAGE",
+                    "description": "Aqui estão os modelos Tury disponíveis, juntamente com a compatibilidade de cada um.",
+                    "link": "2025/03/modulos-de-conforto-kia-sportage/"
                 },
                 {
-                    "image": "https://placehold.co/800x500",
-                    "title": "Como regular os faróis da CR-V (2007-2011)",
-                    "description": "Item muito negligenciado pelos proprietários e até durante as revisões, os faróis do carro merecem atenção no que diz respeito aos ajustes dos fachos de luz. Vejamos como fazer o procedimento.",
-                    "link": "2021/08/como-regular-os-faróis-da-cr-v-(2007-2011)/index.html"
+                    "title": "GRUPO DE WHATSAPP",
+                    "description": "Conecte-se com outros apaixonados por carros",
+                    "link": "/grupo-de-whatsapp/"
                 },
                 {
-                    "image": "https://placehold.co/800x500",
                     "title": "Como 'regular' cambagem traseira da CR-V",
                     "description": "Suspensão traseira: um assunto cheio de controversas quando estamos falando da CR-V (principalmente nos modelos 2007 até 2016). Nesse post trago minha visão sobre regulagens, comportamentos e outros detalhes da suspensão.",
                     "link": "2021/05/como-regular-cambagem-traseira-da-cr-v/index.html"
                 },
                 {
-                    "image": "https://placehold.co/800x500",
-                    "title": "Códigos de montagem das CR-Vs.",
-                    "description": "Muita gente lê ou ouve pessoas dizendo que suas CR-Vs são do tipo RE3 ou RE5 e não fazem ideia da informação que estão recebendo. Mas agora suas dúvidas acabaram, vamos conferir aqui a tabela de aplicação desses códigos e o que eles querem dizer.",
-                    "link": "2021/04/codigos-de-montagem-das-cr-vs/index.html"
-                },
-                {
-                    "image": "https://placehold.co/800x500",
                     "title": "Conhecendo o modo SCS nos Honda.",
                     "description": "Nem sempre temos disponível um scanner para conectarmos na porta de diagnóstico quando passamos por problemas em nossos carros. Foi pensando nisso que a Honda elaborou um sistema muito prático que ajuda muito na hora de descobrir os famosos DTC's. Ficou curioso? Então continue na leitura.",
                     "link": "2021/03/conhecendo-o-modo-scs-nos-honda/index.html"
@@ -58,34 +47,34 @@
             "title": "Produtos em Destaque",
             "items": [
                 {
-                    "image": "https://placehold.co/300x300",
-                    "title": "Óleo de Motor",
-                    "link": "#"
+                    "title": "Racing Vision GT200",
+                    "link": "https://s.click.aliexpress.com/e/_DB9Zz0D",
+                    "image": "lampada-philips.png"
                 },
                 {
-                    "image": "https://placehold.co/300x300",
-                    "title": "Filtro de Ar",
-                    "link": "#"
+                    "title": "Lelong LE-6320",
+                    "link": "https://mercadolivre.com/sec/2xjscL6",
+                    "image": "multimidia-android-camera-360.jpg"
                 },
                 {
-                    "image": "https://placehold.co/300x300",
-                    "title": "Pastilha de Freio",
-                    "link": "#"
+                    "title": "Câmera 360",
+                    "link": "https://s.click.aliexpress.com/e/_DBv6AA5",
+                    "image": "camera-360.jpg"
                 },
                 {
-                    "image": "https://placehold.co/300x300",
-                    "title": "Bateria",
-                    "link": "#"
+                    "title": "Android Auto Box",
+                    "link": "https://s.click.aliexpress.com/e/_DecjYYT",
+                    "image": "android-auto-box.jpg"
                 },
                 {
-                    "image": "https://placehold.co/300x300",
-                    "title": "Pneu",
-                    "link": "#"
+                    "title": "Monitor de Pneus",
+                    "link": "https://s.click.aliexpress.com/e/_DDT9vTH",
+                    "image": "tpms.jpg"
                 },
                 {
-                    "image": "https://placehold.co/300x300",
-                    "title": "Lâmpada",
-                    "link": "#"
+                    "title": "Câmera de ré",
+                    "link": "https://s.click.aliexpress.com/e/_DFoSxlv",
+                    "image": "170-camera-re.jpg"
                 }
             ]
         },
@@ -96,25 +85,21 @@
             "title": "Últimas Notícias",
             "items": [
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
                 },
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
                 },
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
                 },
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
@@ -137,25 +122,21 @@
             "title": "Mais Notícias",
             "items": [
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
                 },
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
                 },
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"
                 },
                 {
-                    "image": "https://placehold.co/400x300",
                     "title": "Título da Notícia",
                     "description": "Lorem ipsum dolor sit amet.",
                     "link": "post.html"

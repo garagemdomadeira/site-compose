@@ -27,7 +27,7 @@ function sanitizeFileName(fileName) {
  * @returns {Promise<void>}
  */
 export async function copyImageOrUseDefault(imageName, postSlug, mediaDir, outputMediaDir) {
-    const sanitizedImageName = sanitizeFileName(imageName);
+    const sanitizedImageName = sanitizeFileName(postSlug + '.jpg');
     const sourcePath = path.join(mediaDir, sanitizedImageName);
     const targetPath = path.join(outputMediaDir, sanitizedImageName);
     
@@ -42,6 +42,7 @@ export async function copyImageOrUseDefault(imageName, postSlug, mediaDir, outpu
         await fs.access(sourcePath);
         
         await fs.copyFile(sourcePath, targetPath);
+        console.log(`📌 Copiando imagem: ${sourcePath} para ${targetPath}`);
         console.log(`\t✅ Imagem copiada: ${sanitizedImageName} para ${targetPath}`);
     } catch (error) {
         console.log(`\t⚠️ Erro ao copiar imagem ${sanitizedImageName}, usando imagem padrão`);

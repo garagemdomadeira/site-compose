@@ -7,8 +7,9 @@
 import { generateHomePage } from './generators/homeGenerator.js';
 import { generateContentPages } from './generators/contentGenerator.js';
 import { generateAllPostsPage } from './generators/allPostsGenerator.js';
+import { generateSitemap } from './generators/sitemapGenerator.js';
 import { readMarkdownFiles } from './services/contentService.js';
-import { readMenu } from './services/fileService.js';
+import { readMenu, cleanOutput } from './services/fileService.js';
 import { copyImagesToOutput } from './services/imageService.js';
 
 /**
@@ -19,6 +20,9 @@ import { copyImagesToOutput } from './services/imageService.js';
 async function main() {
     try {
         console.log('🚀 Iniciando geração de páginas...');
+        
+        // Limpa a pasta output no início do processo
+        await cleanOutput();
         
         // Carrega dados necessários
         const posts = await readMarkdownFiles();
@@ -31,6 +35,7 @@ async function main() {
         await generateHomePage();
         await generateContentPages();
         await generateAllPostsPage(posts, menu);
+        await generateSitemap();
         
         console.log('✨ Geração de páginas concluída com sucesso!');
     } catch (error) {

@@ -3,18 +3,21 @@
     <div class="row">
         {% for item in section.items %}
         <div class="col-6 col-md-4 col-lg-2 mb-3">
+            {% if item.link %}
+            <a href="{{ item.link }}" target="_blank" class="text-decoration-none text-dark">
+                {% endif %}
             <div class="card h-100 text-center">
-                <img src="{{ item.image }}" class="card-img-top p-3" alt="{{ item.title }}">
+                <img src="/media/{{ item.image }}" class="card-img-top p-3" alt="{{ item.title }}">
                 <div class="card-body">
                     <h6 class="card-title">{{ item.title }}</h6>
                     {% if item.description %}
                     <p class="card-text small">{{ item.description }}</p>
                     {% endif %}
-                    {% if item.link %}
-                    <a href="{{ item.link }}" class="btn btn-outline-secondary btn-sm">Ver produto</a>
-                    {% endif %}
                 </div>
-            </div>
+                </div>
+            {% if item.link %}
+            </a>
+            {% endif %}
         </div>
         {% endfor %}
     </div>

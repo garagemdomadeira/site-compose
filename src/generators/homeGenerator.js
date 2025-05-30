@@ -7,40 +7,33 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { outputDir, env } from '../utils/config.js';
-import { readStructure, readMenu, cleanOutput, copyStaticFiles } from '../services/fileService.js';
+import { readStructure, readMenu, copyStaticFiles } from '../services/fileService.js';
 import { fileExists } from '../utils/fileExists.js';
-import { detectMainImage } from '../utils/postImage.js';
 
-const defaultImage = '/assets/default_image.jpg';
+const defaultImage = '/media/default.jpg';
 
-async function ensureImageExists(image, postLink) {
-    if (!image) return defaultImage;
-    if (image.startsWith('http')) return image;
-    // Se for caminho relativo, verificar se existe na pasta do post
-    if (postLink) {
-        // postLink exemplo: 2021/09/como-remover-parachoque-honda-fit-2003-2008/index.html
-        const postDir = path.join(outputDir, postLink.replace('/index.html', ''), 'images');
-        const imagePath = path.join(postDir, path.basename(image));
-        if (await fileExists(imagePath)) {
-            return image;
-        }
-    }
-    return defaultImage;
+function getImageFromSlug(link) {
+    if (!link) return defaultImage;
+    // Extrai o slug do link (exemplo: 2021/03/filtros-par-honda-cr-v-2007-2011/index.html)
+    const parts = link.split('/');
+    // Remove o 'index.html' e pega o penúltimo elemento que é o slug
+    const slug = parts[parts.length - 2];
+    return `/media/${slug}.jpg`;
 }
 
 async function processSections(sections) {
     // Percorre todas as seções e ajusta as imagens
     return Promise.all(sections.map(async section => {
-        if (section.data && section.data.slug) {
-            section.data.mainImage = detectMainImage(section.data);
+        if (section.data && section.data.link && !section.data.image) {
+            section.data.image = getImageFromSlug(section.data.link);
         }
         if (section.items) {
-            section.items = await Promise.all(section.items.map(async item => {
-                if (item.slug) {
-                    item.mainImage = detectMainImage(item);
+            section.items = section.items.map(item => {
+                if (item.link && !item.image) {
+                    item.image = getImageFromSlug(item.link);
                 }
                 return item;
-            }));
+            });
         }
         return section;
     }));
@@ -53,9 +46,6 @@ async function processSections(sections) {
  */
 export async function generateHomePage() {
     try {
-        // Limpa a pasta output
-        await cleanOutput();
-
         // Copia os arquivos estáticos
         await copyStaticFiles();
 

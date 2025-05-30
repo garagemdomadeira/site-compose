@@ -6,6 +6,7 @@
             "type": "highlight",
             "component": "news-card",
             "layout": "full-width",
+            "published": false,
             "data": {
                 "title": "ATUALIZAÇOES DAS MULTIMÍDIAS",
                 "description": "Para atualizar as multimídias Lelong você precisa seguir alguns passos.",
@@ -16,6 +17,7 @@
             "type": "highlights",
             "component": "news-card",
             "layout": "two-columns",
+            "published": true,
             "title": "Destaques",
             "items": [
                 {
@@ -44,6 +46,7 @@
             "type": "products",
             "component": "product-card",
             "layout": "six-columns",
+            "published": true,
             "title": "Produtos em Destaque",
             "items": [
                 {
@@ -82,27 +85,28 @@
             "type": "latest-news",
             "component": "news-card",
             "layout": "four-columns",
-            "title": "Últimas Notícias",
+            "published": true,
+            "title": "Mais vistos",
             "items": [
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Atualizações das multimídias",
+                    "description": "Confira as atualizações das multimídias Lelong",
+                    "link": "/2025/02/atualizacoes-das-multimidias/"
                 },
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Honda Fit CVT 2007",
+                    "description": "Troquei o óleo do câmbio do meu Honda Fit",
+                    "link": "/2023/10/troca-fluido-cvt-honda-fit/"
                 },
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Suspensão do Kia Sportage",
+                    "description": "Confira a lista de peças da suspensão que eu usei no meu Kia Sportage",
+                    "link": "/2024/07/suspensao-kia-sportage-2015/"
                 },
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Suspensão do Honda Fit",
+                    "description": "Confira a lista de peças da suspensão que eu usei no meu Honda Fit",
+                    "link": "/2024/06/suspensao-honda-fit/"
                 }
             ]
         },
@@ -110,6 +114,7 @@
             "type": "quote",
             "component": "quote",
             "layout": "full-width",
+            "published": true,
             "data": {
                 "text": "A paixão por carros vai além do metal e da gasolina, é uma história de amor com a estrada.",
                 "author": "Garagem do Madeira"
@@ -119,6 +124,7 @@
             "type": "more-news",
             "component": "news-card",
             "layout": "four-columns",
+            "published": true,
             "title": "Mais Notícias",
             "items": [
                 {

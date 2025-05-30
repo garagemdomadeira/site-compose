@@ -7,14 +7,18 @@
         {% if category %}
         <div class="mb-2">
             {% for cat in category %}
-            <span class="badge bg-primary me-2">{{ cat }}</span>
+            <a href="/categories/{{ cat|lower }}.html" class="text-decoration-none">
+                <span class="badge bg-primary me-2">{{ cat }}</span>
+            </a>
             {% endfor %}
         </div>
         {% endif %}
         {% if tags %}
         <div class="mb-3">
             {% for tag in tags %}
-            <span class="badge bg-secondary me-2">{{ tag }}</span>
+            <a href="/tags/{{ tag|lower }}.html" class="text-decoration-none">
+                <span class="badge bg-secondary me-2">{{ tag }}</span>
+            </a>
             {% endfor %}
         </div>
         {% endif %}

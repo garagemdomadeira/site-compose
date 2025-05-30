@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <h1 class="mb-4">Tags</h1>
+
+    {% for tag in tags %}
+    <div class="tag-section mb-5">
+        <h2 class="border-bottom pb-2 mb-4">{{ tag.name }}</h2>
+        <div class="row">
+            {% for post in tag.posts %}
+            <div class="col-md-6 col-lg-3 mb-4">
+                <div class="card h-100">
+                    {% if post.mainImage %}
+                    <img src="{{ post.mainImage }}" class="card-img-top" alt="{{ post.title|cleanTitle }}">
+                    {% endif %}
+                    <div class="card-body">
+                        <h5 class="card-title">{{ post.title|cleanTitle }}</h5>
+                        <p class="card-text text-muted">
+                            <small>{{ post.date|date("d/m/Y") }}</small>
+                        </p>
+                        <a href="{{ post.link }}" class="btn btn-primary">Ler mais</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% if tag.hasMore %}
+        <div class="text-center mt-3">
+            <a href="/tags/{{ tag.name|lower|replace(' ', '-') }}.html" class="btn btn-outline-primary">
+                Ver todos os posts com esta tag
+            </a>
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

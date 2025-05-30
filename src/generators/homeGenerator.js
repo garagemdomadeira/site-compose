@@ -22,8 +22,11 @@ function getImageFromSlug(link) {
 }
 
 async function processSections(sections) {
+    // Filtra as seções que estão publicadas
+    const publishedSections = sections.filter(section => section.published !== false);
+    
     // Percorre todas as seções e ajusta as imagens
-    return Promise.all(sections.map(async section => {
+    return Promise.all(publishedSections.map(async section => {
         if (section.data && section.data.link && !section.data.image) {
             section.data.image = getImageFromSlug(section.data.link);
         }

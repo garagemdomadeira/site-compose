@@ -13,16 +13,22 @@
             "icon": "list-ul"
         },
         {
+            "id": "categorias",
+            "label": "Categorias",
+            "url": "categories.html",
+            "icon": "folder"
+        },
+        {
+            "id": "tags",
+            "label": "Tags",
+            "url": "tags.html",
+            "icon": "tags"
+        },
+        {
             "id": "sobre",
             "label": "Sobre",
             "url": "/2021/03/about/",
             "icon": "info-circle"
-        },
-        {
-            "id": "contato",
-            "label": "Contato",
-            "url": "contato.html",
-            "icon": "envelope"
         }
     ]
 }

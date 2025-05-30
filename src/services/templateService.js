@@ -6,105 +6,38 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import nunjucks from 'nunjucks';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const templatesDir = path.join(__dirname, '../../templates');
 
-/**
- * Lê o conteúdo de um arquivo de template
- * @param {string} templateName 
- * @returns {Promise<string>}
- */
-async function readTemplate(templateName) {
-    const templatePath = path.join(templatesDir, templateName);
-    return await fs.readFile(templatePath, 'utf-8');
-}
+// Configura o Nunjucks
+const env = nunjucks.configure(templatesDir, {
+    autoescape: true,
+    noCache: true
+});
 
-/**
- * Processa um template com os dados fornecidos
- * @param {string} template 
- * @param {Object} data 
- * @returns {Promise<string>}
- */
-async function processTemplate(template, data) {
-    // Processa extends no formato {% extends "base.html" %}
-    const extendsMatch = template.match(/\{%\s*extends\s+"([^"]+)"\s*%\}/);
-    if (extendsMatch) {
-        const baseTemplate = await readTemplate(extendsMatch[1]);
-        const baseContent = await processTemplate(baseTemplate, data);
-        
-        // Processa blocos do template filho
-        const blocks = {};
-        template.replace(/\{%\s*block\s+([^%]+)\s*%\}([\s\S]*?)\{%\s*endblock\s*%\}/g, (match, blockName, content) => {
-            blocks[blockName] = content;
-            return '';
-        });
+// Adiciona filtros personalizados
+env.addFilter('cleanTitle', function(str) {
+    if (!str) return '';
+    return str
+        .replace(/[^\w\s]/gi, '') // Remove caracteres especiais
+        .replace(/\s+/g, ' ')     // Remove espaços extras
+        .trim();                   // Remove espaços no início e fim
+});
 
-        // Substitui blocos no template base
-        return baseContent.replace(/\{%\s*block\s+([^%]+)\s*%\}([\s\S]*?)\{%\s*endblock\s*%\}/g, (match, blockName) => {
-            return blocks[blockName] || '';
-        });
-    }
+env.addFilter('date', function(date, format) {
+    if (!date) return '';
+    const d = new Date(date);
+    if (isNaN(d.getTime())) return '';
 
-    // Processa includes no formato {% include "arquivo.html" %}
-    let result = template;
-    const includeRegex = /\{%\s*include\s+"([^"]+)"\s*%\}/g;
-    let includeMatch;
-    
-    while ((includeMatch = includeRegex.exec(template)) !== null) {
-        const includeFile = includeMatch[1];
-        const includePath = path.join(templatesDir, includeFile);
-        try {
-            const includeContent = await fs.readFile(includePath, 'utf-8');
-            result = result.replace(includeMatch[0], includeContent);
-        } catch (error) {
-            console.error(`Erro ao incluir arquivo ${includeFile}:`, error);
-            result = result.replace(includeMatch[0], '');
-        }
-    }
+    const day = String(d.getDate()).padStart(2, '0');
+    const month = String(d.getMonth() + 1).padStart(2, '0');
+    const year = d.getFullYear();
 
-    // Processa loops no formato {% for item in array %} ... {% endfor %}
-    result = result.replace(/\{%\s*for\s+(\w+)\s+in\s+([^%]+)\s*%\}([\s\S]*?)\{%\s*endfor\s*%\}/g, (match, itemName, arrayPath, content) => {
-        const array = arrayPath.split('.').reduce((obj, key) => obj?.[key], data);
-        if (!Array.isArray(array)) return '';
-
-        return array.map(item => {
-            let itemContent = content;
-            // Substitui variáveis do item no formato {{ item.propriedade }}
-            itemContent = itemContent.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
-                const propPath = key.trim().split('.');
-                if (propPath[0] === itemName) {
-                    return propPath.slice(1).reduce((obj, key) => obj?.[key], item) || '';
-                }
-                return data[key.trim()] || '';
-            });
-            return itemContent;
-        }).join('');
-    });
-
-    // Substitui variáveis no formato {{ variavel }}
-    result = result.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
-        key = key.trim();
-        return data[key] || '';
-    });
-
-    // Processa blocos condicionais no formato {% if condicao %} ... {% endif %}
-    result = result.replace(/\{%\s*if\s+([^%]+)\s*%\}([\s\S]*?)\{%\s*endif\s*%\}/g, (match, condition, content) => {
-        const [key, operator, value] = condition.trim().split(/\s+/);
-        const dataValue = data[key];
-
-        if (operator === 'and') {
-            return dataValue && value ? content : '';
-        } else if (operator === 'or') {
-            return dataValue || value ? content : '';
-        } else {
-            return dataValue ? content : '';
-        }
-    });
-
-    return result;
-}
+    return `${day}/${month}/${year}`;
+});
 
 /**
  * Renderiza um template com os dados fornecidos e salva no arquivo de saída
@@ -116,8 +49,9 @@ async function processTemplate(template, data) {
 export async function renderTemplate(templateName, outputPath, data = {}) {
     try {
         console.log(`Renderizando template ${templateName} para ${outputPath}`);
-        const template = await readTemplate(templateName);
-        const content = await processTemplate(template, data);
+        
+        // Renderiza o template usando Nunjucks
+        const content = env.render(templateName, data);
         
         // Garante que o diretório existe
         await fs.mkdir(path.dirname(outputPath), { recursive: true });

@@ -9,6 +9,7 @@ import { generateContentPages } from './generators/contentGenerator.js';
 import { generateAllPostsPage } from './generators/allPostsGenerator.js';
 import { generateSitemap } from './generators/sitemapGenerator.js';
 import { generateSearchIndex } from './generators/searchIndexGenerator.js';
+import { generateSearchPage } from './generators/searchGenerator.js';
 import { readMarkdownFiles } from './services/contentService.js';
 import { readMenu, cleanOutput } from './services/fileService.js';
 import { copyImagesToOutput } from './services/imageService.js';
@@ -38,6 +39,7 @@ async function main() {
         await generateAllPostsPage(posts, menu);
         await generateSitemap();
         await generateSearchIndex();
+        await generateSearchPage();
         
         console.log('✨ Geração de páginas concluída com sucesso!');
     } catch (error) {

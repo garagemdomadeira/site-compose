@@ -1,0 +1,37 @@
+/**
+ * Estilos específicos para a página de busca
+ */
+
+.search-container {
+    margin: 2rem 0;
+}
+
+.search-results {
+    margin-top: 2rem;
+}
+
+.search-results .card {
+    transition: transform 0.2s;
+}
+
+.search-results .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.search-results .object-fit-cover {
+    object-fit: cover;
+}
+
+.search-results .card-title a {
+    color: var(--bs-body-color);
+    text-decoration: none;
+}
+
+.search-results .card-title a:hover {
+    color: var(--bs-primary);
+}
+
+.search-results .card-text {
+    font-size: 0.9rem;
+}

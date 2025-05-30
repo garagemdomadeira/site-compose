@@ -7,32 +7,9 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { readMarkdownFiles } from '../services/contentService.js';
-
-// Lista de palavras a serem ignoradas no indexador
-const STOP_WORDS = new Set([
-    // URLs e protocolos
-    'http', 'https', 'www', 'com', 'br', 'org', 'net',
-    
-    // Preposições e artigos
-    'para', 'como', 'com', 'sem', 'por', 'pelo', 'pela', 'nos', 'nas', 'num', 'numa',
-    'o', 'a', 'os', 'as', 'um', 'uma', 'uns', 'umas',
-    
-    // Conjunções
-    'e', 'ou', 'mas', 'porque', 'pois', 'que', 'quando', 'onde', 'quem',
-    
-    // Pronomes
-    'ele', 'ela', 'eles', 'elas', 'eu', 'nós', 'você', 'vocês',
-    
-    // Palavras comuns em HTML/Markdown
-    'strong', 'em', 'p', 'div', 'span', 'class', 'href', 'src', 'alt', 'title',
-    
-    // Outras palavras comuns
-    'este', 'esta', 'estes', 'estas', 'aquele', 'aquela', 'aqueles', 'aquelas',
-    'isso', 'isto', 'aquilo', 'tudo', 'nada', 'algo', 'cada', 'qual', 'quais',
-    'qualquer', 'quaisquer', 'tanto', 'tanta', 'tantos', 'tantas',
-    'muito', 'muita', 'muitos', 'muitas', 'pouco', 'pouca', 'poucos', 'poucas',
-    'todo', 'toda', 'todos', 'todas', 'nenhum', 'nenhuma', 'nenhuns', 'nenhumas'
-]);
+import { generatePostLink } from '../utils/postLink.js';
+import { STOP_WORDS } from '../utils/stopWords.js';
+import { detectMainImage } from '../utils/postImage.js';
 
 /**
  * Remove caracteres especiais e converte para minúsculas
@@ -83,7 +60,7 @@ function cleanUrl(url) {
  * @param {string} title 
  * @returns {string}
  */
-function cleanTitle(title) {
+function clearTitle(title) {
     return title
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, '') // Remove acentos
@@ -113,7 +90,6 @@ function extractWords(text) {
 export async function generateSearchIndex() {
     try {
         const posts = await readMarkdownFiles();
-        const baseUrl = 'https://garagemdomadeira.com.br';
         const searchIndex = [];
 
         for (const post of posts) {
@@ -122,7 +98,7 @@ export async function generateSearchIndex() {
             const words = extractWords(cleanContent);
             
             // Limpa e extrai palavras do título
-            const cleanTitle = cleanTitle(post.title);
+            const cleanTitle = clearTitle(post.title);
             const titleWords = extractWords(cleanTitle);
             
             // Limpa e extrai palavras das tags e categorias
@@ -165,9 +141,10 @@ export async function generateSearchIndex() {
 
             // Adiciona ao índice como array
             searchIndex.push([
-                cleanUrl(`${baseUrl}/posts/${post.slug}`),
-                cleanTitle(post.title),
-                wordsObject
+                generatePostLink(post), // URL do post
+                clearTitle(post.title), // Título limpo
+                detectMainImage(post), // Imagem principal
+                wordsObject // Palavras indexadas
             ]);
         }
 

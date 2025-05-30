@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h1 class="mb-4">Pesquisa</h1>
+
+            <div class="search-container mb-4">
+                <div class="input-group">
+                    <input type="text" id="searchInput" class="form-control" placeholder="Digite sua pesquisa...">
+                    <button class="btn btn-primary" type="button" id="searchButton">
+                        <i class="bi bi-search"></i> Buscar
+                    </button>
+                </div>
+            </div>
+
+            <div id="searchResults" class="search-results">
+                <!-- Os resultados serão inseridos aqui via JavaScript -->
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="/assets/search.css">
+{% endblock %}
+
+{% block extra_js %}
+<script src="/assets/search.js"></script>
+{% endblock %}

@@ -8,3 +8,4 @@ export { cleanOutput } from './cleanOutput.js';
 export { readStructure, readMenu } from './structureService.js';
 export { readMarkdownFiles } from './contentService.js';
 export { copyStaticFiles } from './staticService.js';
+export { ensureDirectoryExists } from './directoryService.js';

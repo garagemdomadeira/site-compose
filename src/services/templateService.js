@@ -107,17 +107,26 @@ async function processTemplate(template, data) {
 }
 
 /**
- * Renderiza um template com os dados fornecidos
- * @param {string} templateName 
- * @param {Object} data 
- * @returns {Promise<string>}
+ * Renderiza um template com os dados fornecidos e salva no arquivo de saída
+ * @param {string} templateName - Nome do template a ser renderizado
+ * @param {string} outputPath - Caminho onde o arquivo será salvo
+ * @param {Object} data - Dados para renderizar o template
+ * @returns {Promise<void>}
  */
-export async function renderTemplate(templateName, data = {}) {
+export async function renderTemplate(templateName, outputPath, data = {}) {
     try {
+        console.log(`Renderizando template ${templateName} para ${outputPath}`);
         const template = await readTemplate(templateName);
-        return await processTemplate(template, data);
+        const content = await processTemplate(template, data);
+        
+        // Garante que o diretório existe
+        await fs.mkdir(path.dirname(outputPath), { recursive: true });
+        
+        // Salva o arquivo
+        await fs.writeFile(outputPath, content, 'utf-8');
+        console.log(`✅ Arquivo salvo em ${outputPath}`);
     } catch (error) {
-        console.error(`Erro ao renderizar template ${templateName}:`, error);
+        console.error(`❌ Erro ao renderizar template ${templateName}:`, error);
         throw error;
     }
 } 

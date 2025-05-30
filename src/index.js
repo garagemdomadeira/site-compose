@@ -10,6 +10,8 @@ import { generateAllPostsPage } from './generators/allPostsGenerator.js';
 import { generateSitemap } from './generators/sitemapGenerator.js';
 import { generateSearchIndex } from './generators/searchIndexGenerator.js';
 import { generateSearchPage } from './generators/searchGenerator.js';
+import { generateCategoryPages } from './generators/categoryGenerator.js';
+import { generateTagPages } from './generators/tagGenerator.js';
 import { readMarkdownFiles } from './services/contentService.js';
 import { readMenu, cleanOutput } from './services/fileService.js';
 import { copyImagesToOutput } from './services/imageService.js';
@@ -37,6 +39,8 @@ async function main() {
         await generateHomePage();
         await generateContentPages();
         await generateAllPostsPage(posts, menu);
+        await generateCategoryPages(posts);
+        await generateTagPages(posts);
         await generateSitemap();
         await generateSearchIndex();
         await generateSearchPage();

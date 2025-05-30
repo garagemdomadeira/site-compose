@@ -22,14 +22,20 @@ export async function readMarkdownFiles() {
     try {
         const files = await fs.readdir(contentDir);
         const markdownFiles = files.filter(file => file.endsWith('.md'));
+        console.log('Arquivos markdown encontrados:', markdownFiles);
+        
         const filteredMarkdownFiles =
             MARKDOWN_PERMISSION_LIST.includes('*')
                 ? markdownFiles
                 : markdownFiles.filter(file => MARKDOWN_PERMISSION_LIST.includes(file.replace('.md', '')));
+        
         const posts = await Promise.all(
             filteredMarkdownFiles.map(async file => {
+                console.log(`Processando arquivo: ${file}`);
                 const content = await fs.readFile(path.join(contentDir, file), 'utf-8');
                 const { metadata, content: markdownContent } = extractFrontmatter(content);
+                
+                console.log('Frontmatter extraído:', metadata);
                 
                 // Processa os links do YouTube antes de converter para HTML
                 const processedContent = processYouTubeLinks(markdownContent);

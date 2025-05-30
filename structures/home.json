@@ -121,31 +121,41 @@
             }
         },
         {
-            "type": "more-news",
-            "component": "news-card",
-            "layout": "four-columns",
+            "type": "products",
+            "component": "product-card",
+            "layout": "six-columns",
             "published": true,
-            "title": "Mais Notícias",
+            "title": "O Madeira usa:",
             "items": [
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "6x AcDelco Flexpower",
+                    "link": "https://mercadolivre.com/sec/1P2T9a8",
+                    "image": "aditivo-acdelco-flexpower.jpg"
                 },
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Kit Koube utilitário",
+                    "link": "https://mercadolivre.com/sec/1gPHwN1",
+                    "image": "kit-koube.jpg"
                 },
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Óleo 5W-30 Total Ineo MC3",
+                    "link": "https://mercadolivre.com/sec/2DB9XS6",
+                    "image": "total-ineo-mc3-5w30.jpg"
                 },
                 {
-                    "title": "Título da Notícia",
-                    "description": "Lorem ipsum dolor sit amet.",
-                    "link": "post.html"
+                    "title": "Fluido Multi-CVT Gulf",
+                    "link": "https://mercadolivre.com/sec/2w5zuLf",
+                    "image": "gulf-cvt.jpg"
+                },
+                {
+                    "title": "Torquímetro de estalo",
+                    "link": "https://mercadolivre.com/sec/1dTNA8Q",
+                    "image": "torquimetro.jpg"
+                },
+                {
+                    "title": "Parafusadeira de impacto",
+                    "link": "https://mercadolivre.com/sec/2EQ31k5",
+                    "image": "parafusadeira.jpg"
                 }
             ]
         }

@@ -9,6 +9,7 @@ import path from 'path';
 import { outputDir, env } from '../utils/config.js';
 import { readStructure, readMenu, copyStaticFiles } from '../services/fileService.js';
 import { fileExists } from '../utils/fileExists.js';
+import { copyHomeImages } from '../services/homeImageService.js';
 
 const defaultImage = '/media/default.jpg';
 
@@ -57,6 +58,9 @@ export async function generateHomePage() {
             readStructure('home'),
             readMenu()
         ]);
+
+        // Copia as imagens da página inicial
+        await copyHomeImages(homeStructure);
 
         // Ajusta as imagens das seções
         const sections = await processSections(homeStructure.sections || []);

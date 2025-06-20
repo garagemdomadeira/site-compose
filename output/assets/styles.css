@@ -126,6 +126,51 @@ body {
     height: auto;
     border-radius: var(--gm-border-radius);
 }
+/* Estilos para figure e figcaption */
+figure {
+    margin: var(--gm-spacing-lg) 0;
+    padding: var(--gm-spacing-md);
+    background-color: white;
+    border: 1px solid var(--gm-border-color);
+    border-radius: var(--gm-border-radius);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: calc(var(--gm-border-radius) - 2px);
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    margin-top: var(--gm-spacing-sm);
+    font-size: 0.875rem;
+    color: var(--gm-text-muted);
+    font-style: italic;
+    line-height: 1.4;
+    text-align: center;
+}
+
+/* Grid de figuras */
+.figure-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--gm-spacing-md);
+    margin: var(--gm-spacing-lg) 0;
+}
+
+.figure-grid figure {
+    margin: 0;
+    padding: var(--gm-spacing-sm);
+}
+
+.figure-grid figcaption {
+    font-size: 0.8rem;
+    margin-top: var(--gm-spacing-xs);
+}
 /* Ajustes para mobile */
 @media (max-width: 768px) {
     .container {
@@ -149,6 +194,20 @@ body {
     main {
         margin-bottom: 4rem;
     }
+                /* Grid responsivo para mobile */
+                .figure-grid {
+                    grid-template-columns: repeat(2, 1fr);
+                    gap: var(--gm-spacing-sm);
+                    margin: var(--gm-spacing-md) 0;
+                }
+        
+                .figure-grid figure {
+                    padding: var(--gm-spacing-xs);
+                }
+        
+                .figure-grid figcaption {
+                    font-size: 0.75rem;
+                }
 }
 
 /* Melhorias de acessibilidade e interatividade */

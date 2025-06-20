@@ -7,10 +7,10 @@ coverImage: "pagina-1.png"
 Muitas pessoas me pedem os links dos produtos que eu utilizei em minha Sportage durante os vídeos que eu gravei. Separei aqui todos os produtos que utilizei quando fiz a suspensão do carro, os links são todos do Mercado Livre e você estará ajudando o canal com uma comissão ao comprar por eles. Boas compras.
 
 **Basta clicar nos produtos para ir para o link de compra (Mercado Livre ou AliExpress)**
-
+<div class="figure-grid">
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/07/d_nq_np_2x_804688-mlb53249058497_012023-f.webp?w=1024)](https://mercadolivre.com/sec/19gvgqi)
+[![](media/d_nq_np_2x_804688-mlb53249058497_012023-f.webp)](https://mercadolivre.com/sec/19gvgqi)
 
 <figcaption>
 
@@ -135,6 +135,9 @@ _(1 kit para cada lado)_
 </figcaption>
 
 </figure>
+
+</div>
+
 
 ## Os vídeos que eu fiz trocando essas peças:
 

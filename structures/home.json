@@ -16,13 +16,13 @@
         {
             "type": "highlights",
             "component": "news-card",
-            "layout": "two-columns",
+            "layout": "four-columns",
             "published": true,
             "title": "Destaques",
             "items": [
                 {
                     "title": "MÓDULOS DE CONFORTO KIA SPORTAGE",
-                    "description": "Aqui estão os modelos Tury disponíveis, juntamente com a compatibilidade de cada um.",
+                    "description": "Conheça cada um deles e outros detalhes",
                     "link": "2025/03/modulos-de-conforto-kia-sportage/"
                 },
                 {
@@ -32,12 +32,12 @@
                 },
                 {
                     "title": "Como 'regular' cambagem traseira da CR-V",
-                    "description": "Suspensão traseira: um assunto cheio de controversas quando estamos falando da CR-V (principalmente nos modelos 2007 até 2016). Nesse post trago minha visão sobre regulagens, comportamentos e outros detalhes da suspensão.",
+                    "description": "Assunto polêmico mas que muitos querem saber",
                     "link": "2021/05/como-regular-cambagem-traseira-da-cr-v/index.html"
                 },
                 {
                     "title": "Conhecendo o modo SCS nos Honda.",
-                    "description": "Nem sempre temos disponível um scanner para conectarmos na porta de diagnóstico quando passamos por problemas em nossos carros. Foi pensando nisso que a Honda elaborou um sistema muito prático que ajuda muito na hora de descobrir os famosos DTC's. Ficou curioso? Então continue na leitura.",
+                    "description": "Segredo que nem todos sabem sobre diagnóstico",
                     "link": "2021/03/conhecendo-o-modo-scs-nos-honda/index.html"
                 }
             ]

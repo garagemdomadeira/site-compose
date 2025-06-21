@@ -9,7 +9,7 @@ tags:
   - "scs"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_scs.jpg?w=1024)
+![](header_scs.jpg)
 
 Nem sempre temos disponível um scanner para conectarmos na porta de diagnóstico quando passamos por problemas em nossos carros. Foi pensando nisso que a Honda elaborou um sistema muito prático que ajuda muito na hora de descobrir os famosos DTC's. Ficou curioso? Então continue na leitura.
 
@@ -20,7 +20,7 @@ Um **DTC** (em inglês: **Diagnostic Trouble Code**, algo como Código de Disgn�
 
 > Caso interesse:
 > 
-> [Temos uma lista dos códigos de erro para o sistema de ABS e VSA neste post: **Lista de códigos de erro em ABS e VSA para CR-V**](https://garagemdomadeira.com/2021/03/28/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/)
+> [Temos uma lista dos códigos de erro para o sistema de ABS e VSA neste post: **Lista de códigos de erro em ABS e VSA para CR-V**](/2021/03/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/)
 
 ## Como ativar o modo SCS?
 
@@ -28,7 +28,7 @@ Para ativar o modo SCS você precisa localizar a porta de comunicação do veíc
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/captura-de-tela-2021-03-28-acc80s-14.38.49.png?w=1024)
+![](porta-diagnostico.jpg)
 
 <figcaption>
 
@@ -69,8 +69,6 @@ Somando tudo temos o número 62.
   
 Após isso basta verificar na tabela do respectivo sistema.
 
-[Temos uma lista dos códigos de erro para o sistema de ABS e VSA neste post: **Lista de códigos de erro em ABS e VSA para CR-V**](https://garagemdomadeira.com/2021/03/28/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/)
+[Temos uma lista dos códigos de erro para o sistema de ABS e VSA neste post: **Lista de códigos de erro em ABS e VSA para CR-V**](/2021/03/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/)
 
-* * *
 
-## Temas Relacionados

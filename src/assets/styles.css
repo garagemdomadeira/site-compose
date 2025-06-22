@@ -395,3 +395,178 @@ figcaption {
     border: 0;
     border-top: 1px solid #dee2e6;
 }
+
+/* Botões estilosos para conteúdo */
+.content-body .btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 0.75rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(135deg, var(--bs-primary) 0%, #0056b3 100%);
+    color: white;
+    font-family: var(--gm-font-body);
+    letter-spacing: 0.025em;
+}
+
+.content-body .btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+.content-body .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15), 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #0056b3 0%, var(--bs-primary) 100%);
+    color: white;
+    text-decoration: none;
+}
+
+.content-body .btn:hover::before {
+    left: 100%;
+}
+
+.content-body .btn:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.content-body .btn:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(13, 110, 253, 0.25), 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Variações de botões */
+.content-body .btn-secondary {
+    background: linear-gradient(135deg, var(--bs-secondary) 0%, #5a6268 100%);
+}
+
+.content-body .btn-secondary:hover {
+    background: linear-gradient(135deg, #5a6268 0%, var(--bs-secondary) 100%);
+}
+
+.content-body .btn-success {
+    background: linear-gradient(135deg, #198754 0%, #146c43 100%);
+}
+
+.content-body .btn-success:hover {
+    background: linear-gradient(135deg, #146c43 0%, #198754 100%);
+}
+
+.content-body .btn-danger {
+    background: linear-gradient(135deg, #dc3545 0%, #b02a37 100%);
+}
+
+.content-body .btn-danger:hover {
+    background: linear-gradient(135deg, #b02a37 0%, #dc3545 100%);
+}
+
+.content-body .btn-warning {
+    background: linear-gradient(135deg, #ffc107 0%, #e0a800 100%);
+    color: #212529;
+}
+
+.content-body .btn-warning:hover {
+    background: linear-gradient(135deg, #e0a800 0%, #ffc107 100%);
+    color: #212529;
+}
+
+.content-body .btn-info {
+    background: linear-gradient(135deg, #0dcaf0 0%, #0aa2c0 100%);
+    color: #212529;
+}
+
+.content-body .btn-info:hover {
+    background: linear-gradient(135deg, #0aa2c0 0%, #0dcaf0 100%);
+    color: #212529;
+}
+
+.content-body .btn-light {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    color: #212529;
+    border: 1px solid #dee2e6;
+}
+
+.content-body .btn-light:hover {
+    background: linear-gradient(135deg, #e9ecef 0%, #f8f9fa 100%);
+    color: #212529;
+}
+
+.content-body .btn-dark {
+    background: linear-gradient(135deg, #212529 0%, #1a1d20 100%);
+}
+
+.content-body .btn-dark:hover {
+    background: linear-gradient(135deg, #1a1d20 0%, #212529 100%);
+}
+
+/* Tamanhos de botões */
+.content-body .btn-sm {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    border-radius: 0.5rem;
+}
+
+.content-body .btn-lg {
+    padding: 1rem 2rem;
+    font-size: 1.125rem;
+    border-radius: 1rem;
+}
+
+/* Botão outline */
+.content-body .btn-outline {
+    background: transparent;
+    border: 2px solid var(--bs-primary);
+    color: var(--bs-primary);
+}
+
+.content-body .btn-outline:hover {
+    background: var(--bs-primary);
+    color: white;
+}
+
+/* Botão com ícone */
+.content-body .btn-icon {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.content-body .btn-icon::before {
+    display: none;
+}
+
+/* Responsividade para botões */
+@media (max-width: 768px) {
+    .content-body .btn {
+        padding: 0.625rem 1.25rem;
+        font-size: 0.9rem;
+    }
+
+    .content-body .btn-lg {
+        padding: 0.875rem 1.75rem;
+        font-size: 1rem;
+    }
+
+    .content-body .btn-sm {
+        padding: 0.375rem 0.75rem;
+        font-size: 0.8rem;
+    }
+}

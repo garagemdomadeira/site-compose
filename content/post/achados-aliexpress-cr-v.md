@@ -1,6 +1,15 @@
 ---
 title: "Achados AliExpress CR-V"
 date: "2023-10-25"
+categories: 
+  - "honda-cr-v"
+  - "achados"
+tags: 
+  - "cr-v"
+  - "honda"
+  - "honda-cr-v"
+  - "produtos"
+  - "eletrônica"
 ---
 
 Uma coletânea de itens que fico garimpando no AliExpress e que acho que poderia ser útil para você.

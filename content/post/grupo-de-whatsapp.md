@@ -20,16 +20,6 @@ O grupo de WhatsApp da Garagem do Madeira é um espaço exclusivo para troca de 
 
 Para fazer parte do nosso grupo, basta preencher o formulário de inscrição. Após a aprovação, você receberá o link de acesso e poderá interagir com toda a comunidade.
 
-[Clique aqui para se inscrever](https://forms.gle/gWwDVjJLBVsVCbZ48)
+<a href="https://forms.gle/gWwDVjJLBVsVCbZ48" target="_blank" class="btn">Increver-se</a>
 
-## Siga a Garagem do Madeira em todas as redes
 
-Youtube: [https://www.youtube.com/@garagemdomadeira](https://www.youtube.com/@garagemdomadeira)
-
-Instagram: [https://Instagram.com/garagemdomadeira](https://Instagram.com/garagemdomadeira)
-
-TikTok: [https://www.tiktok.com/@garagemdomadeira](https://www.tiktok.com/@garagemdomadeira)
-
-Kwai: [https://www.kwai.com/@garagemdomadeira](https://www.kwai.com/@garagemdomadeira)
-
-WhatsApp: [https://forms.gle/gWwDVjJLBVsVCbZ48](https://forms.gle/gWwDVjJLBVsVCbZ48)

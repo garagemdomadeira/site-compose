@@ -1,7 +1,18 @@
 ---
 title: "Módulos de conforto Kia Sportage"
 date: "2025-03-30"
+categories: 
+  - "kia-sportage"
+  - "procedimentos"
+tags: 
+  - "sportage"
+  - "kia"
+  - "kia-sportage"
+  - "manutencao"
+  - "eletrônica"
 ---
+
+https://youtu.be/1EC6FSBhS1M
 
 Neste vídeo, compartilho o processo completo de instalação dos módulos de conforto da Tury que realizei no meu veículo.
 
@@ -34,14 +45,7 @@ O módulo de rebatimento dos retrovisores, modelo PARK3.2.4B, é projetado para 
 
 ## Onde Encontrar os Módulos
 
-Para facilitar a sua busca e garantir que você encontre o módulo correto para o seu veículo, estou incluindo o link para a lista completa de módulos disponíveis:
-
-[Ver lista no Mercado Livre](https://www.mercadolivre.com.br)
-
-### Links dos Produtos
-
-- [PRO 4.34 Q](https://www.mercadolivre.com.br)
-- [PRO 4.28 D](https://www.mercadolivre.com.br)
-- [PARK 3.2.4 B](https://www.mercadolivre.com.br)
+- [PRO 4.28 D ou PRO 4.34 Q](https://mercadolivre.com/sec/2eSm9A5)
+- [PARK 3.2.4 B](https://mercadolivre.com/sec/1z1eAxz)
 
 > **Importante**: As informações e especificações dos produtos podem sofrer alterações ao longo do tempo. Caso esteja consultando este material em uma data futura, recomendamos verificar as informações mais recentes junto ao fabricante ou em fontes atualizadas. Além disso, reforço que não sou um profissional da área, apenas um entusiasta. As informações aqui apresentadas devem ser revisadas no site do fabricante, e em caso de dúvidas, é sempre recomendável buscar ajuda profissional.

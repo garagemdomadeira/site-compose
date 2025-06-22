@@ -8,6 +8,7 @@
     "dev": "node src/server.js",
     "build": "node src/index.js",
     "watch": "nodemon --watch src --watch structures --watch templates --watch content --ext js,json,html --exec 'npm run build'",
+    "deploy": "cd output && git add . && git commit -m 'Deploy' && git push origin main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

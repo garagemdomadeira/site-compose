@@ -17,4 +17,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
-*.swo 
+*.swo
+
+# Output
+/output/

@@ -6,16 +6,16 @@ categories:
   - "multimidia"
   - "configuracoes"
 tags:
-  - "central multimídia"
-  - "configurações"
-  - "multimídia chinesa"
+  - "central-multimidia"
+  - "configuracoes"
+  - "multimidia-chinesa"
   - "aliexpress"
   - "tutorial"
   - "youtube"
   - "dicas"
   - "tecnologia"
   - "entretenimento"
-  - "veículo"
+  - "veiculo"
 ---
 
 https://youtu.be/OvLRIJ\_tKm4

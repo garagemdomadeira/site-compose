@@ -7,13 +7,14 @@ categories:
   - "manutencao"
 tags:
   - "parabrisa"
-  - "honda fit"
-  - "primeira geração"
+  - "honda-fit"
+  - "primeira-geracao"
   - "vidro"
-  - "acessórios"
+  - "acessorios"
   - "2003-2008"
-  - "reposição"
-  - "segurança"
+  - "reposicao"
+  - "seguranca"
   - "carro"
-  - "vidraçaria"
---- 
+  - "vidracaria"
+---
+

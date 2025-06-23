@@ -6,15 +6,15 @@ categories:
   - "ar-condicionado"
   - "limpeza"
 tags:
-  - "limpeza ar condicionado"
+  - "limpeza-ar-condicionado"
   - "evaporador"
-  - "mau cheiro"
-  - "bactérias"
+  - "mau-cheiro"
+  - "bacterias"
   - "fungos"
-  - "ácaros"
+  - "acaros"
   - "youtube"
   - "produto"
-  - "saúde"
+  - "saude"
   - "tutorial"
 ---
 

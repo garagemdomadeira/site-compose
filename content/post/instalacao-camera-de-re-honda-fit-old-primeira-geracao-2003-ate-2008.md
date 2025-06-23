@@ -6,15 +6,15 @@ categories:
   - "multimidia"
   - "procedimentos"
 tags:
-  - "câmera de ré"
-  - "instalação"
-  - "primeira geração"
-  - "fiação"
-  - "acessório"
+  - "camera-de-re"
+  - "instalacao"
+  - "primeira-geracao"
+  - "fiacao"
+  - "acessorio"
   - "youtube"
   - "tutorial"
-  - "parte traseira"
-  - "multimídia"
+  - "parte-traseira"
+  - "multimidia"
   - "2007"
 ---
 

@@ -10,11 +10,11 @@ tags:
   - "reflash"
   - "k-tunner"
   - "hondata"
-  - "injeção eletrônica"
+  - "injecao-eletronica"
   - "performance"
   - "torque"
   - "revit-up"
-  - "experiência"
+  - "experiencia"
   - "dicas"
 ---
 

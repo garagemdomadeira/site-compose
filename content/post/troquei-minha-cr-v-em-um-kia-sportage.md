@@ -6,17 +6,16 @@ categories:
   - "honda-cr-v"
   - "comparacao"
 tags:
-  - "kia sportage 2015"
-  - "honda cr-v 2011"
-  - "comparação"
-  - "topo de linha"
-  - "câmbio 6 marchas"
-  - "teto panorâmico"
-  - "chave presencial"
-  - "suspensão"
+  - "kia-sportage-2015"
+  - "honda-cr-v-2011"
+  - "comparacao"
+  - "topo-de-linha"
+  - "cambio-6-marchas"
+  - "teto-panoramico"
+  - "chave-presencial"
+  - "suspensao"
   - "porta-malas"
-  - "youtube"
-coverImage: "sporttage.jpeg"
+  - "youtube"coverImage: "sporttage.jpeg"
 ---
 
 🚗 Kia Sportage 2015 vs. Honda CR-V 2011 - Vantagens e Desvantagens 🚗

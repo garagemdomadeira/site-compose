@@ -7,15 +7,15 @@ categories:
   - "produtos"
 tags:
   - "aliexpress"
-  - "honda fit"
+  - "honda-fit"
   - "ferramentas"
   - "grampos"
   - "luzes"
-  - "tampa do radiador"
-  - "trava elétrica"
+  - "tampa-do-radiador"
+  - "trava-eletrica"
   - "porta-malas"
-  - "ar condicionado"
-  - "manutenção"
+  - "ar-condicionado"
+  - "manutencao"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-24-as-10.48.52.jpg?w=640)](https://s.click.aliexpress.com/e/_DCjzwUT)

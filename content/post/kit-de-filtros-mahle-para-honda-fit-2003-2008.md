@@ -6,15 +6,15 @@ categories:
   - "filtros"
   - "manutencao"
 tags:
-  - "kit de filtros"
+  - "kit-de-filtros"
   - "mahle"
-  - "filtro de ar"
-  - "filtro de óleo"
-  - "filtro de cabine"
-  - "primeira geração"
+  - "filtro-de-ar"
+  - "filtro-de-oleo"
+  - "filtro-de-cabine"
+  - "primeira-geracao"
   - "youtube"
-  - "mercado livre"
-  - "manutenção"
+  - "mercado-livre"
+  - "manutencao"
   - "desempenho"
 ---
 

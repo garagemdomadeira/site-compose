@@ -6,15 +6,15 @@ categories:
   - "multimidia"
   - "procedimentos"
 tags:
-  - "câmera 360"
-  - "instalação"
+  - "camera-360"
+  - "instalacao"
   - "parachoque"
-  - "câmera frontal"
-  - "fiação"
-  - "lelong le6321"
+  - "camera-frontal"
+  - "fiacao"
+  - "lelong-le6321"
   - "carlaoer"
-  - "kit de câmeras"
-  - "fonte 12v"
+  - "kit-de-cameras"
+  - "fonte-12v"
   - "tutorial"
 ---
 

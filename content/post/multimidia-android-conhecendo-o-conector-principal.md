@@ -6,15 +6,15 @@ categories:
   - "instalacao"
   - "eletronica"
 tags:
-  - "multimídia android"
-  - "conector principal"
-  - "16 vias"
-  - "alimentação"
-  - "volante multifuncional"
-  - "câmera de ré"
-  - "faróis"
+  - "multimidia-android"
+  - "conector-principal"
+  - "16-vias"
+  - "alimentacao"
+  - "volante-multifuncional"
+  - "camera-de-re"
+  - "farois"
   - "youtube"
-  - "instalação"
+  - "instalacao"
   - "esquema"
 ---
 

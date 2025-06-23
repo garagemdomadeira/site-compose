@@ -6,17 +6,16 @@ categories:
   - "manutencao"
   - "oleos"
 tags:
-  - "troca de óleo"
+  - "troca-de-oleo"
   - "filtros"
-  - "shell helix hx8"
+  - "shell-helix-hx8"
   - "5w30"
   - "koube"
   - "nanotech"
-  - "5000 km"
-  - "10000 km"
+  - "5000-km"
+  - "10000-km"
   - "youtube"
-  - "manutenção"
-coverImage: "oleos.jpeg"
+  - "manutencao"coverImage: "oleos.jpeg"
 ---
 
 A troca de óleo do motor é vital para manter seu carro funcionando suavemente. 🚗

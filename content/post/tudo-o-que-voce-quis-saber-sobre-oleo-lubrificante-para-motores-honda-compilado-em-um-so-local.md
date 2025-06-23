@@ -6,17 +6,16 @@ categories:
   - "honda"
   - "analise"
 tags:
-  - "óleo lubrificante"
+  - "oleo-lubrificante"
   - "0w20"
   - "10w30"
-  - "olho no óleo"
-  - "análise comparativa"
+  - "olho-no-oleo"
+  - "analise-comparativa"
   - "marcas"
-  - "elementos químicos"
-  - "gráficos"
+  - "elementos-quimicos"
+  - "graficos"
   - "youtube"
-  - "tecnologia automotiva"
-coverImage: "oil.png"
+  - "tecnologia-automotiva"coverImage: "oil.png"
 ---
 
 <!--more-->

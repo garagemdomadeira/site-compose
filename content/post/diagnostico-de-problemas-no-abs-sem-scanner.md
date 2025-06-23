@@ -8,13 +8,13 @@ categories:
 tags:
   - "abs"
   - "vsa"
-  - "sensor de velocidade"
-  - "diagnóstico"
-  - "modo scs"
+  - "sensor-de-velocidade"
+  - "diagnostico"
+  - "modo-scs"
   - "dtc"
-  - "sistema de freios"
-  - "controle de estabilidade"
-  - "troca de peça"
+  - "sistema-de-freios"
+  - "controle-de-estabilidade"
+  - "troca-de-peca"
   - "tutorial"
 ---
 

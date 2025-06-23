@@ -6,16 +6,16 @@ categories:
   - "comparacao"
   - "especificacoes"
 tags:
-  - "cr-v lx"
-  - "cr-v exl"
-  - "comparação"
-  - "versões"
-  - "tração 4x4"
-  - "teto solar"
+  - "cr-v-lx"
+  - "cr-v-exl"
+  - "comparacao"
+  - "versoes"
+  - "tracao-4x4"
+  - "teto-solar"
   - "vsa"
   - "subwoofer"
   - "air-bags"
-  - "especificações"
+  - "especificacoes"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_sobre.jpg?w=656)

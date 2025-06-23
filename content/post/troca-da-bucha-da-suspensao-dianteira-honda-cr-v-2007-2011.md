@@ -7,7 +7,7 @@ categories:
   - "manutencao"
 tags:
   - "bucha"
-  - "suspensão dianteira"
+  - "suspensao-dianteira"
   - "mobensani"
   - "r-flex"
   - "2007-2011"
@@ -15,8 +15,7 @@ tags:
   - "youtube"
   - "procedimento"
   - "off-road"
-  - "instagram"
-coverImage: "png_20221224_130153_0000.png"
+  - "instagram"coverImage: "png_20221224_130153_0000.png"
 ---
 
 https://www.youtube.com/watch?v=dq7SgM4-fmM

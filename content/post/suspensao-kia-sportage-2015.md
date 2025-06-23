@@ -12,9 +12,9 @@ tags:
   - "bucha"
   - "torque"
   - "ferramentas"
-  - "macaco jacaré"
-  - "torquímetro"
-  - "mercado livre"
+  - "macaco-jacare"
+  - "torquimetro"
+  - "mercado-livre"
   - "diy"
 ---
 

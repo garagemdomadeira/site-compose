@@ -6,16 +6,16 @@ categories:
   - "whatsapp"
   - "networking"
 tags:
-  - "grupo de WhatsApp"
+  - "grupo-de-whatsapp"
   - "comunidade"
   - "dicas"
-  - "manutenção"
-  - "experiências"
+  - "manutencao"
+  - "experiencias"
   - "networking"
-  - "automóveis"
+  - "automoveis"
   - "entusiastas"
-  - "inscrição"
-  - "interação"
+  - "inscricao"
+  - "interacao"
 ---
 
 ## Conecte-se com outros apaixonados por carros

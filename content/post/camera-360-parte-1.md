@@ -6,15 +6,15 @@ categories:
   - "multimidia"
   - "procedimentos"
 tags:
-  - "câmera 360"
+  - "camera-360"
   - "estacionamento"
-  - "tecnologia automotiva"
-  - "lelong le6321"
+  - "tecnologia-automotiva"
+  - "lelong-le6321"
   - "carlaoer"
-  - "kit de câmeras"
-  - "fonte 12v"
-  - "multimídia android"
-  - "configurações"
+  - "kit-de-cameras"
+  - "fonte-12v"
+  - "multimidia-android"
+  - "configuracoes"
   - "tutorial"
 ---
 

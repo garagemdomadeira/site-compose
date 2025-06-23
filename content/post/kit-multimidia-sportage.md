@@ -6,16 +6,16 @@ categories:
   - "multimidia"
   - "acessorios"
 tags:
-  - "kit multimídia"
-  - "lelong le-6321"
-  - "amplificador taramps"
-  - "câmera 360"
-  - "android 13"
-  - "carplay sem fio"
-  - "android auto sem fio"
-  - "mercado livre"
+  - "kit-multimidia"
+  - "lelong-le-6321"
+  - "amplificador-taramps"
+  - "camera-360"
+  - "android-13"
+  - "carplay-sem-fio"
+  - "android-auto-sem-fio"
+  - "mercado-livre"
   - "aliexpress"
-  - "instalação"
+  - "instalacao"
 ---
 
 Este kit é composto por:

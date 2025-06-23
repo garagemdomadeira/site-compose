@@ -7,13 +7,13 @@ categories:
   - "oleos"
 tags:
   - "atf"
-  - "câmbio automático"
-  - "troca parcial"
+  - "cambio-automatico"
+  - "troca-parcial"
   - "4x2"
   - "4x4"
-  - "80.000 km"
-  - "40.000 km"
-  - "regime severo"
+  - "80.000-km"
+  - "40.000-km"
+  - "regime-severo"
   - "mini-flush"
   - "procedimento"
 ---

@@ -7,16 +7,15 @@ categories:
   - "procedimentos"
 tags:
   - "cambagem"
-  - "suspensão traseira"
+  - "suspensao-traseira"
   - "alinhamento"
   - "pneus"
   - "estrutura"
   - "torque"
-  - "manutenção"
+  - "manutencao"
   - "diy"
   - "tutorial"
-  - "desgaste"
-coverImage: "crv2.jpeg"
+  - "desgaste"coverImage: "crv2.jpeg"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_suspensao.jpg?w=1024)

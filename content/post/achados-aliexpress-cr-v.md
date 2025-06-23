@@ -7,15 +7,15 @@ categories:
   - "produtos"
 tags:
   - "aliexpress"
-  - "luzes de teto"
-  - "lâmpada led h1"
-  - "chave canivete"
-  - "limitadores de porta"
+  - "luzes-de-teto"
+  - "lampada-led-h1"
+  - "chave-canivete"
+  - "limitadores-de-porta"
   - "tampas"
-  - "farol de neblina"
+  - "farol-de-neblina"
   - "grampos"
-  - "acessórios"
-  - "reposição"
+  - "acessorios"
+  - "reposicao"
 ---
 
 Uma coletânea de itens que fico garimpando no AliExpress e que acho que poderia ser útil para você.

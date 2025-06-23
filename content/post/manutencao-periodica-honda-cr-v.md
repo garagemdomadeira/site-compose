@@ -6,16 +6,16 @@ categories:
   - "manutencao"
   - "procedimentos"
 tags:
-  - "manutenção periódica"
-  - "óleo do motor"
+  - "manutencao-periodica"
+  - "oleo-do-motor"
   - "filtros"
-  - "velas de ignição"
-  - "fluido de arrefecimento"
-  - "fluido de freio"
+  - "velas-de-ignicao"
+  - "fluido-de-arrefecimento"
+  - "fluido-de-freio"
   - "correias"
   - "bateria"
   - "pneus"
-  - "manual do proprietário"
+  - "manual-do-proprietario"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=656)

@@ -6,16 +6,16 @@ categories:
   - "multimidia"
   - "tecnologia"
 tags:
-  - "android auto"
+  - "android-auto"
   - "wireless"
-  - "sem cabo"
+  - "sem-cabo"
   - "bluetooth"
   - "wi-fi"
   - "conectividade"
-  - "central multimídia"
+  - "central-multimidia"
   - "aliexpress"
   - "tutorial"
-  - "configuração"
+  - "configuracao"
 ---
 
 <!--more-->

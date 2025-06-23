@@ -6,7 +6,7 @@ categories:
   - "lelong"
   - "comparacao"
 tags:
-  - "multimídias lelong"
+  - "multimidias-lelong"
   - "le-6320"
   - "le-6321"
   - "le-6315"
@@ -14,8 +14,8 @@ tags:
   - "le-6326"
   - "le-6334"
   - "le-6327"
-  - "câmera 360"
-  - "comparação"
+  - "camera-360"
+  - "comparacao"
 ---
 
 Lista das principais multimídias da Lelong. Para quem está na dúvida de qual multimídia comprar, listei as especificações principais, o tamanho da tela, memória e caso queiram usar o sistema de câmera 360, vejam se possui suporte:

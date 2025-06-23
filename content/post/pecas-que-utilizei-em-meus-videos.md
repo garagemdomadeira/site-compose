@@ -6,16 +6,16 @@ categories:
   - "manutencao"
   - "achados"
 tags:
-  - "fluido de arrefecimento"
+  - "fluido-de-arrefecimento"
   - "eletroventilador"
-  - "pastilhas de freio"
-  - "discos de freio"
+  - "pastilhas-de-freio"
+  - "discos-de-freio"
   - "bucha"
-  - "barra estabilizadora"
-  - "junta do cabeçote"
-  - "honda fit"
-  - "honda cr-v"
-  - "mercado livre"
+  - "barra-estabilizadora"
+  - "junta-do-cabecote"
+  - "honda-fit"
+  - "honda-cr-v"
+  - "mercado-livre"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2023/11/screenshot-2023-11-10-as-11.20.50.jpg?w=573)](https://mercadolivre.com.br/sec/1EFKKuY)

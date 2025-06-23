@@ -6,17 +6,16 @@ categories:
   - "oleos"
   - "procedimentos"
 tags:
-  - "fluido cvt"
-  - "câmbio cvt"
-  - "honda fit"
-  - "troca de fluido"
-  - "transmissão"
-  - "manutenção"
-  - "óleo de transmissão"
+  - "fluido-cvt"
+  - "cambio-cvt"
+  - "honda-fit"
+  - "troca-de-fluido"
+  - "transmissao"
+  - "manutencao"
+  - "oleo-de-transmissao"
   - "cvt"
   - "diy"
   - "procedimento"
 ---
-
 
 Falta o conteúdo

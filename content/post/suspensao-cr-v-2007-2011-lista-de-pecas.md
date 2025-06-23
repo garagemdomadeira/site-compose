@@ -6,7 +6,7 @@ categories:
   - "suspensao"
   - "pecas"
 tags:
-  - "suspensão"
+  - "suspensao"
   - "bieleta"
   - "bucha"
   - "coxim"

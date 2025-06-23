@@ -8,14 +8,14 @@ categories:
 tags:
   - "pintura"
   - "montagem"
-  - "grade exclusiva"
+  - "grade-exclusiva"
   - "youtube"
-  - "transformação"
+  - "transformacao"
   - "desmontagem"
-  - "acessórios"
+  - "acessorios"
   - "visual"
   - "instagram"
-  - "renovação"
+  - "renovacao"
 ---
 
 https://www.youtube.com/watch?v=CctzkRoFkBE

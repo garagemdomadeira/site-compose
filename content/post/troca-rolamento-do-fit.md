@@ -7,15 +7,15 @@ categories:
   - "procedimentos"
 tags:
   - "rolamento"
-  - "parafuso da roda"
+  - "parafuso-da-roda"
   - "prisioneiro"
   - "diy"
-  - "mecânica automotiva"
-  - "segurança"
+  - "mecanica-automotiva"
+  - "seguranca"
   - "tutorial"
   - "youtube"
-  - "primeira geração"
-  - "garagem do madeira"
+  - "primeira-geracao"
+  - "garagem-do-madeira"
 ---
 
 https://youtu.be/T-7cuIHLrpE

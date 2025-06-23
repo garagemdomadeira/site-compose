@@ -7,14 +7,14 @@ categories:
   - "procedimentos"
 tags:
   - "firmware"
-  - "lelong le6334"
-  - "lelong le6321"
-  - "lelong le6320"
+  - "lelong-le6334"
+  - "lelong-le6321"
+  - "lelong-le6320"
   - "update"
   - "pendrive"
   - "usb"
-  - "tela vertical"
-  - "tela horizontal"
+  - "tela-vertical"
+  - "tela-horizontal"
   - "tutorial"
 ---
 

@@ -6,16 +6,16 @@ categories:
   - "freios"
   - "codigos-de-erro"
 tags:
-  - "códigos de erro"
+  - "codigos-de-erro"
   - "abs"
   - "vsa"
   - "dtc"
-  - "sensor de roda"
-  - "válvula solenóide"
-  - "bomba hidráulica"
-  - "diagnóstico"
+  - "sensor-de-roda"
+  - "valvula-solenoide"
+  - "bomba-hidraulica"
+  - "diagnostico"
   - "tabela"
-  - "referência"
+  - "referencia"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=1024)

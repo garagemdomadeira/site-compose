@@ -6,16 +6,16 @@ categories:
   - "acessorios"
   - "eletronica"
 tags:
-  - "módulos de conforto"
+  - "modulos-de-conforto"
   - "tury"
-  - "vidros elétricos"
+  - "vidros-eletricos"
   - "retrovisores"
-  - "one touch"
+  - "one-touch"
   - "pro4.3.4q"
   - "pro4.2.8d"
   - "park3.2.4b"
   - "youtube"
-  - "instalação"
+  - "instalacao"
 ---
 
 https://youtu.be/1EC6FSBhS1M

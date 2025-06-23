@@ -6,16 +6,16 @@ categories:
   - "filtros"
   - "manutencao"
 tags:
-  - "filtro de óleo"
-  - "filtro de ar"
-  - "filtro de cabine"
+  - "filtro-de-oleo"
+  - "filtro-de-ar"
+  - "filtro-de-cabine"
   - "aftermarket"
-  - "códigos"
-  - "manutenção"
-  - "substituição"
+  - "codigos"
+  - "manutencao"
+  - "substituicao"
   - "marcas"
-  - "catálogo"
-  - "referência"
+  - "catalogo"
+  - "referencia"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_filtros.jpg?w=1024)

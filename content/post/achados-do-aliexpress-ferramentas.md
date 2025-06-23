@@ -7,15 +7,15 @@ categories:
   - "achados"
 tags:
   - "aliexpress"
-  - "mercado livre"
-  - "macaco hidráulico"
-  - "honda fit"
-  - "torquímetro"
-  - "bomba de vácuo"
-  - "osciloscópio"
-  - "kit o-rings"
-  - "extrator de pivô"
-  - "chave de impacto"
+  - "mercado-livre"
+  - "macaco-hidraulico"
+  - "honda-fit"
+  - "torquimetro"
+  - "bomba-de-vacuo"
+  - "osciloscopio"
+  - "kit-o-rings"
+  - "extrator-de-pivo"
+  - "chave-de-impacto"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2024/06/d_nq_np_2x_863326-mlb76841522427_062024-f.webp?w=1024)](https://mercadolivre.com/sec/2UJHj5w)

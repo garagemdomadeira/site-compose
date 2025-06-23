@@ -6,15 +6,15 @@ categories:
   - "produtos"
   - "cuidados"
 tags:
-  - "limpeza automotiva"
-  - "sintra fast"
+  - "limpeza-automotiva"
+  - "sintra-fast"
   - "intense"
   - "higicouro"
   - "hidracouro"
-  - "chuva ácida"
+  - "chuva-acida"
   - "moto-v"
   - "interior"
-  - "plásticos"
+  - "plasticos"
   - "couro"
 ---
 

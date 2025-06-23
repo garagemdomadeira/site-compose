@@ -9,14 +9,13 @@ tags:
   - "produtos"
   - "ferramentas"
   - "aditivos"
-  - "graxa branca"
+  - "graxa-branca"
   - "flush"
-  - "cola butílica"
+  - "cola-butilica"
   - "o-rings"
   - "rolamento"
   - "scanner"
-  - "mercado livre"
-coverImage: "dallc2b7e-2023-11-01-17.57.31-photo-in-1920x1080-resolution-of-a-well-lit-automotive-product-store.-the-shelves-are-stocked-with-various-car-products-and-the-entire-store-is-prist.png"
+  - "mercado-livre"coverImage: "dallc2b7e-2023-11-01-17.57.31-photo-in-1920x1080-resolution-of-a-well-lit-automotive-product-store.-the-shelves-are-stocked-with-various-car-products-and-the-entire-store-is-prist.png"
 ---
 
 Vários são os produtos que aparecem nos vídeos que eu gravo, e todos ficam sempre me pedindo links dos produtos para comprar. Resolvi deixar todos os produtos concentrados aqui nessa lista, espero que seja útil para você.

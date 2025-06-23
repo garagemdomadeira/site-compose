@@ -7,15 +7,15 @@ categories:
   - "achados"
 tags:
   - "aliexpress"
-  - "lelong le6321"
-  - "câmera 360"
-  - "câmera de ré"
-  - "android auto"
-  - "dash cam"
+  - "lelong-le6321"
+  - "camera-360"
+  - "camera-de-re"
+  - "android-auto"
+  - "dash-cam"
   - "tpms"
-  - "sensor de estacionamento"
+  - "sensor-de-estacionamento"
   - "carro"
-  - "tecnologia automotiva"
+  - "tecnologia-automotiva"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2024/03/screenshot-2024-03-12-as-21.30.46.jpg?w=1024)](https://mercadolivre.com/sec/1MXmkpk)

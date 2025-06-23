@@ -6,16 +6,16 @@ categories:
   - "manutencao"
   - "procedimentos"
 tags:
-  - "fluido de freio"
+  - "fluido-de-freio"
   - "freio"
-  - "manutenção preventiva"
+  - "manutencao-preventiva"
   - "diy"
-  - "bomba de vácuo"
-  - "seringa de sucção"
+  - "bomba-de-vacuo"
+  - "seringa-de-succao"
   - "ferramentas"
-  - "segurança"
+  - "seguranca"
   - "tutorial"
-  - "vídeo"
+  - "video"
 ---
 
 <!--more-->

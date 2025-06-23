@@ -6,15 +6,15 @@ categories:
   - "produtos"
   - "referencias"
 tags:
-  - "kia sportage"
-  - "hyundai ix35"
-  - "itens de revisão"
-  - "suspensão"
+  - "kia-sportage"
+  - "hyundai-ix35"
+  - "itens-de-revisao"
+  - "suspensao"
   - "produtos"
-  - "mercado livre"
-  - "conteúdo"
-  - "referências"
-  - "manutenção"
+  - "mercado-livre"
+  - "conteudo"
+  - "referencias"
+  - "manutencao"
   - "dicas"
 ---
 

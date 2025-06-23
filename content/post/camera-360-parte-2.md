@@ -6,15 +6,15 @@ categories:
   - "multimidia"
   - "procedimentos"
 tags:
-  - "câmera 360"
+  - "camera-360"
   - "retrovisor"
-  - "câmeras laterais"
+  - "cameras-laterais"
   - "desmontagem"
   - "montagem"
-  - "lelong le6321"
+  - "lelong-le6321"
   - "carlaoer"
-  - "kit de câmeras"
-  - "fonte 12v"
+  - "kit-de-cameras"
+  - "fonte-12v"
   - "tutorial"
 ---
 

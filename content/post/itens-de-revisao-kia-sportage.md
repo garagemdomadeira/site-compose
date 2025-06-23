@@ -6,16 +6,16 @@ categories:
   - "manutencao"
   - "revisao"
 tags:
-  - "itens de revisão"
-  - "10.000 km"
-  - "40.000 km"
-  - "óleo 5w30"
+  - "itens-de-revisao"
+  - "10.000-km"
+  - "40.000-km"
+  - "oleo-5w30"
   - "filtros"
-  - "velas de ignição"
+  - "velas-de-ignicao"
   - "inflow"
-  - "mercado livre"
+  - "mercado-livre"
   - "youtube"
-  - "manutenção"
+  - "manutencao"
 ---
 
 Reuni aqui os produtos que eu utilizo durante as revisões, vou marcar também o período de cada troca para facilitar a sua vida. Conforme eu for incluindo os demais vídeos essa lista vai ser atualizada.

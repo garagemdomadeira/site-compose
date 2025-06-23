@@ -6,16 +6,16 @@ categories:
   - "manutencao"
   - "procedimentos"
 tags:
-  - "farol de neblina"
-  - "lâmpada h11"
-  - "troca de lâmpada"
+  - "farol-de-neblina"
+  - "lampada-h11"
+  - "troca-de-lampada"
   - "diy"
-  - "segurança"
-  - "iluminação"
-  - "dicas automotivas"
+  - "seguranca"
+  - "iluminacao"
+  - "dicas-automotivas"
   - "youtube"
   - "aliexpress"
-  - "ferramenta removedora"
+  - "ferramenta-removedora"
 ---
 
 🚗🔧 E aí, pessoal! Hoje vamos falar sobre uma manutenção importante para os donos de Honda CR-V 2007-2011: a troca das lâmpadas do farol de neblina!

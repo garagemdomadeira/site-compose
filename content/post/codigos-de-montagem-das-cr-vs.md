@@ -6,16 +6,16 @@ categories:
   - "informacoes-tecnicas"
   - "codigos"
 tags:
-  - "códigos de montagem"
+  - "codigos-de-montagem"
   - "chassis"
-  - "motorização"
+  - "motorizacao"
   - "modelos"
   - "tabela"
-  - "identificação"
-  - "especificações"
-  - "ano modelo"
-  - "versões"
-  - "referência"
+  - "identificacao"
+  - "especificacoes"
+  - "ano-modelo"
+  - "versoes"
+  - "referencia"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/09/header_qualquer.jpg?w=1024)

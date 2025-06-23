@@ -11,11 +11,11 @@ tags:
   - "coxim"
   - "rolamento"
   - "bieleta"
-  - "barra estabilizadora"
+  - "barra-estabilizadora"
   - "bandeja"
-  - "peças"
-  - "mercado livre"
-  - "vídeo"
+  - "pecas"
+  - "mercado-livre"
+  - "video"
 ---
 
 <figure>

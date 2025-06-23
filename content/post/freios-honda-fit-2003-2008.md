@@ -6,16 +6,16 @@ categories:
   - "freios"
   - "pecas"
 tags:
-  - "pastilhas de freio"
-  - "discos de freio"
-  - "sapatas traseiras"
-  - "tambores de freio"
-  - "fluido de freio"
-  - "sistema de freios"
-  - "manutenção"
-  - "mercado livre"
-  - "peças"
-  - "substituição"
+  - "pastilhas-de-freio"
+  - "discos-de-freio"
+  - "sapatas-traseiras"
+  - "tambores-de-freio"
+  - "fluido-de-freio"
+  - "sistema-de-freios"
+  - "manutencao"
+  - "mercado-livre"
+  - "pecas"
+  - "substituicao"
 ---
 
 <figure>

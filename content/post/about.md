@@ -6,16 +6,16 @@ categories:
   - "autor"
   - "apresentacao"
 tags:
-  - "garagem do madeira"
-  - "honda cr-v"
-  - "honda fit"
-  - "kia sportage"
-  - "automóveis"
+  - "garagem-do-madeira"
+  - "honda-cr-v"
+  - "honda-fit"
+  - "kia-sportage"
+  - "automoveis"
   - "tecnologia"
   - "desenvolvedor"
   - "blog"
   - "youtube"
-  - "paixão por carros"
+  - "paixao-por-carros"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2024/02/1000084608-01.png?w=1024)

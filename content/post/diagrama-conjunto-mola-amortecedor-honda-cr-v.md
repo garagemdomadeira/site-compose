@@ -6,16 +6,16 @@ categories:
   - "suspensao"
   - "diagramas"
 tags:
-  - "conjunto mola amortecedor"
+  - "conjunto-mola-amortecedor"
   - "diagrama"
-  - "suspensão dianteira"
+  - "suspensao-dianteira"
   - "mola"
   - "amortecedor"
   - "montante"
-  - "esterçamento"
+  - "estercamento"
   - "estabilidade"
   - "esquema"
-  - "peças"
+  - "pecas"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/08/header_suspensao_diant.jpg?w=656)

@@ -6,15 +6,15 @@ categories:
   - "recursos"
   - "manuais"
 tags:
-  - "catálogo eletrônico"
-  - "manuais de serviço"
-  - "peças"
+  - "catalogo-eletronico"
+  - "manuais-de-servico"
+  - "pecas"
   - "48parts"
   - "epc-data"
   - "hcrv.net"
   - "youtube"
   - "recursos"
-  - "identificação"
+  - "identificacao"
   - "reparos"
 ---
 

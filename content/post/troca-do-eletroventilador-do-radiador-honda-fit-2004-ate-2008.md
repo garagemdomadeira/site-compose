@@ -14,9 +14,8 @@ tags:
   - "motor"
   - "temperatura"
   - "youtube"
-  - "mercado livre"
-  - "limpeza"
-coverImage: "ventilador.jpeg"
+  - "mercado-livre"
+  - "limpeza"coverImage: "ventilador.jpeg"
 ---
 
 No meu novo vídeo do YouTube, vou te mostrar como fazer a troca do eletroventilador do radiador em um Honda Fit 2007.

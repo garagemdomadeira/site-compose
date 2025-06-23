@@ -6,16 +6,16 @@ categories:
   - "suspensao"
   - "modificacoes"
 tags:
-  - "kit lifting"
-  - "suspensão"
-  - "modificação"
-  - "arquivos STL"
-  - "impressão 3D"
+  - "kit-lifting"
+  - "suspensao"
+  - "modificacao"
+  - "arquivos-stl"
+  - "impressao-3d"
   - "altura"
   - "download"
-  - "Google Drive"
+  - "google-drive"
   - "projeto"
-  - "customização"
+  - "customizacao"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2024/01/screenshot-2024-01-02-as-08.03.55.jpg?w=1024)

@@ -8,12 +8,12 @@ categories:
 tags:
   - "aliexpress"
   - "ofertas"
-  - "honda cr-v"
-  - "honda fit"
-  - "multimídia"
-  - "câmeras"
+  - "honda-cr-v"
+  - "honda-fit"
+  - "multimidia"
+  - "cameras"
   - "ferramentas"
-  - "peças"
+  - "pecas"
   - "produtos"
   - "compras"
 ---

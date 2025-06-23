@@ -6,16 +6,16 @@ categories:
   - "acessorios"
   - "procedimentos"
 tags:
-  - "chave canivete"
-  - "controle remoto"
-  - "chave virgem"
+  - "chave-canivete"
+  - "controle-remoto"
+  - "chave-virgem"
   - "desmontagem"
-  - "cópia de chave"
+  - "copia-de-chave"
   - "chaveiro"
   - "tutorial"
   - "diy"
-  - "modernização"
-  - "acessórios"
+  - "modernizacao"
+  - "acessorios"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_chaves-2.jpg?w=1024)

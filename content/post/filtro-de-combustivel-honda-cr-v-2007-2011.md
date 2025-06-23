@@ -6,16 +6,16 @@ categories:
   - "filtros"
   - "manutencao"
 tags:
-  - "filtro de combustível"
-  - "manutenção"
-  - "substituição"
-  - "40.000 km"
-  - "bico injetor"
+  - "filtro-de-combustivel"
+  - "manutencao"
+  - "substituicao"
+  - "40.000-km"
+  - "bico-injetor"
   - "impurezas"
-  - "códigos"
+  - "codigos"
   - "aftermarket"
-  - "concessionária"
-  - "prevenção"
+  - "concessionaria"
+  - "prevencao"
 ---
 
 <figure>

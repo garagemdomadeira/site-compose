@@ -1,6 +1,21 @@
 ---
 title: "Grupo de WhatsApp"
 date: "2025-05-24"
+categories:
+  - "comunidade"
+  - "whatsapp"
+  - "networking"
+tags:
+  - "grupo de WhatsApp"
+  - "comunidade"
+  - "dicas"
+  - "manutenção"
+  - "experiências"
+  - "networking"
+  - "automóveis"
+  - "entusiastas"
+  - "inscrição"
+  - "interação"
 ---
 
 ## Conecte-se com outros apaixonados por carros

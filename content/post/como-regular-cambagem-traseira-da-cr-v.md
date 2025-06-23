@@ -1,16 +1,21 @@
 ---
 title: "Como regular cambagem traseira da CR-V"
 date: "2021-03-15"
-categories: 
+categories:
   - "honda-cr-v"
-  - "procedimentos"
-tags: 
-  - "cambagem"
-  - "cr-v"
-  - "honda"
-  - "honda-crv"
-  - "manutencao"
   - "suspensao"
+  - "procedimentos"
+tags:
+  - "cambagem"
+  - "suspensão traseira"
+  - "alinhamento"
+  - "pneus"
+  - "estrutura"
+  - "torque"
+  - "manutenção"
+  - "diy"
+  - "tutorial"
+  - "desgaste"
 coverImage: "crv2.jpeg"
 ---
 

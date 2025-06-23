@@ -1,12 +1,21 @@
 ---
 title: "LELONG LE-6321"
 date: "2024-07-12"
-categories: 
+categories:
   - "honda-fit"
   - "multimidia"
-tags: 
-  - "destaque"
-  - "honda"
+  - "acessorios"
+tags:
+  - "lelong le-6321"
+  - "central multimídia"
+  - "android 13"
+  - "carplay sem fio"
+  - "android auto sem fio"
+  - "câmera 360"
+  - "plug & play"
+  - "mercado livre"
+  - "9 polegadas"
+  - "octacore"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2024/07/screenshot-2024-07-12-as-18.18.55.jpg?w=606)](https://mercadolivre.com/sec/11s8Chp)

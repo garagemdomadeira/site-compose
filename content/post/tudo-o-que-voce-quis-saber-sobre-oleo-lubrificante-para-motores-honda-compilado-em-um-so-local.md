@@ -1,14 +1,21 @@
 ---
 title: "MINHA ANÁLISE SOBRE ÓLEO PARA HONDA"
 date: "2024-01-26"
-categories: 
+categories:
   - "oleos"
-  - "honda-cr-v"
-tags: 
+  - "honda"
+  - "analise"
+tags:
+  - "óleo lubrificante"
   - "0w20"
   - "10w30"
-  - "oleo"
-  - "motor"
+  - "olho no óleo"
+  - "análise comparativa"
+  - "marcas"
+  - "elementos químicos"
+  - "gráficos"
+  - "youtube"
+  - "tecnologia automotiva"
 coverImage: "oil.png"
 ---
 

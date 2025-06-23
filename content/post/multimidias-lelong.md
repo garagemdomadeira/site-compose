@@ -1,6 +1,21 @@
 ---
 title: "Multimídias Lelong"
 date: "2024-11-15"
+categories:
+  - "multimidia"
+  - "lelong"
+  - "comparacao"
+tags:
+  - "multimídias lelong"
+  - "le-6320"
+  - "le-6321"
+  - "le-6315"
+  - "le-6325"
+  - "le-6326"
+  - "le-6334"
+  - "le-6327"
+  - "câmera 360"
+  - "comparação"
 ---
 
 Lista das principais multimídias da Lelong. Para quem está na dúvida de qual multimídia comprar, listei as especificações principais, o tamanho da tela, memória e caso queiram usar o sistema de câmera 360, vejam se possui suporte:
@@ -52,23 +67,6 @@ Aceita câmera 360: sim
 > A mais básica configuração de hardware entre os modelos.  
 
 [Ver ofertas](https://mercadolivre.com/sec/1z5fCtN)
-
-* * *
-
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/11/d_nq_np_2x_862755-mlb74837851280_032024-f.webp?w=413)](https://mercadolivre.com/sec/1C97v3e)
-
-## LE-6325
-
-**Preços próximos de R$500,00**  
-Memória Ram: 2GB  
-Armazenamento: 32GB  
-Processador: Quadcore  
-Tela: 6,8 polegadas - 1 DIN  
-Aceita câmera 360: não
-
-> Perfeita para quem tem um carro com espado apenas para um autorrádio
-
-[Ver ofertas](https://mercadolivre.com/sec/1C97v3e)
 
 * * *
 

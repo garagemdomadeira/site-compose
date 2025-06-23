@@ -1,15 +1,21 @@
 ---
 title: "Achados AliExpress CR-V"
 date: "2023-10-25"
-categories: 
+categories:
   - "honda-cr-v"
   - "achados"
-tags: 
-  - "cr-v"
-  - "honda"
-  - "honda-cr-v"
   - "produtos"
-  - "eletrônica"
+tags:
+  - "aliexpress"
+  - "luzes de teto"
+  - "lâmpada led h1"
+  - "chave canivete"
+  - "limitadores de porta"
+  - "tampas"
+  - "farol de neblina"
+  - "grampos"
+  - "acessórios"
+  - "reposição"
 ---
 
 Uma coletânea de itens que fico garimpando no AliExpress e que acho que poderia ser útil para você.

@@ -1,10 +1,21 @@
 ---
 title: "Multimídia Android - Conhecendo o conector principal"
 date: "2024-06-15"
-categories: 
+categories:
   - "multimidia"
-tags: 
-  - "android"
+  - "instalacao"
+  - "eletronica"
+tags:
+  - "multimídia android"
+  - "conector principal"
+  - "16 vias"
+  - "alimentação"
+  - "volante multifuncional"
+  - "câmera de ré"
+  - "faróis"
+  - "youtube"
+  - "instalação"
+  - "esquema"
 ---
 
 https://youtu.be/tTd3Xy3o3RI

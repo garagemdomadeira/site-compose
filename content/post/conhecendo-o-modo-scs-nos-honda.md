@@ -1,12 +1,21 @@
 ---
 title: "Conhecendo o modo SCS nos Honda."
 date: "2021-03-27"
-categories: 
+categories:
   - "honda-cr-v"
+  - "diagnostico"
   - "procedimentos"
-tags: 
-  - "obd2"
-  - "scs"
+tags:
+  - "modo scs"
+  - "dtc"
+  - "diagnóstico"
+  - "códigos de erro"
+  - "painel"
+  - "porta obd2"
+  - "jumper"
+  - "abs"
+  - "vsa"
+  - "tutorial"
 ---
 
 ![](header_scs.jpg)

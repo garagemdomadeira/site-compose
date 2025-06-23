@@ -1,15 +1,21 @@
 ---
 title: "Manutenção Periódica Honda CR-V"
 date: "2021-05-01"
-categories: 
+categories:
   - "honda-cr-v"
+  - "manutencao"
   - "procedimentos"
-tags: 
+tags:
+  - "manutenção periódica"
+  - "óleo do motor"
+  - "filtros"
+  - "velas de ignição"
+  - "fluido de arrefecimento"
+  - "fluido de freio"
   - "correias"
-  - "filtro-de-ar"
-  - "filtro-de-oleo"
-  - "filtro-de-cabine"
-  - "filtro-de-combustivel"
+  - "bateria"
+  - "pneus"
+  - "manual do proprietário"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=656)

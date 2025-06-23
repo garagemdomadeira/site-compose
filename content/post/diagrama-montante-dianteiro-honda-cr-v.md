@@ -1,12 +1,21 @@
 ---
 title: "Diagrama - Montante dianteiro - Honda CR-V"
 date: "2021-08-14"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-tags: 
-  - "manutencao"
   - "suspensao"
+  - "diagramas"
+tags:
+  - "montante dianteiro"
+  - "diagrama"
+  - "suspensão dianteira"
+  - "cubo da roda"
+  - "braço inferior"
+  - "conjunto"
+  - "esquema"
+  - "peças"
+  - "estrutura"
+  - "montagem"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/08/header_suspensao_diant.jpg?w=656)

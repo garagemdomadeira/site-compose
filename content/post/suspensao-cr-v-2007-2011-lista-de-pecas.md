@@ -1,15 +1,21 @@
 ---
 title: "Suspensão CR-V 2007-2011 (Lista de peças)"
 date: "2021-04-03"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-tags: 
-  - "amortecedor"
+  - "suspensao"
+  - "pecas"
+tags:
+  - "suspensão"
   - "bieleta"
   - "bucha"
   - "coxim"
-  - "suspensao"
+  - "amortecedor"
+  - "mobensani"
+  - "nakata"
+  - "monroe"
+  - "cofap"
+  - "skf"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_suspensao.jpg?w=656)

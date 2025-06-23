@@ -1,13 +1,21 @@
 ---
 title: "Troca parcial ATF Câmbio automático Honda CR-V"
 date: "2021-04-16"
-categories: 
-  - "oleos"
+categories:
   - "honda-cr-v"
-  - "procedimentos"
-tags: 
+  - "cambio"
+  - "oleos"
+tags:
   - "atf"
-  - "cambio-automatico"
+  - "câmbio automático"
+  - "troca parcial"
+  - "4x2"
+  - "4x4"
+  - "80.000 km"
+  - "40.000 km"
+  - "regime severo"
+  - "mini-flush"
+  - "procedimento"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_cambio.jpg?w=1024)
@@ -65,7 +73,7 @@ Para obter esta informação é muito simples, você deverá consultar o manual 
 A Honda preconiza a troca parcial (cerca de 3 litros) a cada 80.000 kms ou 4 anos quando o uso do carro é em regime leve. Para regime de uso severo a troca preconizada é a cada 40.000 kms ou 2 anos.
 
 Segundo a Honda, o regime de uso severo é caracterizado da seguinte forma:  
-Veículos utilizados nas seguintes condições: uso prolongado em marcha lenta ou operação contínua em baixas rotações (tráfego intenso - “anda e pára”), trajetos curtos onde o motor não atinge a temperatura ideal de funcionamento, circulação em vias poeirentas e regiões salinas (maresia), freqüente circulação com carga elevada e veículos utilizados para fins comerciais.
+Veículos utilizados nas seguintes condições: uso prolongado em marcha lenta ou operação contínua em baixas rotações (tráfego intenso - "anda e pára"), trajetos curtos onde o motor não atinge a temperatura ideal de funcionamento, circulação em vias poeirentas e regiões salinas (maresia), freqüente circulação com carga elevada e veículos utilizados para fins comerciais.
 
 Em outro posto eu irei descrever todo o procedimento para realizar a troca parcial, que pode ser feita em casa sem muito trabalho, bastando ter as ferramentas necessárias. Um abraço!
 

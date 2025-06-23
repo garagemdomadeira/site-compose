@@ -1,11 +1,21 @@
 ---
 title: "Filtro de combustível Honda CR-V 2007-2011"
 date: "2021-03-14"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-tags: 
-  - "filtro-de-combustivel"
+  - "filtros"
+  - "manutencao"
+tags:
+  - "filtro de combustível"
+  - "manutenção"
+  - "substituição"
+  - "40.000 km"
+  - "bico injetor"
+  - "impurezas"
+  - "códigos"
+  - "aftermarket"
+  - "concessionária"
+  - "prevenção"
 ---
 
 <figure>

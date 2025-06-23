@@ -1,6 +1,21 @@
 ---
 title: "Produtos que eu utilizo"
 date: "2023-10-31"
+categories:
+  - "produtos"
+  - "ferramentas"
+  - "acessorios"
+tags:
+  - "produtos"
+  - "ferramentas"
+  - "aditivos"
+  - "graxa branca"
+  - "flush"
+  - "cola butílica"
+  - "o-rings"
+  - "rolamento"
+  - "scanner"
+  - "mercado livre"
 coverImage: "dallc2b7e-2023-11-01-17.57.31-photo-in-1920x1080-resolution-of-a-well-lit-automotive-product-store.-the-shelves-are-stocked-with-various-car-products-and-the-entire-store-is-prist.png"
 ---
 

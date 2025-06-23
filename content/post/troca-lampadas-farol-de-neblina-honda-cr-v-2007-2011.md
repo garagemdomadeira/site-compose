@@ -1,16 +1,21 @@
 ---
 title: "TROCA LÂMPADAS FAROL DE NEBLINA HONDA CR-V 2007-2011"
 date: "2023-07-30"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-  - "procedimentos"
-tags: 
-  - "cr-v"
-  - "honda"
-  - "honda-crv"
   - "manutencao"
-coverImage: "crv3.jpeg"
+  - "procedimentos"
+tags:
+  - "farol de neblina"
+  - "lâmpada h11"
+  - "troca de lâmpada"
+  - "diy"
+  - "segurança"
+  - "iluminação"
+  - "dicas automotivas"
+  - "youtube"
+  - "aliexpress"
+  - "ferramenta removedora"
 ---
 
 🚗🔧 E aí, pessoal! Hoje vamos falar sobre uma manutenção importante para os donos de Honda CR-V 2007-2011: a troca das lâmpadas do farol de neblina!

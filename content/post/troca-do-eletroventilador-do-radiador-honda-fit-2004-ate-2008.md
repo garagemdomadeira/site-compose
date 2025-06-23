@@ -1,12 +1,21 @@
 ---
 title: "TROCA DO ELETROVENTILADOR HONDA FIT"
 date: "2024-02-23"
-categories: 
+categories:
   - "honda-fit"
-  - "procedimentos"
-tags: 
-  - "fit"
+  - "arrefecimento"
   - "manutencao"
+tags:
+  - "eletroventilador"
+  - "radiador"
+  - "arrefecimento"
+  - "2003-2008"
+  - "2007"
+  - "motor"
+  - "temperatura"
+  - "youtube"
+  - "mercado livre"
+  - "limpeza"
 coverImage: "ventilador.jpeg"
 ---
 

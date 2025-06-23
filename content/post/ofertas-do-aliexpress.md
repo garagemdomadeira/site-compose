@@ -1,6 +1,21 @@
 ---
 title: "Ofertas do AliExpress"
 date: "2023-10-15"
+categories:
+  - "achados"
+  - "produtos"
+  - "ofertas"
+tags:
+  - "aliexpress"
+  - "ofertas"
+  - "honda cr-v"
+  - "honda fit"
+  - "multimídia"
+  - "câmeras"
+  - "ferramentas"
+  - "peças"
+  - "produtos"
+  - "compras"
 ---
 
 > Deixando aqui alguns bons produtos que achei bastante úteis no meu dia a dia.  

@@ -1,15 +1,21 @@
 ---
 title: "Módulos de conforto Kia Sportage"
 date: "2025-03-30"
-categories: 
+categories:
   - "kia-sportage"
-  - "procedimentos"
-tags: 
-  - "sportage"
-  - "kia"
-  - "kia-sportage"
-  - "manutencao"
-  - "eletrônica"
+  - "acessorios"
+  - "eletronica"
+tags:
+  - "módulos de conforto"
+  - "tury"
+  - "vidros elétricos"
+  - "retrovisores"
+  - "one touch"
+  - "pro4.3.4q"
+  - "pro4.2.8d"
+  - "park3.2.4b"
+  - "youtube"
+  - "instalação"
 ---
 
 https://youtu.be/1EC6FSBhS1M

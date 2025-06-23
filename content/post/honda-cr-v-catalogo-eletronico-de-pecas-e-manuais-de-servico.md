@@ -1,15 +1,21 @@
 ---
 title: "Honda CR-V - Catálogo eletrônico de peças e manuais de serviço"
 date: "2024-02-15"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-  - "procedimentos"
-tags: 
-  - "cr-v"
-  - "honda"
-  - "honda-crv"
-  - "manutencao"
+  - "recursos"
+  - "manuais"
+tags:
+  - "catálogo eletrônico"
+  - "manuais de serviço"
+  - "peças"
+  - "48parts"
+  - "epc-data"
+  - "hcrv.net"
+  - "youtube"
+  - "recursos"
+  - "identificação"
+  - "reparos"
 ---
 
 Neste vídeo, compartilho com vocês uma descoberta valiosa! Encontrei catálogos eletrônicos de peças e manuais de serviço para o Honda CR-V. 😃🚗

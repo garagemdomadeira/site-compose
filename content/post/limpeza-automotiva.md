@@ -1,6 +1,21 @@
 ---
 title: "Limpeza automotiva"
 date: "2023-11-01"
+categories:
+  - "limpeza"
+  - "produtos"
+  - "cuidados"
+tags:
+  - "limpeza automotiva"
+  - "sintra fast"
+  - "intense"
+  - "higicouro"
+  - "hidracouro"
+  - "chuva ácida"
+  - "moto-v"
+  - "interior"
+  - "plásticos"
+  - "couro"
 ---
 
 Deixei uma lista dos produtos que utilizo na limpeza e cuidado com meus carros. A missão é facilitar quem está perdido e não sabe quais produtos comprar para cuidados básicos, nada muito profissional.

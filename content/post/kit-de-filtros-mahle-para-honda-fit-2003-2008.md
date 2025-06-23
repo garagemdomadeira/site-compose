@@ -1,15 +1,21 @@
 ---
 title: "KIT DE FILTROS MAHLE PARA HONDA FIT 2003-2008"
 date: "2024-02-26"
-categories: 
+categories:
   - "honda-fit"
-  - "lista-de-pecas"
-tags: 
-  - "filtro-de-ar"
-  - "filtro-de-oleo"
-  - "filtro-de-cabine"
-  - "honda"
+  - "filtros"
   - "manutencao"
+tags:
+  - "kit de filtros"
+  - "mahle"
+  - "filtro de ar"
+  - "filtro de óleo"
+  - "filtro de cabine"
+  - "primeira geração"
+  - "youtube"
+  - "mercado livre"
+  - "manutenção"
+  - "desempenho"
 ---
 
 Olá pessoal, gostaria de mostrar pra vocês o kit de filtros mahle com todos os filtros para Honda Fit 2003-2008

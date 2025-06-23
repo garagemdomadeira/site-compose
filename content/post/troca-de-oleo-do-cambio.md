@@ -1,15 +1,21 @@
 ---
 title: "TROCA DE ÓLEO DO CÂMBIO"
 date: "2024-03-04"
-categories: 
-  - "oleos"
+categories:
   - "kia-sportage"
+  - "oleos"
   - "procedimentos"
-tags: 
+tags:
+  - "óleo de câmbio"
   - "atf"
-  - "kia"
-  - "manutencao"
-coverImage: "cambio.jpg"
+  - "mobil"
+  - "dexron vi"
+  - "troca parcial"
+  - "câmbio automático"
+  - "grampos"
+  - "manutenção preventiva"
+  - "youtube"
+  - "diy"
 ---
 
 https://youtu.be/BdDLx49g5iw?si=C4Mw1g5SfAp-RGwk

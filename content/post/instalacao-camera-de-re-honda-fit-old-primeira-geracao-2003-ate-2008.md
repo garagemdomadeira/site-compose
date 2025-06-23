@@ -1,11 +1,21 @@
 ---
 title: "Instalação câmera de ré Honda Fit Old (Primeira geração 2003 até 2008)"
 date: "2024-02-15"
-categories: 
+categories:
   - "honda-fit"
-  - "manutencao"
   - "multimidia"
   - "procedimentos"
+tags:
+  - "câmera de ré"
+  - "instalação"
+  - "primeira geração"
+  - "fiação"
+  - "acessório"
+  - "youtube"
+  - "tutorial"
+  - "parte traseira"
+  - "multimídia"
+  - "2007"
 ---
 
 Olá à todos!

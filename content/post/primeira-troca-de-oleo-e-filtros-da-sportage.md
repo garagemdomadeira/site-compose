@@ -1,16 +1,21 @@
 ---
 title: "PRIMEIRA TROCA DE ÓLEO E FILTROS DA SPORTAGE"
 date: "2024-02-26"
-categories: 
-  - "oleos"
+categories:
   - "kia-sportage"
-  - "procedimentos"
-tags: 
-  - "oleo"
-  - "filtro-de-ar"
-  - "filtro-de-oleo"
-  - "kia"
   - "manutencao"
+  - "oleos"
+tags:
+  - "troca de óleo"
+  - "filtros"
+  - "shell helix hx8"
+  - "5w30"
+  - "koube"
+  - "nanotech"
+  - "5000 km"
+  - "10000 km"
+  - "youtube"
+  - "manutenção"
 coverImage: "oleos.jpeg"
 ---
 

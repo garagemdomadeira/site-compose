@@ -1,6 +1,21 @@
 ---
 title: "Kit Multimídia Sportage"
 date: "2024-06-17"
+categories:
+  - "kia-sportage"
+  - "multimidia"
+  - "acessorios"
+tags:
+  - "kit multimídia"
+  - "lelong le-6321"
+  - "amplificador taramps"
+  - "câmera 360"
+  - "android 13"
+  - "carplay sem fio"
+  - "android auto sem fio"
+  - "mercado livre"
+  - "aliexpress"
+  - "instalação"
 ---
 
 Este kit é composto por:

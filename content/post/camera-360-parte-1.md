@@ -1,16 +1,21 @@
 ---
 title: "Câmera 360 - Parte 1"
 date: "2024-04-15"
-categories: 
+categories:
   - "kia-sportage"
   - "multimidia"
   - "procedimentos"
-tags: 
-  - "camera360"
-  - "cr-v"
-  - "multimidia"
-  - "sportage"
-coverImage: "garagem-madera-camera360.jpg"
+tags:
+  - "câmera 360"
+  - "estacionamento"
+  - "tecnologia automotiva"
+  - "lelong le6321"
+  - "carlaoer"
+  - "kit de câmeras"
+  - "fonte 12v"
+  - "multimídia android"
+  - "configurações"
+  - "tutorial"
 ---
 
 <!--more-->

@@ -1,6 +1,21 @@
 ---
 title: "Multimídias, Câmeras e afins"
 date: "2023-10-25"
+categories:
+  - "multimidia"
+  - "acessorios"
+  - "achados"
+tags:
+  - "aliexpress"
+  - "lelong le6321"
+  - "câmera 360"
+  - "câmera de ré"
+  - "android auto"
+  - "dash cam"
+  - "tpms"
+  - "sensor de estacionamento"
+  - "carro"
+  - "tecnologia automotiva"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2024/03/screenshot-2024-03-12-as-21.30.46.jpg?w=1024)](https://mercadolivre.com/sec/1MXmkpk)

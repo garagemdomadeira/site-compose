@@ -1,9 +1,21 @@
 ---
 title: "Limpeza intensa do ar condicionado Honda CR-V 2007-2011 sem desmontar"
 date: "2023-08-15"
-categories: 
+categories:
   - "honda-cr-v"
-  - "procedimentos"
+  - "ar-condicionado"
+  - "limpeza"
+tags:
+  - "limpeza ar condicionado"
+  - "evaporador"
+  - "mau cheiro"
+  - "bactérias"
+  - "fungos"
+  - "ácaros"
+  - "youtube"
+  - "produto"
+  - "saúde"
+  - "tutorial"
 ---
 
 Fala aí, pessoal! Hoje vou dividir com vocês uma dica valiosa sobre a limpeza do sistema de ar condicionado, com foco especial no evaporador, que é uma parte que costuma acumular uma sujeira considerável. 💨❄️

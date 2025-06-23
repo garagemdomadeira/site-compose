@@ -1,12 +1,21 @@
 ---
 title: "Diagnóstico Ar-Condicionado Digital CR-V"
 date: "2021-04-10"
-categories: 
+categories:
   - "honda-cr-v"
-  - "procedimentos"
-tags: 
+  - "ar-condicionado"
   - "diagnostico"
+tags:
+  - "ar condicionado digital"
+  - "diagnóstico"
+  - "teste"
+  - "sensor de temperatura"
+  - "eletroventilador"
+  - "servo motor"
   - "dtc"
+  - "climatização"
+  - "tutorial"
+  - "sistema"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_ar_condicionadl.jpg?w=1024)

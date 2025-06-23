@@ -1,12 +1,21 @@
 ---
 title: "Válvula termostática Honda CR-V 2007-2011"
 date: "2021-03-14"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-tags: 
   - "arrefecimento"
-  - "manutencao"
+  - "pecas"
+tags:
+  - "válvula termostática"
+  - "arrefecimento"
+  - "temperatura"
+  - "fuji seiko"
+  - "nippon"
+  - "mte thomson"
+  - "wahler"
+  - "valclei"
+  - "superaquecimento"
+  - "2007-2011"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_vt.jpg?w=1024)

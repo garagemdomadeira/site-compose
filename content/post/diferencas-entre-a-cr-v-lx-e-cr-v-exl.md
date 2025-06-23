@@ -1,12 +1,21 @@
 ---
 title: "Diferenças entre a CR-V LX e CR-V EXL"
 date: "2021-03-14"
-categories: 
+categories:
   - "honda-cr-v"
-tags: 
-  - "4x4"
-  - "subwoofer"
+  - "comparacao"
+  - "especificacoes"
+tags:
+  - "cr-v lx"
+  - "cr-v exl"
+  - "comparação"
+  - "versões"
+  - "tração 4x4"
+  - "teto solar"
   - "vsa"
+  - "subwoofer"
+  - "air-bags"
+  - "especificações"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_sobre.jpg?w=656)

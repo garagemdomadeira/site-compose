@@ -1,13 +1,21 @@
 ---
 title: "Android Auto sem cabo conectado na multimídia - Instruções e instalação"
 date: "2024-01-15"
-categories: 
+categories:
   - "honda-cr-v"
   - "multimidia"
-tags: 
-  - "android"
-  - "android-auto"
-  - "multimidia"
+  - "tecnologia"
+tags:
+  - "android auto"
+  - "wireless"
+  - "sem cabo"
+  - "bluetooth"
+  - "wi-fi"
+  - "conectividade"
+  - "central multimídia"
+  - "aliexpress"
+  - "tutorial"
+  - "configuração"
 ---
 
 <!--more-->

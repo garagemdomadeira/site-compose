@@ -1,6 +1,21 @@
 ---
 title: "Ferramentas que eu uso e aprovo"
 date: "2023-10-25"
+categories:
+  - "honda-fit"
+  - "achados"
+  - "produtos"
+tags:
+  - "aliexpress"
+  - "honda fit"
+  - "ferramentas"
+  - "grampos"
+  - "luzes"
+  - "tampa do radiador"
+  - "trava elétrica"
+  - "porta-malas"
+  - "ar condicionado"
+  - "manutenção"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2023/10/screenshot-2023-10-24-as-10.48.52.jpg?w=640)](https://s.click.aliexpress.com/e/_DCjzwUT)

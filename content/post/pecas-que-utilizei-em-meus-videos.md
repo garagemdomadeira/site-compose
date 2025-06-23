@@ -1,7 +1,21 @@
 ---
 title: "Peças que utilizei em meus vídeos"
 date: "2023-11-07"
-coverImage: "863deef2-c967-45e7-85eb-a258dfd7fc59.webp"
+categories:
+  - "produtos"
+  - "manutencao"
+  - "achados"
+tags:
+  - "fluido de arrefecimento"
+  - "eletroventilador"
+  - "pastilhas de freio"
+  - "discos de freio"
+  - "bucha"
+  - "barra estabilizadora"
+  - "junta do cabeçote"
+  - "honda fit"
+  - "honda cr-v"
+  - "mercado livre"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2023/11/screenshot-2023-11-10-as-11.20.50.jpg?w=573)](https://mercadolivre.com.br/sec/1EFKKuY)

@@ -1,12 +1,21 @@
 ---
 title: "TROCA ROLAMENTO DO FIT"
 date: "2024-06-12"
-categories: 
+categories:
   - "honda-fit"
+  - "manutencao"
   - "procedimentos"
-tags: 
-  - "honda"
-coverImage: "novo-projeto.jpg"
+tags:
+  - "rolamento"
+  - "parafuso da roda"
+  - "prisioneiro"
+  - "diy"
+  - "mecânica automotiva"
+  - "segurança"
+  - "tutorial"
+  - "youtube"
+  - "primeira geração"
+  - "garagem do madeira"
 ---
 
 https://youtu.be/T-7cuIHLrpE

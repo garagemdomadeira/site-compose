@@ -1,6 +1,21 @@
 ---
 title: "Kia Sportage"
 date: "2024-12-06"
+categories:
+  - "kia-sportage"
+  - "produtos"
+  - "referencias"
+tags:
+  - "kia sportage"
+  - "hyundai ix35"
+  - "itens de revisão"
+  - "suspensão"
+  - "produtos"
+  - "mercado livre"
+  - "conteúdo"
+  - "referências"
+  - "manutenção"
+  - "dicas"
 ---
 
 Aqui você encontra todas as referências aos conteúdos e produtos que uso e/ou indico para Kia Sportage. Muitos desses produtos irão servir para o Hyundai IX35.

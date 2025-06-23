@@ -1,13 +1,21 @@
 ---
 title: "Suspensão dianteira Honda CR-V 2007-2011"
 date: "2021-08-14"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-tags: 
-  - "diagrama"
-  - "manutencao"
   - "suspensao"
+  - "diagramas"
+tags:
+  - "suspensão dianteira"
+  - "mcpherson"
+  - "montante"
+  - "mola amortecedor"
+  - "barra estabilizadora"
+  - "bieleta"
+  - "braço inferior"
+  - "diagrama"
+  - "componentes"
+  - "2007-2011"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/08/header_suspensao_diant.jpg?w=1024)

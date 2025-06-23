@@ -1,12 +1,21 @@
 ---
 title: "Inspeção/Troca de velas de ignição Honda CR-V"
 date: "2021-04-30"
-categories: 
+categories:
   - "honda-cr-v"
+  - "motor"
   - "procedimentos"
-tags: 
-  - "r20a"
-  - "velas-de-ignicao"
+tags:
+  - "velas de ignição"
+  - "motor r20a"
+  - "bobinas"
+  - "inspeção"
+  - "troca"
+  - "torque"
+  - "60.000 km"
+  - "ngk"
+  - "denso"
+  - "tutorial"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_bobina.jpg?w=1024)

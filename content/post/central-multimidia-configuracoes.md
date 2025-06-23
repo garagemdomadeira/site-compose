@@ -1,14 +1,21 @@
 ---
 title: "Central Multimídia - Configurações"
 date: "2023-07-15"
-categories: 
+categories:
   - "honda-cr-v"
   - "multimidia"
-tags: 
-  - "cr-v"
-  - "honda"
-  - "honda-crv"
-  - "manutencao"
+  - "configuracoes"
+tags:
+  - "central multimídia"
+  - "configurações"
+  - "multimídia chinesa"
+  - "aliexpress"
+  - "tutorial"
+  - "youtube"
+  - "dicas"
+  - "tecnologia"
+  - "entretenimento"
+  - "veículo"
 ---
 
 https://youtu.be/OvLRIJ\_tKm4

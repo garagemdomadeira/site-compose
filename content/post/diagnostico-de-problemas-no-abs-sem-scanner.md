@@ -1,13 +1,21 @@
 ---
 title: "Diagnóstico de problemas no ABS sem Scanner"
 date: "2021-03-28"
-categories: 
+categories:
   - "honda-cr-v"
-  - "procedimentos"
-tags: 
+  - "freios"
+  - "diagnostico"
+tags:
   - "abs"
-  - "dtc"
   - "vsa"
+  - "sensor de velocidade"
+  - "diagnóstico"
+  - "modo scs"
+  - "dtc"
+  - "sistema de freios"
+  - "controle de estabilidade"
+  - "troca de peça"
+  - "tutorial"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_abs.jpg?w=1024)

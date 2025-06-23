@@ -1,6 +1,21 @@
 ---
 title: "Ferramentas que eu uso e aprovo"
 date: "2023-10-25"
+categories:
+  - "ferramentas"
+  - "manutencao"
+  - "achados"
+tags:
+  - "aliexpress"
+  - "mercado livre"
+  - "macaco hidráulico"
+  - "honda fit"
+  - "torquímetro"
+  - "bomba de vácuo"
+  - "osciloscópio"
+  - "kit o-rings"
+  - "extrator de pivô"
+  - "chave de impacto"
 ---
 
 [![](https://garagemdomadeira.com/wp-content/uploads/2024/06/d_nq_np_2x_863326-mlb76841522427_062024-f.webp?w=1024)](https://mercadolivre.com/sec/2UJHj5w)

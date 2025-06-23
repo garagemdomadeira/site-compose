@@ -1,7 +1,21 @@
 ---
 title: "Reforma Farol Honda Fit"
 date: "2024-09-04"
-coverImage: "copia-de-banner-full-2.png"
+categories:
+  - "honda-fit"
+  - "manutencao"
+  - "procedimentos"
+tags:
+  - "farol"
+  - "reforma"
+  - "lente"
+  - "cola butília"
+  - "soprador térmico"
+  - "proteção uv"
+  - "lâmpada h7"
+  - "mercado livre"
+  - "aliexpress"
+  - "diy"
 ---
 
 Muitas pessoas me pedem os links dos produtos que eu utilizei durante a reforma do farol do Honda Fit que eu gravei. Separei aqui todos os produtos que utilizei quando fiz a suspensão do carro, os links são todos do Mercado Livre e você estará ajudando o canal com uma comissão ao comprar por eles. Boas compras.

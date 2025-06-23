@@ -1,14 +1,21 @@
 ---
 title: "Filtros para Honda CR-V 2007-2011"
 date: "2021-03-14"
-categories: 
+categories:
   - "honda-cr-v"
-  - "lista-de-pecas"
-tags: 
-  - "filtro-de-ar"
-  - "filtro-de-oleo"
-  - "filtro-de-cabine"
+  - "filtros"
   - "manutencao"
+tags:
+  - "filtro de óleo"
+  - "filtro de ar"
+  - "filtro de cabine"
+  - "aftermarket"
+  - "códigos"
+  - "manutenção"
+  - "substituição"
+  - "marcas"
+  - "catálogo"
+  - "referência"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_filtros.jpg?w=1024)

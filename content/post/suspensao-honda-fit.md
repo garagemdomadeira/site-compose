@@ -1,7 +1,21 @@
 ---
 title: "Suspensão Honda Fit (2003-2008)"
 date: "2024-06-10"
-coverImage: "pagina-2.png"
+categories:
+  - "honda-fit"
+  - "suspensao"
+  - "manutencao"
+tags:
+  - "amortecedor"
+  - "molas"
+  - "coxim"
+  - "rolamento"
+  - "bieleta"
+  - "barra estabilizadora"
+  - "bandeja"
+  - "peças"
+  - "mercado livre"
+  - "vídeo"
 ---
 
 <figure>

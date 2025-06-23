@@ -1,6 +1,21 @@
 ---
 title: "Freios Honda Fit (2003-2008)"
 date: "2024-06-19"
+categories:
+  - "honda-fit"
+  - "freios"
+  - "pecas"
+tags:
+  - "pastilhas de freio"
+  - "discos de freio"
+  - "sapatas traseiras"
+  - "tambores de freio"
+  - "fluido de freio"
+  - "sistema de freios"
+  - "manutenção"
+  - "mercado livre"
+  - "peças"
+  - "substituição"
 ---
 
 <figure>

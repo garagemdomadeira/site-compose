@@ -1,9 +1,21 @@
 ---
 title: "Chave do tipo canivete para Honda CR-V"
 date: "2021-04-14"
-categories: 
+categories:
   - "honda-cr-v"
+  - "acessorios"
   - "procedimentos"
+tags:
+  - "chave canivete"
+  - "controle remoto"
+  - "chave virgem"
+  - "desmontagem"
+  - "cópia de chave"
+  - "chaveiro"
+  - "tutorial"
+  - "diy"
+  - "modernização"
+  - "acessórios"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_chaves-2.jpg?w=1024)

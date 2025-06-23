@@ -1,6 +1,21 @@
 ---
 title: "Sobre mim"
 date: "2021-03-14"
+categories:
+  - "sobre"
+  - "autor"
+  - "apresentacao"
+tags:
+  - "garagem do madeira"
+  - "honda cr-v"
+  - "honda fit"
+  - "kia sportage"
+  - "automóveis"
+  - "tecnologia"
+  - "desenvolvedor"
+  - "blog"
+  - "youtube"
+  - "paixão por carros"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2024/02/1000084608-01.png?w=1024)

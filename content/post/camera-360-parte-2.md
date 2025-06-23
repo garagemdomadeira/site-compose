@@ -1,15 +1,21 @@
 ---
 title: "Câmera 360 - Parte 2"
 date: "2024-04-15"
-categories: 
+categories:
   - "kia-sportage"
   - "multimidia"
   - "procedimentos"
-tags: 
-  - "camera360"
-  - "cr-v"
-  - "sportage"
-coverImage: "retrovisor.jpg"
+tags:
+  - "câmera 360"
+  - "retrovisor"
+  - "câmeras laterais"
+  - "desmontagem"
+  - "montagem"
+  - "lelong le6321"
+  - "carlaoer"
+  - "kit de câmeras"
+  - "fonte 12v"
+  - "tutorial"
 ---
 
 <!--more-->

@@ -1,12 +1,21 @@
 ---
 title: "TROCA DO FLUIDO DE FREIO KIA SPORTAGE"
 date: "2024-03-25"
-categories: 
+categories:
   - "kia-sportage"
-  - "procedimentos"
-tags: 
   - "manutencao"
-coverImage: "videocapture_20240324-134810-01.jpeg"
+  - "procedimentos"
+tags:
+  - "fluido de freio"
+  - "freio"
+  - "manutenção preventiva"
+  - "diy"
+  - "bomba de vácuo"
+  - "seringa de sucção"
+  - "ferramentas"
+  - "segurança"
+  - "tutorial"
+  - "vídeo"
 ---
 
 <!--more-->

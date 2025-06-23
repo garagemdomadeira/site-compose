@@ -1,13 +1,21 @@
 ---
 title: "Códigos de erro da MICU para Honda CR-V"
 date: "2021-04-05"
-categories: 
-  - "codigos-de-erro"
+categories:
   - "honda-cr-v"
-tags: 
+  - "diagnostico"
+  - "codigos-de-erro"
+tags:
+  - "micu"
+  - "códigos de erro"
   - "dtc"
-  - "obd2"
-  - "scs"
+  - "modo scs"
+  - "diagnóstico"
+  - "painel"
+  - "comunicação"
+  - "air-bags"
+  - "limpadores"
+  - "luzes"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=656)

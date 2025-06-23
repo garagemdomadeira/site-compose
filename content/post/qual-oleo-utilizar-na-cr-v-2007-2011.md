@@ -1,18 +1,21 @@
 ---
 title: "Qual óleo utilizar na CR-V 2007-2011?"
 date: "2021-03-14"
-categories: 
-  - "oleos"
+categories:
   - "honda-cr-v"
-tags: 
+  - "oleos"
+  - "manutencao"
+tags:
+  - "óleo lubrificante"
   - "0w20"
   - "10w30"
-  - "oleo"
-  - "cr-v"
+  - "5w30"
+  - "motor r20a"
+  - "troca de óleo"
+  - "manual do proprietário"
   - "honda"
-  - "honda-crv"
-  - "manutencao"
-coverImage: "oil.png"
+  - "dicas"
+  - "comparativo"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_oleo.jpg?w=1024)

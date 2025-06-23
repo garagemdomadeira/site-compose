@@ -1,7 +1,21 @@
 ---
 title: "Suspensão Kia Sportage - 2015"
 date: "2024-07-26"
-coverImage: "pagina-1.png"
+categories:
+  - "kia-sportage"
+  - "suspensao"
+  - "manutencao"
+tags:
+  - "amortecedor"
+  - "molas"
+  - "bieleta"
+  - "bucha"
+  - "torque"
+  - "ferramentas"
+  - "macaco jacaré"
+  - "torquímetro"
+  - "mercado livre"
+  - "diy"
 ---
 
 Muitas pessoas me pedem os links dos produtos que eu utilizei em minha Sportage durante os vídeos que eu gravei. Separei aqui todos os produtos que utilizei quando fiz a suspensão do carro, os links são todos do Mercado Livre e você estará ajudando o canal com uma comissão ao comprar por eles. Boas compras.

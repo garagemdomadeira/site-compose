@@ -1,13 +1,21 @@
 ---
 title: "TROQUEI MINHA CR-V EM UM KIA SPORTAGE"
 date: "2024-02-23"
-categories: 
+categories:
   - "kia-sportage"
-tags: 
-  - "cr-v"
-  - "honda"
-  - "kia"
-  - "sportage"
+  - "honda-cr-v"
+  - "comparacao"
+tags:
+  - "kia sportage 2015"
+  - "honda cr-v 2011"
+  - "comparação"
+  - "topo de linha"
+  - "câmbio 6 marchas"
+  - "teto panorâmico"
+  - "chave presencial"
+  - "suspensão"
+  - "porta-malas"
+  - "youtube"
 coverImage: "sporttage.jpeg"
 ---
 

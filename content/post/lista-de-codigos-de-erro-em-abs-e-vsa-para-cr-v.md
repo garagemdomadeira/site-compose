@@ -1,13 +1,21 @@
 ---
 title: "Lista de códigos de erro em ABS e VSA para CR-V"
 date: "2021-03-28"
-categories: 
-  - "codigos-de-erro"
+categories:
   - "honda-cr-v"
-tags: 
+  - "freios"
+  - "codigos-de-erro"
+tags:
+  - "códigos de erro"
   - "abs"
-  - "obd2"
   - "vsa"
+  - "dtc"
+  - "sensor de roda"
+  - "válvula solenóide"
+  - "bomba hidráulica"
+  - "diagnóstico"
+  - "tabela"
+  - "referência"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=1024)

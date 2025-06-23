@@ -1,16 +1,21 @@
 ---
 title: "Minhas experiências após remap"
 date: "2022-01-15"
-categories: 
+categories:
   - "honda-cr-v"
+  - "performance"
   - "procedimentos"
-tags: 
-  - "cr-v"
-  - "honda"
-  - "honda-crv"
-  - "reflash"
+tags:
   - "remap"
-  - "teste"
+  - "reflash"
+  - "k-tunner"
+  - "hondata"
+  - "injeção eletrônica"
+  - "performance"
+  - "torque"
+  - "revit-up"
+  - "experiência"
+  - "dicas"
 ---
 
 ![](https://garagemdomadeira.com/wp-content/uploads/2022/01/header_remap-1.jpeg?w=1024)

@@ -1,9 +1,21 @@
 ---
 title: "Troca da bucha da suspensão dianteira Honda CR-V 2007-2011"
 date: "2023-07-18"
-categories: 
+categories:
   - "honda-cr-v"
-  - "procedimentos"
+  - "suspensao"
+  - "manutencao"
+tags:
+  - "bucha"
+  - "suspensão dianteira"
+  - "mobensani"
+  - "r-flex"
+  - "2007-2011"
+  - "2012-2017"
+  - "youtube"
+  - "procedimento"
+  - "off-road"
+  - "instagram"
 coverImage: "png_20221224_130153_0000.png"
 ---
 

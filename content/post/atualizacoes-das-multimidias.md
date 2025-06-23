@@ -1,6 +1,21 @@
 ---
 title: "Atualizações das Multimídias"
 date: "2025-02-02"
+categories:
+  - "multimidia"
+  - "atualizacoes"
+  - "procedimentos"
+tags:
+  - "firmware"
+  - "lelong le6334"
+  - "lelong le6321"
+  - "lelong le6320"
+  - "update"
+  - "pendrive"
+  - "usb"
+  - "tela vertical"
+  - "tela horizontal"
+  - "tutorial"
 ---
 
 ## Requisitos

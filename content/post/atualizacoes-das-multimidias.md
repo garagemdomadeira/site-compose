@@ -34,6 +34,8 @@ Os requisitos para fazer o update da multimídia são:
 
 ### Lelong LE-6334 - Tela vertical
 
+<a class="btn" target="_blank" href="https://1drv.ms/u/c/3e4168556a91f2df/EXeEoywI5LJNvuM2B6xxYG8B8uDw41TAkdCtUYFfqp0fWw?e=gTOudn">Download</a>
+
 [Download](https://downloads-madeira.s3.us-east-1.amazonaws.com/horizontal/K4811_NWD_S217852-20241105-all-0-25.zip)
 
 * * *
@@ -42,7 +44,7 @@ Os requisitos para fazer o update da multimídia são:
 
 ### Lelong LE-6321 ou LE-6320
 
-[Download](https://downloads-madeira.s3.us-east-1.amazonaws.com/vertical/K4811_NWD_S223259-20241108_193707-all-0-79.zip)
+<a class="btn" target="_blank" href="https://1drv.ms/u/c/3e4168556a91f2df/EXwFOY9eUjNOjvyNTlweKnkBeM-R5wvhx6vSSAMUwHdi3w?e=Wapa43">Download</a>
 
 * * *
 

@@ -18,7 +18,7 @@ tags:
   - "referencia"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/09/header_qualquer.jpg?w=1024)
+![](media/header_qualquer.jpg?w=1024)
 
 Muita gente lê ou ouve pessoas dizendo que suas CR-Vs são do tipo RE3 ou RE5 e não fazem ideia da informação que estão recebendo. Mas agora suas dúvidas acabaram, vamos conferir aqui a tabela de aplicação desses códigos e o que eles querem dizer.
 

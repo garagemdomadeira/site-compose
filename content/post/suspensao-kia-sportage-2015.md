@@ -37,7 +37,7 @@ Amortecedores dianteiros
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/07/screenshot-2024-07-26-as-18.14.01.jpg?w=625)](https://mercadolivre.com/sec/2uUPHZm)
+[![](media/screenshot-2024-07-26-as-18.14.01.jpg?w=625)](https://mercadolivre.com/sec/2uUPHZm)
 
 <figcaption>
 
@@ -50,7 +50,7 @@ Amortecedor traseiro
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/07/d_nq_np_2x_642779-mlb25852308899_082017-f.webp?w=400)](https://mercadolivre.com/sec/2WJXnaG)
+[![](media/d_nq_np_2x_642779-mlb25852308899_082017-f.webp?w=400)](https://mercadolivre.com/sec/2WJXnaG)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Coifa e batente
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/07/d_nq_np_2x_696267-mlb69852734979_062023-f.webp?w=921)](https://mercadolivre.com/sec/1DLNTtY)
+[![](media/d_nq_np_2x_696267-mlb69852734979_062023-f.webp?w=921)](https://mercadolivre.com/sec/1DLNTtY)
 
 <figcaption>
 
@@ -74,7 +74,7 @@ Molas dianteiras
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/07/screenshot-2024-07-26-as-18.16.34.jpg?w=607)](https://mercadolivre.com/sec/1N1WHHr)
+[![](media/screenshot-2024-07-26-as-18.16.34.jpg?w=607)](https://mercadolivre.com/sec/1N1WHHr)
 
 <figcaption>
 
@@ -86,7 +86,7 @@ Molas traseiras
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/07/screenshot-2024-07-26-as-18.17.35.jpg?w=634)](https://mercadolivre.com/sec/1NbQ5Qn)
+[![](media/screenshot-2024-07-26-as-18.17.35.jpg?w=634)](https://mercadolivre.com/sec/1NbQ5Qn)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Bieleta traseira DLZ
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-22-as-10.23.50.jpg?w=635)](https://mercadolivre.com/sec/1sbv8md)
+[![](media/screenshot-2024-08-22-as-10.23.50.jpg?w=635)](https://mercadolivre.com/sec/1sbv8md)
 
 <figcaption>
 
@@ -112,7 +112,7 @@ Kit Bucha Facão Traseiro
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-22-as-10.25.12.jpg?w=657)](https://mercadolivre.com/sec/26v5NX5)
+[![](media/screenshot-2024-08-22-as-10.25.12.jpg?w=657)](https://mercadolivre.com/sec/26v5NX5)
 
 <figcaption>
 
@@ -126,7 +126,7 @@ Manga de eixo
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-22-as-10.26.00.jpg?w=603)](https://mercadolivre.com/sec/1qxroVC)
+[![](media/screenshot-2024-08-22-as-10.26.00.jpg?w=603)](https://mercadolivre.com/sec/1qxroVC)
 
 <figcaption>
 
@@ -139,7 +139,7 @@ _(1 kit para cada lado)_
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-22-as-10.26.05.jpg?w=534)](https://mercadolivre.com/sec/1sHtjrj)
+[![](media/screenshot-2024-08-22-as-10.26.05.jpg?w=534)](https://mercadolivre.com/sec/1sHtjrj)
 
 <figcaption>
 
@@ -179,7 +179,7 @@ Abaixo segue o torque de aperto dos parafusos de suspensão traseira do kia spor
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-26-as-17.02.06.jpg?w=581)](https://mercadolivre.com/sec/2dH94oA)
+[![](media/screenshot-2024-08-26-as-17.02.06.jpg?w=581)](https://mercadolivre.com/sec/2dH94oA)
 
 <figcaption>
 
@@ -191,7 +191,7 @@ Macaco Jacaré Sparta
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-26-as-17.03.06.jpg?w=853)](https://mercadolivre.com/sec/2ToBbj3)
+[![](media/screenshot-2024-08-26-as-17.03.06.jpg?w=853)](https://mercadolivre.com/sec/2ToBbj3)
 
 <figcaption>
 
@@ -203,7 +203,7 @@ Parafusadeira leve Lith
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-26-as-17.04.58.jpg?w=423)](https://s.click.aliexpress.com/e/_DmODlOf)
+[![](media/screenshot-2024-08-26-as-17.04.58.jpg?w=423)](https://s.click.aliexpress.com/e/_DmODlOf)
 
 <figcaption>
 
@@ -215,7 +215,7 @@ Inclinômetro digital
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-26-as-17.09.08.jpg?w=611)](https://mercadolivre.com/sec/1u8N2vW)
+[![](media/screenshot-2024-08-26-as-17.09.08.jpg?w=611)](https://mercadolivre.com/sec/1u8N2vW)
 
 <figcaption>
 
@@ -227,7 +227,7 @@ Banquinho
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-26-as-17.11.05.jpg?w=574)](https://mercadolivre.com/sec/2wMLMjU)
+[![](media/screenshot-2024-08-26-as-17.11.05.jpg?w=574)](https://mercadolivre.com/sec/2wMLMjU)
 
 <figcaption>
 
@@ -239,7 +239,7 @@ Par de Cavaletes
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/08/screenshot-2024-08-26-as-17.12.57.jpg?w=692)](https://mercadolivre.com/sec/1Hi5aJb)
+[![](media/screenshot-2024-08-26-as-17.12.57.jpg?w=692)](https://mercadolivre.com/sec/1Hi5aJb)
 
 <figcaption>
 

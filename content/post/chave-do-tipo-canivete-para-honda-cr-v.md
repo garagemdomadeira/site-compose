@@ -18,7 +18,7 @@ tags:
   - "acessorios"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_chaves-2.jpg?w=1024)
+![](media/header_chaves-2.jpg?w=1024)
 
 Neste post eu trago uma maneira bem bacana de deixar as chaves do veículo mais modernas, trata-se de um processo simples que você poderá fazer em casa sem muito esforço e depois levar a chave em um chaveiro para realizar a cópia.
 
@@ -43,7 +43,7 @@ Após a espera da chegada da encomenda (levando-se em consideração que você c
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/chave_01.jpg?w=902)
+![](media/chave_01.jpg?w=902)
 
 <figcaption>
 
@@ -57,7 +57,7 @@ Você remove o parafuso, abre a chave como se fosse uma concha de uma ostra e de
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/chave_02.jpg?w=800)
+![](media/chave_02.jpg?w=800)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ Aproveite o processo para dar aquela limpeza no controle remoto utilizando um pa
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/chave_05.jpg?w=800)
+![](media/chave_05.jpg?w=800)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ Para a chave nova que você comprar existem variações, algumas possuem parafus
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/chave_03.jpg?w=800)
+![](media/chave_03.jpg?w=800)
 
 <figcaption>
 
@@ -107,7 +107,7 @@ Veja a chave pronta após todo o processo:
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/chave_04.jpg?w=800)
+![](media/chave_04.jpg?w=800)
 
 <figcaption>
 

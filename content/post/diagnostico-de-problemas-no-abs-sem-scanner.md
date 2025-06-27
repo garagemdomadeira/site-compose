@@ -18,7 +18,7 @@ tags:
   - "tutorial"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_abs.jpg?w=1024)
+![](media/header_abs.jpg?w=1024)
 
 Há um tempo eu passei por problemas na minha CR-V (2007-2011) na área de controle de estabilide e/ou ABS., isto aconteceu após eu ter passado por cima de um pedaço de pneu largado na pista e não consegui desviar. Sendo assim, logo fui atrás de fazer uma inspeção nas rodas do carro e veja no que deu.
 
@@ -64,7 +64,7 @@ Segundo a tabela, o sensor da roda dianteira esquerda (Exatamente o qual desconf
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/sensor_abs.jpg?w=720)
+![](media/sensor_abs.jpg?w=720)
 
 <figcaption>
 

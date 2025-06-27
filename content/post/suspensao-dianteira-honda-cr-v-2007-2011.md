@@ -18,7 +18,7 @@ tags:
   - "2007-2011"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/08/header_suspensao_diant.jpg?w=1024)
+![](media/header_suspensao_diant.jpg?w=1024)
 
 Iniciando uma série de postagens sobre as partes fundamentais de um carro, dessa vez resolvi escrever um pouco sobre o conjunto de suspensão dianteira da CR-V. Este post abrange o conjunto específico da CR-V ano 2007 até 2011, mas pode ser usado para fins de estudo em outros carros, pois o sistema McPherson é bem semelhante.
 
@@ -28,7 +28,7 @@ Iniciando uma série de postagens sobre as partes fundamentais de um carro, dess
 
 Veja na ilustração abaixo os componentes principais da suspensão dianteira. Cada um deles é composto de outros componentes menores, abaixo eu explico a função de cada um.
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/08/suspensao_dianteira.gif?w=956)
+![](media/suspensao_dianteira.gif?w=956)
 
 Após conhecer cada um dos subconjuntos, vamos analisar eles por parte. Eu vou disponibilizar cada um dos conjuntos em uma página diferente para ficar melhor categorizado.
 

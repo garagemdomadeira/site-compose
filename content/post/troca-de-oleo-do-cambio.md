@@ -26,13 +26,13 @@ Neste vídeo eu demonstro como fiz o procedimento de troca parcial do óleo do c
 
 No entrando, em manuais de manutenção internacionais da própria kia encontrados pela Internet, a recomendação é realizar a troca a cada 90 mil kms quando usado em regime severo.
 
-![](https://garagemdomadeira.com/wp-content/uploads/2024/03/image.png?w=1000)
+![](media/image.png?w=1000)
 
 Para troca utilizei quatro litros do Mobil ATF Multiveículo Dexron VI
 
 [Comprar](https://www.altese.com.br/123466-altese-oleo-mobil/p?utm_source=garagemdomadeira)
 
-![](https://garagemdomadeira.com/wp-content/uploads/2024/03/image-1.png?w=800)
+![](media/image-1.png?w=800)
 
 Você precisa ter grampos extras para abrir a parte de baixo do carro e ter acesso ao câmbio, os grampos você encontra nesse aqui:
 

@@ -18,7 +18,7 @@ tags:
   - "procedimento"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_cambio.jpg?w=1024)
+![](media/header_cambio.jpg?w=1024)
 
 Há muita discussão sobre os métodos de troca de óleo ATF nos câmbios automáticos da Honda e, embora todos eles sejam eficientes, eu resolvi escrever um pouco sobre o método de troca parcial.
 

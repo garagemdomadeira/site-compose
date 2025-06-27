@@ -18,7 +18,7 @@ tags:
   - "especificacoes"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_sobre.jpg?w=656)
+![](media/header_sobre.jpg?w=656)
 
 Uma das coisas que sempre são discutidas em grupos de whatsapp é sobre a diferença entre os modelos. Aqui no Brasil durante 2007 e 2011 a Honda trouxe apenas duas versões. Vamos saber cada detalhe que difere as versões agora.
 

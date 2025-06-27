@@ -18,7 +18,7 @@ tags:
   - "paixao-por-carros"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2024/02/1000084608-01.png?w=1024)
+![](media/1000084608-01.png)
 
 ## Apenas um apaixonado por carros
 

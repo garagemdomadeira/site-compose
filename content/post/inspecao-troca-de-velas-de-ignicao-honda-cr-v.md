@@ -18,7 +18,7 @@ tags:
   - "tutorial"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/header_bobina.jpg?w=1024)
+![](media/header_bobina.jpg?w=1024)
 
 Neste tutorial vamos saber como proceder para remover / inspecionar / trocar as velas do motor R20A. Este mesmo procedimento pode ser feito em qualquer carro da linha Honda que possa o mesmo motor, inclusive nos que possuem o motor R18A como os Civic por exemplo.
 
@@ -52,7 +52,7 @@ Veja abaixo o cofre do motor em condições normais:
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/20210416_142515.jpg?w=1024)
+![](media/20210416_142515.jpg?w=1024)
 
 <figcaption>
 
@@ -66,13 +66,13 @@ Cofre do motor de uma Honda CR-V com um motor R20A1
 
 O primeiro passo é utilizar um soquete 10mm para remover os parafusos que prendem as bobinas. Eles ficam localizados logo à esquerda de cada bobina e são em um total de quatro parafusos. Veja na imagem abaixo:
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/20210416_145416-1.jpg?w=1024)
+![](media/20210416_145416-1.jpg?w=1024)
 
 A imagem acima está sem a capa superior do motor, mas não é necessário removê-la para ter acesso às velas de ignição. Após remover cada um dos parafusos você terá que desconectar as bobinas, a imagem abaixo mostra o processo:
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/bobinas-1.jpg?w=1024)
+![](media/bobinas-1.jpg?w=1024)
 
 <figcaption>
 
@@ -87,7 +87,7 @@ A imagem abaixo ilustra uma bobina removida do motor:
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/d_nq_np_624247-mlb31359207549_072019-o.jpg?w=500)
+![](media/d_nq_np_624247-mlb31359207549_072019-o.jpg?w=500)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ Quando você remover as quatro bobinas, terá acesso às velas de ignição no i
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/20210416_145715.jpg?w=1024)
+![](media/20210416_145715.jpg?w=1024)
 
 <figcaption>
 
@@ -115,7 +115,7 @@ Visão de uma vela de ignição em um motor Honda R20A
 
 Após a remoção das bobinas você terá que utilizar um soquete 16mm longo ou chave de velas para remover a vela do duto. Uma extensão de soquete é muito útil nesse momento, veja na imagem abaixo como utilizar:
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/20210416_145744.jpg?w=1024)
+![](media/20210416_145744.jpg?w=1024)
 
 Encaixe a sua chave catraca com cuidado e gire no sentido anti-horário até que tenha conseguido soltar a vela de ignição de sua rosca com totalidade, após isso puxe a chave de velas ou soquete longo.
 

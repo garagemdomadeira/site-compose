@@ -18,7 +18,7 @@ tags:
   - "referencia"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_filtros.jpg?w=1024)
+![](media/header_filtros.jpg?w=1024)
 
 Muitas pessoas têm dificuldade em encontrar os códigos alternativos para peças de manutenção rotineira de seus veículos, outros compram as peças e não conseguem saber se estão levando realmente aquilo que compraram. Por isso resolvi colocar um fim nessas questões de uma vez por todas.  
 Montei abaixo uma lista com peças do mercado de aftermarket nacional, são boas alternativas amplamente utilizadas.  

@@ -32,7 +32,7 @@ A multimídia que utilizei no vídeo da minha Sportage, o link para a compra est
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/03/screenshot-2024-03-12-as-21.30.46.jpg?w=723)](https://mercadolivre.com/sec/1AmKdxf)
+[![](media/screenshot-2024-03-12-as-21.30.46.jpg?w=723)](https://mercadolivre.com/sec/1AmKdxf)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ Lelong LE-6321
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/06/image.png?w=943)](https://mercadolivre.com/sec/1VytdSo)
+[![](media/image.png?w=943)](https://mercadolivre.com/sec/1VytdSo)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ Amplificador Taramps Ts400x4 400w
 
 O kit de câmeras só está disponível para venda no AliExpress, por sorte ele ainda tem preço menor que 50 dólares.
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/11/novo-projeto-4.jpg?w=723)](https://s.click.aliexpress.com/e/_DBv6AA5)
+[![](media/novo-projeto-4.jpg?w=723)](https://s.click.aliexpress.com/e/_DBv6AA5)
 
 > Você deve escolher a opção 720p para que funcione corretamente na multimídia Lelong LE-6321
 

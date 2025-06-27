@@ -18,7 +18,7 @@ tags:
   - "manual-do-proprietario"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=656)
+![](media/header_dtc.jpg?w=656)
 
 Este post explica detalhadamente cada item de manutenção e qual o prazo em quilômetros ou por tempo que é desejado em cada um dos itens. Acredito que estes mesmos prazos servem para outros carros com o mesmo motor ou com o R18A como por exemplo Honda Civic.
 
@@ -84,7 +84,7 @@ O primeiro fluido de arrefecimento usado pela Honda possui um prazo incrível de
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/05/fluido_arrefecimento_honda.jpg?w=800)
+![](media/fluido_arrefecimento_honda.jpg?w=800)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Fluido de arrefecimento Honda
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/05/tirreno.jpg?w=820)
+![](media/tirreno.jpg?w=820)
 
 <figcaption>
 
@@ -120,7 +120,7 @@ No meu caso optei por realizar trocas parciais do câmbio utilizando o fluido si
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/05/11atf.jpg?w=800)
+![](media/11atf.jpg?w=800)
 
 <figcaption>
 
@@ -132,7 +132,7 @@ Honda 11ATF
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/05/idemitsu_atf.jpg?w=800)
+![](media/idemitsu_atf.jpg?w=800)
 
 <figcaption>
 
@@ -156,7 +156,7 @@ Através do feedback negativo de alguns proprietários com relação ao uso de o
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/05/fluido_cvtf_honda.jpg?w=800)
+![](media/fluido_cvtf_honda.jpg?w=800)
 
 <figcaption>
 

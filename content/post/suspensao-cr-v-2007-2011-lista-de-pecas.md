@@ -18,7 +18,7 @@ tags:
   - "skf"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_suspensao.jpg?w=656)
+![](media/header_suspensao.jpg?w=656)
 
 Neste tópico listarei os códigos das peças mais trocadas quando o assunto é suspensão, isto facilita na hora de encontrar alternativas, pesquisar preços ou comparar produtos. Vai ser uma lista viva, ou seja, vou estar sempre alterando/incluindo/removendo conteúdo daqui. Espero que ajude.
 

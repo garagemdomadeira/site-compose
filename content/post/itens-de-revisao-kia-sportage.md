@@ -28,7 +28,7 @@ Para esse período os itens que eu costumo trocar são:
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/total.jpg?w=1000)](https://mercadolivre.com/sec/2ByeqFF)
+[![](media/total.jpg?w=1000)](https://mercadolivre.com/sec/2ByeqFF)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ Para esse período os itens que eu costumo trocar são:
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/filtro.jpg?w=1000)](https://mercadolivre.com/sec/1gfC1Me)
+[![](media/filtro.jpg?w=1000)](https://mercadolivre.com/sec/1gfC1Me)
 
 <figcaption>
 
@@ -54,7 +54,7 @@ MANN W-8118
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/filtroar.jpg?w=1000)](https://mercadolivre.com/sec/2DfAwPh)
+[![](media/filtroar.jpg?w=1000)](https://mercadolivre.com/sec/2DfAwPh)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ MANN C-26013
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/filtro_comb-1.jpg?w=1000)](https://mercadolivre.com/sec/1NWtkWj)
+[![](media/filtro_comb-1.jpg?w=1000)](https://mercadolivre.com/sec/1NWtkWj)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ Opcionalmente você pode fazer igual a mim e instalar os filtros laváveis da in
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/inflow.jpg?w=1000)](https://mercadolivre.com/sec/2yk6VNt)
+[![](media/inflow.jpg?w=1000)](https://mercadolivre.com/sec/2yk6VNt)
 
 <figcaption>
 
@@ -97,7 +97,7 @@ Inflow HPF8825
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/filtro-ar.png?w=1000)](https://mercadolivre.com/sec/1mDMjAG)
+[![](media/filtro-ar.png?w=1000)](https://mercadolivre.com/sec/1mDMjAG)
 
 <figcaption>
 
@@ -114,7 +114,7 @@ Os itens para troca a cada 40 mil kms são:
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/09/velas.jpg?w=1000)](https://mercadolivre.com/sec/1NjgQqq)
+[![](media/velas.jpg?w=1000)](https://mercadolivre.com/sec/1NjgQqq)
 
 <figcaption>
 

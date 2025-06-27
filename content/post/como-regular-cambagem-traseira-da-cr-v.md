@@ -18,7 +18,7 @@ tags:
   - "desgaste"coverImage: "crv2.jpeg"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_suspensao.jpg?w=1024)
+![](media/header_suspensao.jpg?w=1024)
 
 Suspensão traseira: um assunto cheio de controversas quando estamos falando da CR-V (principalmente nos modelos 2007 até 2016). Nesse post trago minha visão sobre regulagens, comportamentos e outros detalhes da suspensão.
 
@@ -32,7 +32,7 @@ Primeiro vamos analisar algumas imagens da estrutura que segura os braços da su
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/captura-de-tela-2021-03-23-acc80s-22.14.40.png?w=1024)
+![](media/captura-de-tela-2021-03-23-acc80s-22.14.40.png?w=1024)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ Mas no desenho acima fica muito difícil entender a peça, então eu fui atrás 
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/estrutura.jpg?w=900)
+![](media/estrutura.jpg?w=900)
 
 <figcaption>
 
@@ -64,7 +64,7 @@ Veja abaixo os pontos de fixação da estrutura no chassi do carro. Como citei a
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/fixacao.jpg?w=900)
+![](media/fixacao.jpg?w=900)
 
 <figcaption>
 
@@ -80,7 +80,7 @@ Na imagem abaixo eu descrevo o sentido que a força é aplicada (chamo vetor de 
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/forca.jpg?w=900)
+![](media/forca.jpg?w=900)
 
 <figcaption>
 
@@ -92,11 +92,11 @@ Sentido das forças aplicadas pelos braços superiores sobre a estrutura da susp
 
 Esta força lateral, aliado ao fato de ter apenas dois parafusos de cada lado da estrutura propicia uma torção na peça, alterando significativamente os valores de cambagem das rodas traseiras. Isso acontece pela diminuição da distância entre os pontos A e B da figura abaixo.
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/empeno.jpg?w=900)
+![](media/empeno.jpg?w=900)
 
 Este movimento de torção na peça é suficiente para inclinar a roda em alguns graus, suficiente também para que nós proprietários percamos os pneus por ter as bandas de rodagem gastas somente pelo lado de dentro. Veja na imagem abaixo o movimento que o empeno na estrutura causa no conjunto:
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/cambagem.jpg?w=1024)
+![](media/cambagem.jpg?w=1024)
 
 Apenas 0,5mm de afastamento do braço superior pode ser responsável por cerca de 1 grau a menos de cambagem, tornando-a negativa em excesso. O resultado disso é a inutilização do pneu em poucos quilômetros de uso.
 
@@ -116,7 +116,7 @@ Não existe um processo que resolva de uma vez por todas este mal comportamento,
 
 Certifique-se que o veículo esteja com o motor desligado e a alavanca de câmbio na posição P, após isso erga o veículo utilizando o macaco pela parte traseira do carro, conforme ilustração abaixo:
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/apoio.jpg?w=800)
+![](media/apoio.jpg?w=800)
 
 Suspenda o carro de modo que as duas rodas traseiras do veículo fiquem suspensas, assim você terá o peso das rodas ajudando a reposicionar a estrutura no local novamente. Após o carro erguido você deve utilizar a ferramenta de soquete 17mm para afrouxar os quatro parafusos da estrutura, nos pontos de fixação que temos conforme uma das imagens acima.
 

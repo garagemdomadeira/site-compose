@@ -32,7 +32,7 @@ Amortecedor dianteiro
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2024/06/mola.webp?w=879)](https://mercadolivre.com/sec/2ffk1yA)
+[![](media/mola.webp?w=879)](https://mercadolivre.com/sec/2ffk1yA)
 
 <figcaption>
 

@@ -18,7 +18,7 @@ tags:
   - "luzes"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_dtc.jpg?w=656)
+![](media/header_dtc.jpg?w=656)
 
 Segue abaixo a lista de códigos de erro (DTC) para quando ocorrem erros apresentados pela MICU (Multiplex Integrated Control Unit, ou em português: Unidade de controle integrada multiplexada)
 
@@ -28,7 +28,7 @@ Lembrando que para ler estes códigos você pode utilizar o modo SCS na CR-V sem
 
 **[Você pode ter mais detalhes sobre como ativar o modo SCS para ler esses erros sem precisar do scanner através deste link.](https://garagemdomadeira.com/2021/03/27/conhecendo-o-modo-scs-nos-honda/)**
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/04/captura-de-tela-2021-04-05-acc80s-19.20.38.png?w=1024)
+![](media/captura-de-tela-2021-04-05-acc80s-19.20.38.png?w=1024)
 
 Segue abaixo os erros, eles são lidos no próprio painel do carro, veja na figura de exemplo acima.
 

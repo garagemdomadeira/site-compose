@@ -20,7 +20,7 @@ tags:
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/03/header_filtro_comb.jpg?w=1024)
+![](media/header_filtro_comb.jpg?w=1024)
 
 <figcaption>
 

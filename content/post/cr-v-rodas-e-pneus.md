@@ -18,7 +18,7 @@ tags:
   - "upgrade"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2021/09/header_rodas.jpg?w=1024)
+![](media/header_rodas.jpg?w=1024)
 
 Neste posto venho explicar algumas coisas sobre as rodas e pneus utilizados pela CR-V durante os anos 2007 a 2011. 
 Acredito que isto será muito útil para quando você quiser incrementar sua nave, vamos nessa?
@@ -33,7 +33,7 @@ Segue abaixo uma imagem demonstrando as medidas de cada uma das rodas, tente bai
 
 <figure>
 
-[![](https://garagemdomadeira.com/wp-content/uploads/2022/01/rodas-crv.png?w=1024)](https://garagemdomadeira.com/wp-content/uploads/2022/01/rodas-crv.png)
+[![](media/rodas-crv.png?w=1024)](media/rodas-crv.png)
 
 <figcaption>
 

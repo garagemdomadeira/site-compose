@@ -18,7 +18,7 @@ tags:
   - "dicas"
 ---
 
-![](https://garagemdomadeira.com/wp-content/uploads/2022/01/header_remap-1.jpeg?w=1024)
+![](media/header_remap-1.jpeg?w=1024)
 
 Assunto polêmico em diversos grupos, o remap é uma estratégia que divide opiniões. De um lado há pessoas que querem extrair o melhor dos seus motores e do outro há pessoas mais ligados à originalidade e durabilidade do produto. Antes que você pense, não! Esse não é um post pago e nem endorsado pela Revit-up, apenas retratando a experiência com a empresa de forma justa e transparente.
 
@@ -98,7 +98,7 @@ Excluindo que você seja um entusiasta em mecânica automotiva, o recomendado é
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2022/01/remap01.jpeg?w=1024)
+![](media/remap01.jpeg?w=1024)
 
 <figcaption>
 
@@ -134,7 +134,7 @@ Existem muitas pessoas que vão dizer que se trata apenas de enganação, que o 
 
 <figure>
 
-![](https://garagemdomadeira.com/wp-content/uploads/2022/01/remap02.jpg?w=1024)
+![](media/remap02.jpg?w=1024)
 
 <figcaption>
 

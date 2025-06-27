@@ -27,18 +27,33 @@ if [ ! -d "$DEPLOY_DIR" ]; then
 else
     echo "📁 Pasta garagemdomadeira.github.io encontrada."
     
-    # Conta arquivos não ocultos
-    NON_HIDDEN_COUNT=$(find "$DEPLOY_DIR" -maxdepth 1 -not -name ".*" | wc -l)
+    # Verifica se existe arquivo CNAME para preservar
+    CNAME_FILE="$DEPLOY_DIR/CNAME"
+    CNAME_CONTENT=""
+    if [ -f "$CNAME_FILE" ]; then
+        CNAME_CONTENT=$(cat "$CNAME_FILE")
+        echo "🔗 Arquivo CNAME encontrado: $CNAME_CONTENT"
+    fi
+    
+    # Conta arquivos não ocultos (excluindo CNAME)
+    NON_HIDDEN_COUNT=$(find "$DEPLOY_DIR" -maxdepth 1 -not -name ".*" -not -name "CNAME" | wc -l)
     NON_HIDDEN_COUNT=$((NON_HIDDEN_COUNT - 1))  # Subtrai 1 para não contar o próprio diretório
     
     if [ $NON_HIDDEN_COUNT -gt 0 ]; then
         echo "🧹 Removendo $NON_HIDDEN_COUNT arquivo(s)/pasta(s) não oculto(s)..."
         
-        # Remove arquivos e pastas não ocultos
-        find "$DEPLOY_DIR" -maxdepth 1 -not -name ".*" -not -path "$DEPLOY_DIR" -exec rm -rf {} \;
+        # Remove arquivos e pastas não ocultos (preservando CNAME)
+        find "$DEPLOY_DIR" -maxdepth 1 -not -name ".*" -not -name "CNAME" -not -path "$DEPLOY_DIR" -exec rm -rf {} \;
         echo "✅ Limpeza concluída!"
     else
-        echo "✨ Pasta já está vazia (apenas arquivos ocultos)."
+        echo "✨ Pasta já está vazia (apenas arquivos ocultos e CNAME)."
+    fi
+    
+    # Restaura o arquivo CNAME se existia
+    if [ -n "$CNAME_CONTENT" ]; then
+        echo "🔗 Restaurando arquivo CNAME..."
+        echo "$CNAME_CONTENT" > "$CNAME_FILE"
+        echo "✅ CNAME restaurado: $CNAME_CONTENT"
     fi
 fi
 

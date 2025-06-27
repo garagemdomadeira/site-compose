@@ -6,7 +6,7 @@
 
 import fs from 'fs/promises';
 import path from 'path';
-import { mediaDir } from './config.js';
+import { mediaDir, outputDir } from './config.js';
 
 /**
  * Procura uma imagem específica na estrutura de diretórios de mídia
@@ -14,25 +14,29 @@ import { mediaDir } from './config.js';
  * @returns {Promise<string|null>} Caminho completo da imagem se encontrada, null caso contrário
  */
 export async function findImageInMedia(imageName) {
+    console.log('🔍 Procurando imagem:', imageName);
     try {
-        // Lista todos os anos
-        const years = await fs.readdir(mediaDir);
+        // Lista todos os arquivos no diretório media
+        const files = await fs.readdir(mediaDir);
+        console.log(`📁 Encontrados ${files.length} arquivos no diretório media`);
         
-        for (const year of years) {
-            const yearPath = path.join(mediaDir, year);
-            const months = await fs.readdir(yearPath);
-            
-            for (const month of months) {
-                const monthPath = path.join(yearPath, month);
-                const files = await fs.readdir(monthPath);
-                
-                // Procura por arquivos que contenham o nome da imagem
-                const matchingFile = files.find(file => file.includes(imageName));
-                if (matchingFile) {
-                    return path.join(monthPath, matchingFile);
-                }
-            }
+        // Remove a extensão do nome da imagem para busca mais flexível
+        const imageNameWithoutExt = path.parse(imageName).name;
+        console.log(`🔍 Procurando por: ${imageNameWithoutExt}`);
+        
+        // Procura por arquivos que contenham o nome da imagem (com ou sem extensão)
+        const matchingFile = files.find(file => {
+            const fileNameWithoutExt = path.parse(file).name;
+            return file.includes(imageName) || fileNameWithoutExt === imageNameWithoutExt;
+        });
+        
+        if (matchingFile) {
+            const fullPath = path.join(mediaDir, matchingFile);
+            console.log(`✅ Imagem encontrada: ${fullPath}`);
+            return fullPath;
         }
+        
+        console.log(`❌ Imagem não encontrada: ${imageName}`);
         return null;
     } catch (error) {
         console.error('❌ Erro ao procurar imagem:', error);
@@ -48,26 +52,56 @@ export async function findImageInMedia(imageName) {
  */
 export async function copyPostImages(content, outputPath) {
     try {
-        // Cria pasta de imagens no diretório de saída
-        const imagesDir = path.join(outputPath, 'images');
-        await fs.mkdir(imagesDir, { recursive: true });
+        console.log('🖼️  Iniciando cópia de imagens do post');
+        
+        // Usa o diretório output/media
+        const outputMediaDir = path.join(outputDir, 'media');
+        await fs.mkdir(outputMediaDir, { recursive: true });
+        console.log(`📁 Diretório de destino: ${outputMediaDir}`);
 
-        // Procura por links de imagens no Markdown
-        const imageRegex = /!\[.*?\]\((.*?)\)/g;
+        // Procura por tags de imagem no HTML
+        const imageRegex = /<img[^>]+src=["']([^"']+)["'][^>]*>/gi;
         let match;
+        let imageCount = 0;
+        let localImageCount = 0;
         
         while ((match = imageRegex.exec(content)) !== null) {
             const imagePath = match[1];
             const imageName = path.basename(imagePath);
             
-            // Procura a imagem na pasta media
-            const mediaImagePath = await findImageInMedia(imageName);
-            if (mediaImagePath) {
-                // Copia a imagem para a pasta de saída
-                await fs.copyFile(mediaImagePath, path.join(imagesDir, imageName));
-                console.log(`✅ Imagem ${imageName} copiada com sucesso`);
+            console.log(`📸 Encontrada tag img com src: ${imagePath}`);
+            console.log(`📄 Nome extraído: ${imageName}`);
+            
+            // Verifica se é uma imagem local (não começa com http/https)
+            if (!imagePath.startsWith('http://') && !imagePath.startsWith('https://')) {
+                console.log(`🏠 Imagem local detectada: ${imageName}`);
+                
+                // Procura a imagem na pasta media
+                const mediaImagePath = await findImageInMedia(imageName);
+                if (mediaImagePath) {
+                    // Verifica se a imagem já existe em output/media
+                    const targetPath = path.join(outputMediaDir, imageName);
+                    try {
+                        await fs.access(targetPath);
+                        console.log(`⏭️  Imagem ${imageName} já existe em output/media, pulando...`);
+                    } catch (error) {
+                        // Copia a imagem para output/media
+                        await fs.copyFile(mediaImagePath, targetPath);
+                        console.log(`✅ Imagem local ${imageName} copiada para output/media`);
+                    }
+                    localImageCount++;
+                } else {
+                    console.log(`⚠️  Imagem local ${imageName} não encontrada na pasta media`);
+                }
+            } else {
+                console.log(`🌐 Imagem externa detectada: ${imagePath} (não será copiada)`);
             }
+            
+            imageCount++;
         }
+        
+        console.log(`📊 Total de imagens processadas: ${imageCount}`);
+        console.log(`📁 Imagens locais copiadas para output/media: ${localImageCount}`);
     } catch (error) {
         console.error('❌ Erro ao copiar imagens do post:', error);
     }

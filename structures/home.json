@@ -21,6 +21,11 @@
             "title": "Destaques",
             "items": [
                 {
+                    "title": "PROCESSADORES DE MULTIMÍDIA",
+                    "description": "Um guia para você entender melhor sobre multimídia veicular",
+                    "link": "2025/06/comparativo-processadores-de-multimidias/index.html"
+                },
+                {
                     "title": "MÓDULOS DE CONFORTO KIA SPORTAGE",
                     "description": "Conheça cada um deles e outros detalhes",
                     "link": "2025/03/modulos-de-conforto-kia-sportage/"
@@ -34,11 +39,6 @@
                     "title": "'REGULANDO' A CAMBAGEM TRASERA DA CR-V",
                     "description": "Assunto polêmico mas que muitos querem saber",
                     "link": "2021/03/como-regular-cambagem-traseira-da-cr-v/index.html"
-                },
-                {
-                    "title": "DIAGNÓSTICO SEM SCANNER",
-                    "description": "Segredo que nem todos sabem sobre diagnóstico",
-                    "link": "2021/03/conhecendo-o-modo-scs-nos-honda/index.html"
                 }
             ]
         },

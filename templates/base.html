@@ -21,6 +21,15 @@
     <link rel="stylesheet" href="/assets/styles.css">
     <base href="/">
     {% block extra_css %}{% endblock %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-89LD5TFFMH"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-89LD5TFFMH');
+    </script>
 </head>
 
 <body>

@@ -20,7 +20,7 @@ tags:
 
 Lista das principais multimídias da Lelong. Para quem está na dúvida de qual multimídia comprar, listei as especificações principais, o tamanho da tela, memória e caso queiram usar o sistema de câmera 360, vejam se possui suporte:
 
-[![](media/d_nq_np_2x_959756-mlu72722589751_112023-f.webp?w=880)](https://mercadolivre.com/sec/2xvZ4J6)
+[![](media/d_nq_np_2x_959756-mlu72722589751_112023-f.webp)](https://mercadolivre.com/sec/2xvZ4J6)
 
 ## LE-6320
 
@@ -37,7 +37,7 @@ Aceita câmera 360: sim
 
 * * *
 
-[![](media/d_nq_np_2x_822374-mlb75347830675_032024-f.webp?w=1024)](https://mercadolivre.com/sec/1nV1XUw)
+[![](media/d_nq_np_2x_822374-mlb75347830675_032024-f.webp)](https://mercadolivre.com/sec/1nV1XUw)
 
 ## LE-6321
 
@@ -53,7 +53,7 @@ Aceita câmera 360: sim
 
 [Ver ofertas](https://mercadolivre.com/sec/1nV1XUw)
 
-[![](media/d_nq_np_2x_873753-mlb77919343577_072024-f.webp?w=914)](https://mercadolivre.com/sec/1z5fCtN)
+[![](media/d_nq_np_2x_873753-mlb77919343577_072024-f.webp)](https://mercadolivre.com/sec/1z5fCtN)
 
 ## LE-6315
 
@@ -70,7 +70,7 @@ Aceita câmera 360: sim
 
 * * *
 
-[![](media/d_nq_np_2x_862755-mlb74837851280_032024-f.webp?w=413)](https://mercadolivre.com/sec/1C97v3e)
+[![](media/d_nq_np_2x_862755-mlb74837851280_032024-f.webp)](https://mercadolivre.com/sec/1C97v3e)
 
 ## LE-6325
 
@@ -87,7 +87,7 @@ Aceita câmera 360: não
 
 * * *
 
-[![](media/d_nq_np_2x_925716-mlb74644167921_022024-f.webp?w=666)](https://mercadolivre.com/sec/2u8QRYf)
+[![](media/d_nq_np_2x_925716-mlb74644167921_022024-f.webp)](https://mercadolivre.com/sec/2u8QRYf)
 
 ## LE-6326
 
@@ -104,7 +104,7 @@ Aceita câmera 360: não
 
 * * *
 
-[![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/d_nq_np_2x_804622-mlb81537256624_012025-f-1.webp?w=963)](https://mercadolivre.com/sec/28pArDh)
+[![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/d_nq_np_2x_804622-mlb81537256624_012025-f-1.webp)](https://mercadolivre.com/sec/28pArDh)
 
 ## LE-6334
 
@@ -121,7 +121,7 @@ Aceita câmera 360: sim
 
 * * *
 
-[![](media/d_nq_np_2x_922781-mlb79960262411_102024-f.webp?w=955)](https://mercadolivre.com/sec/28pArDh)
+[![](media/d_nq_np_2x_922781-mlb79960262411_102024-f.webp)](https://mercadolivre.com/sec/28pArDh)
 
 ## LE-6327
 

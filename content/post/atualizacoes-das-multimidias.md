@@ -30,7 +30,7 @@ Os requisitos para fazer o update da multimídia são:
 
 ## Segue abaixo os dois firmwares:
 
-![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/image-1.png?w=1024)
+![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/image-1.png)
 
 ### Lelong LE-6334 - Tela vertical
 
@@ -40,7 +40,7 @@ Os requisitos para fazer o update da multimídia são:
 
 * * *
 
-![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/image.png?w=1024)
+![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/image.png)
 
 ### Lelong LE-6321 ou LE-6320
 

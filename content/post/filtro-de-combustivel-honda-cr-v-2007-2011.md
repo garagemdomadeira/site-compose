@@ -20,7 +20,7 @@ tags:
 
 <figure>
 
-![](media/header_filtro_comb.jpg?w=1024)
+![](media/header_filtro_comb.jpg)
 
 <figcaption>
 

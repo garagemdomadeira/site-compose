@@ -18,10 +18,10 @@ tags:
   - "customizacao"
 ---
 
-![](media/screenshot-2024-01-02-as-08.03.55.jpg?w=1024)
+![](media/screenshot-2024-01-02-as-08.03.55.jpg)
 
 Vou disponibilizar os arquivos para concepção do kit de lifting de suspensão do Honda CR-V.
 
-![](media/screenshot-2024-01-02-as-08.03.45.jpg?w=1024)
+![](media/screenshot-2024-01-02-as-08.03.45.jpg)
 
 [Baixar os arquivos STL dos artefatos](https://drive.google.com/drive/folders/1AtDRHPBjaQZrcozgQK2-DGkgB-dPJsRi?usp=sharing)

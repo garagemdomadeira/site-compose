@@ -1,5 +1,5 @@
 ---
-title: "Ferramentas que eu uso e aprovo"
+title: "Ferramentas que eu recomendo"
 date: "2023-10-25"
 categories:
   - "ferramentas"
@@ -18,89 +18,111 @@ tags:
   - "chave-de-impacto"
 ---
 
-[![](media/d_nq_np_2x_863326-mlb76841522427_062024-f.webp?w=1024)](https://mercadolivre.com/sec/2UJHj5w)
+<div class="figure-grid">
 
-**Macaco Hidráulico Jacaré 3t Sparta**
+<figure>
+<a href="https://mercadolivre.com/sec/2UJHj5w" target="_blank">
+<img src="media/d_nq_np_2x_863326-mlb76841522427_062024-f.webp" alt="Macaco Hidráulico Jacaré 3t Sparta" class="img-fluid">
+</a>
+<figcaption><strong>Macaco Hidráulico Jacaré 3t Sparta</strong><br>O macaco que eu utilizo em meus vídeos.</figcaption>
+</figure>
 
-O macaco que eu utilizo em meus vídeos
+<figure>
+<a href="https://mercadolivre.com/sec/1kaa4vo" target="_blank">
+<img src="media/d_nq_np_2x_606316-mlu74181556663_012024-f.webp" alt="Macaco Hidráulico Jacaré 2,5t Rebaixado" class="img-fluid">
+</a>
+<figcaption><strong>Macaco Hidráulico Jacaré 2,5t Rebaixado</strong><br>O macaco ideal para quem possui carros mais baixos, como o Honda Fit.</figcaption>
+</figure>
 
-[![](media/d_nq_np_2x_606316-mlu74181556663_012024-f.webp?w=550)](https://mercadolivre.com/sec/1kaa4vo)
+<figure>
+<a href="https://mercadolivre.com/sec/23gnYTb" target="_blank">
+<img src="media/d_nq_np_2x_972514-mlb52354381193_112022-f.webp" alt="Extrator de pivô" class="img-fluid">
+</a>
+<figcaption><strong>Extrator de pivô</strong><br>Usei no meu vídeo sobre o rolamento de freio do Honda fit.</figcaption>
+</figure>
 
-**Macaco Hidráulico Jacaré 2,5t Rebaixado**
+<figure>
+<a href="https://mercadolivre.com/sec/1ULWSMN" target="_blank">
+<img src="media/screenshot-2023-11-30-as-15.12.21.jpg" alt="Chave de impacto manual" class="img-fluid">
+</a>
+<figcaption><strong>Chave de impacto manual</strong><br>Usei no meu vídeo sobre o disco de freio do Honda fit.</figcaption>
+</figure>
 
-O macaco ideal para quem possui carros mais baixos, como o Honda Fit.
+<figure>
+<a href="https://mercadolivre.com/sec/1gA4xjZ" target="_blank">
+<img src="media/d_nq_np_2x_772652-mlb31849630577_082019-f.webp" alt="Encolhedor de molas Felar" class="img-fluid">
+</a>
+<figcaption><strong>Encolhedor de molas Felar</strong><br>Uso em todos os meus carros já tem mais de 5 anos.</figcaption>
+</figure>
 
-[![](media/d_nq_np_2x_972514-mlb52354381193_112022-f.webp?w=800)](https://mercadolivre.com/sec/23gnYTb)
+<figure>
+<a href="https://s.click.aliexpress.com/e/_DltzY1N" target="_blank">
+<img src="media/screenshot-2023-11-30-as-15.09.45.jpg" alt="Bomba de vácuo manual" class="img-fluid">
+</a>
+<figcaption><strong>Bomba de vácuo manual</strong><br>Para fazer sangria dos freios sem nenhuma ajuda.</figcaption>
+</figure>
 
-**Extrator de pivô**
+<figure>
+<a href="https://mercadolivre.com/sec/1nAZcDB" target="_blank">
+<img src="media/d_nq_np_2x_875299-mlu72020349047_092023-f.webp" alt="Torquímetro de estalo" class="img-fluid">
+</a>
+<figcaption><strong>Torquímetro de estalo</strong><br>Ideal para fazer manutenções no seu carro. Todo entusiasta precisa de um.</figcaption>
+</figure>
 
-Usei no meu vídeo sobre o rolamento de freio do Honda fit.
+<figure>
+<a href="https://s.click.aliexpress.com/e/_DE3W44j" target="_blank">
+<img src="media/screenshot-2023-10-24-as-11.15.32.jpg" alt="Bomba de encher pneu" class="img-fluid">
+</a>
+<figcaption><strong>Bomba de encher pneu</strong><br>Recarregável e portátil.</figcaption>
+</figure>
 
-[![](media/screenshot-2023-11-30-as-15.12.21.jpg?w=944)](https://mercadolivre.com/sec/1ULWSMN)
+<figure>
+<a href="https://s.click.aliexpress.com/e/_DETpPwr" target="_blank">
+<img src="media/screenshot-2023-10-25-as-09.35.36.jpg" alt="Kit de O-Rings diversos" class="img-fluid">
+</a>
+<figcaption><strong>Kit de O-Rings diversos</strong><br>Muito barato.</figcaption>
+</figure>
 
-**Chave de impacto manual**
+<figure>
+<a href="https://pt.aliexpress.com/item/32703439773.html" target="_blank">
+<img src="media/screenshot-2023-10-25-as-09.36.59.jpg" alt="Osciloscópio portátil" class="img-fluid">
+</a>
+<figcaption><strong>Osciloscópio portátil</strong><br>Ideal para fazer verificação em bobinas de motores.</figcaption>
+</figure>
 
-Usei no meu vídeo sobre o disco de freio do Honda fit.
+<figure>
+<a href="https://s.click.aliexpress.com/e/_Dl3WBQr" target="_blank">
+<img src="media/screenshot-2023-10-25-as-09.38.11.jpg" alt="Ferramenta para remover tampa do tanque de combustível" class="img-fluid">
+</a>
+<figcaption><strong>Ferramenta para remover tampa do tanque de combustível</strong><br>Ideal para fazer a troca do filtro interno, refil da bomba de combustível ou sensor de nível do tanque.</figcaption>
+</figure>
 
-[![](media/d_nq_np_2x_772652-mlb31849630577_082019-f.webp?w=1020)](https://mercadolivre.com/sec/1gA4xjZ)
+<figure>
+<a href="https://s.click.aliexpress.com/e/_Dl0IzEJ" target="_blank">
+<img src="media/screenshot-2023-10-25-as-09.41.52.jpg" alt="Espátula metálica" class="img-fluid">
+</a>
+<figcaption><strong>Espátula metálica</strong><br>Ideal para remover os grampos.</figcaption>
+</figure>
 
-**Encolhedor de molas Felar**
+<figure>
+<a href="https://s.click.aliexpress.com/e/_DFPc599" target="_blank">
+<img src="media/screenshot-2023-10-25-as-09.39.14.jpg" alt="Estetoscópio automotivo" class="img-fluid">
+</a>
+<figcaption><strong>Estetoscópio automotivo</strong><br>Ótimo para observar o bom funcionamento do motor e também da suspensão do carro.</figcaption>
+</figure>
 
-Uso em todos os meus carros já tem mais de 5 anos.
+<figure>
+<a href="https://s.click.aliexpress.com/e/_DmHHDgL" target="_blank">
+<img src="media/screenshot-2023-10-25-as-09.46.10.jpg" alt="Ferramenta para remover filtro de óleo Honda e Kia" class="img-fluid">
+</a>
+<figcaption><strong>Ferramenta para remover filtro de óleo Honda e Kia</strong><br>Especializada para filtros de óleo dessas marcas.</figcaption>
+</figure>
 
-[![](media/screenshot-2023-11-30-as-15.09.45.jpg?w=1024)](https://s.click.aliexpress.com/e/_DltzY1N)
+<figure>
+<a href="https://s.click.aliexpress.com/e/_DENA8aL" target="_blank">
+<img src="media/screenshot-2023-10-25-as-10.34.34.jpg" alt="Ferramenta para travar polia do virabrequim dos Honda" class="img-fluid">
+</a>
+<figcaption><strong>Ferramenta para travar polia do virabrequim dos Honda</strong><br>Essencial para trabalhos no motor Honda.</figcaption>
+</figure>
 
-**Bomba de vácuo manual**
-
-Para fazer sangria dos freios sem nenhuma ajuda.
-
-[![](media/d_nq_np_2x_875299-mlu72020349047_092023-f.webp?w=1024)](https://mercadolivre.com/sec/1nAZcDB)
-
-**Torquímetro de estalo**
-
-Ideal para fazer manutenções no seu carro.  
-Todo entusiasta precisa de um.
-
-[![](media/screenshot-2023-10-24-as-11.15.32.jpg?w=722)](https://s.click.aliexpress.com/e/_DE3W44j)
-
-**Bomba de encher pneu**
-
-Recarregável e portátil
-
-[![](media/screenshot-2023-10-25-as-09.35.36.jpg?w=907)](https://s.click.aliexpress.com/e/_DETpPwr)
-
-**Kit de O-Rings diversos**
-
-Muito barato.
-
-[![](media/screenshot-2023-10-25-as-09.36.59.jpg?w=561)](https://pt.aliexpress.com/item/32703439773.html)
-
-**Osciloscópio portátil**
-
-Ideal para fazer verificação em bobinas de motores.
-
-[![](media/screenshot-2023-10-25-as-09.38.11.jpg?w=986)](https://s.click.aliexpress.com/e/_Dl3WBQr)
-
-**Ferramenta para remover tampa do tanque de combustível**
-
-Ideal para fazer a troca do filtro interno, refil da bomba de combustível ou sensor de nível do tanque.
-
-[![](media/screenshot-2023-10-25-as-09.41.52.jpg?w=498)](https://s.click.aliexpress.com/e/_Dl0IzEJ)
-
-**Espátula metálica**
-
-Ideal para remover os grampos
-
-[![](media/screenshot-2023-10-25-as-09.39.14.jpg?w=555)](https://s.click.aliexpress.com/e/_DFPc599)
-
-**Estetoscópio automotivo**
-
-Ótimo para observar o bom funcionamento do motor e também da suspensão do carro.
-
-[![](media/screenshot-2023-10-25-as-09.46.10.jpg?w=540)](https://s.click.aliexpress.com/e/_DmHHDgL)
-
-Ferramenta para remover filtro de óleo Honda e Kia.
-
-[![](media/screenshot-2023-10-25-as-10.34.34.jpg?w=493)](https://s.click.aliexpress.com/e/_DENA8aL)
-
-Ferramenta para travar polia do virabrequim dos Honda
+</div>

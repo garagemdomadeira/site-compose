@@ -18,7 +18,7 @@ tags:
   - "octacore"
 ---
 
-[![](media/screenshot-2024-07-12-as-18.18.55.jpg?w=606)](https://mercadolivre.com/sec/11s8Chp)
+[![](media/screenshot-2024-07-12-as-18.18.55.jpg)](https://mercadolivre.com/sec/11s8Chp)
 
 [Ir para o anúncio](https://mercadolivre.com/sec/11s8Chp)
 

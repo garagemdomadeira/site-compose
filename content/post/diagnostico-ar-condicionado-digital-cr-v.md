@@ -18,7 +18,7 @@ tags:
   - "sistema"
 ---
 
-![](media/header_ar_condicionadl.jpg?w=1024)
+![](media/header_ar_condicionadl.jpg)
 
 Se você possui ar-condicionado digital em sua CR-V vale a pena realizar este teste para saber se todos os elementos ativos do sistema estão funcionando, acompanhe.
 
@@ -74,7 +74,7 @@ Se houver mais de um [DTC](https://garagemdomadeira.com/tag/dtc/), eles serão e
 
 <figure>
 
-![](media/captura-de-tela-2021-04-10-acc80s-20.35.18.png?w=512)
+![](media/captura-de-tela-2021-04-10-acc80s-20.35.18.png)
 
 <figcaption>
 

@@ -18,7 +18,7 @@ tags:
   - "comparativo"
 ---
 
-![](media/header_oleo.jpg?w=1024)
+![](media/header_oleo.jpg)
 
 Talvez esta seja a dúvida mais recorrente em todos os proprietários e em diversos fóruns e grupos de whatsapp, qual óleo colocar? Aqui nesta postagem teremos um assunto muito polêmico, pois trataremos de coisas técnicas mas também de muita opinião pessoal. Vou começar partindo do histórico da Honda nos manuais de instrução.
 
@@ -32,7 +32,7 @@ O manual do proprietário é bem enfático na recomendação, veja o quadro abai
 
 <figure>
 
-![](media/captura-de-tela-2021-03-14-acc80s-12.35.51.png?w=1024)
+![](media/captura-de-tela-2021-03-14-acc80s-12.35.51.png)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ Outra dúvida sempre bem comum é sobre a composição do óleo lubrificante, e 
 
 <figure>
 
-![](media/captura-de-tela-2021-03-14-acc80s-12.44.56.png?w=1024)
+![](media/captura-de-tela-2021-03-14-acc80s-12.44.56.png)
 
 <figcaption>
 
@@ -94,7 +94,7 @@ Um detalhe importante à ser observado é que o óleo 10W30 da Honda, apesar de 
 
 Veja no quadro comparativo abaixo os índices de materiais utilizados em alguns lubrificantes já conhecidos, nele é possível ver na cor azul escuro a quantidade de Cálcio adicionado no óleo lubrificante, responsável pelo fator detergente no motor, contribuindo para a limpeza. No gráfico também é possível ver outros detalhes.
 
-![](media/screenshot-2023-07-24-as-14.48.54.jpg?w=1024)
+![](media/screenshot-2023-07-24-as-14.48.54.jpg)
 
 ## Mas afinal, que óleo eu utilizo?
 

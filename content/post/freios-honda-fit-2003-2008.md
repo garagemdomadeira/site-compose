@@ -20,7 +20,7 @@ tags:
 
 <figure>
 
-[![](media/d_nq_np_2x_974285-mlb71914377292_092023-f.webp?w=1021)](https://mercadolivre.com/sec/2knoDYh)
+[![](media/d_nq_np_2x_974285-mlb71914377292_092023-f.webp)](https://mercadolivre.com/sec/2knoDYh)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ Pastilhas dianteiras
 
 <figure>
 
-[![](media/d_nq_np_2x_973526-mlb54712879912_032023-f.webp?w=1000)](https://mercadolivre.com/sec/1587zFN)
+[![](media/d_nq_np_2x_973526-mlb54712879912_032023-f.webp)](https://mercadolivre.com/sec/1587zFN)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ Discos de freio
 
 <figure>
 
-[![](media/d_nq_np_2x_718390-mlb71981483055_092023-f.webp?w=1005)](https://mercadolivre.com/sec/21aFqNg)
+[![](media/d_nq_np_2x_718390-mlb71981483055_092023-f.webp)](https://mercadolivre.com/sec/21aFqNg)
 
 <figcaption>
 
@@ -56,7 +56,7 @@ Sapatas traseiras
 
 <figure>
 
-[![](media/d_nq_np_2x_635128-mlb72610997770_112023-f.webp?w=1024)](https://mercadolivre.com/sec/1tm7ahz)
+[![](media/d_nq_np_2x_635128-mlb72610997770_112023-f.webp)](https://mercadolivre.com/sec/1tm7ahz)
 
 <figcaption>
 
@@ -68,7 +68,7 @@ Tambores de freio
 
 <figure>
 
-[![](media/d_nq_np_2x_945282-mlb72158378063_102023-f.webp?w=551)](https://mercadolivre.com/sec/1yVRNeL)
+[![](media/d_nq_np_2x_945282-mlb72158378063_102023-f.webp)](https://mercadolivre.com/sec/1yVRNeL)
 
 <figcaption>
 

@@ -51,7 +51,7 @@ Você vai precisar de um jumper que pode ser feito com fio rígido ou até mesmo
 
 <figure>
 
-![](media/obd2-com-scs.jpg?w=696)
+![](media/obd2-com-scs.jpg)
 
 <figcaption>
 

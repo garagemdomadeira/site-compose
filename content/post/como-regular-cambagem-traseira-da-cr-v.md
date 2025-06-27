@@ -18,7 +18,7 @@ tags:
   - "desgaste"coverImage: "crv2.jpeg"
 ---
 
-![](media/header_suspensao.jpg?w=1024)
+![](media/header_suspensao.jpg)
 
 Suspensão traseira: um assunto cheio de controversas quando estamos falando da CR-V (principalmente nos modelos 2007 até 2016). Nesse post trago minha visão sobre regulagens, comportamentos e outros detalhes da suspensão.
 
@@ -30,9 +30,9 @@ Um tema sempre polêmico quando se está conversando sobre a CR-V é a sua suspe
 
 Primeiro vamos analisar algumas imagens da estrutura que segura os braços da suspensão:
 
-<figure>
+<figure class="half">
 
-![](media/captura-de-tela-2021-03-23-acc80s-22.14.40.png?w=1024)
+![](media/captura-de-tela-2021-03-23-acc80s-22.14.40.png)
 
 <figcaption>
 
@@ -44,9 +44,9 @@ Estrutura da suspensão segundo catálogo da montadora.
 
 Mas no desenho acima fica muito difícil entender a peça, então eu fui atrás de uma foto melhor para que possamos ter noção de que peça estamos falando, veja abaixo:
 
-<figure>
+<figure class="half">
 
-![](media/estrutura.jpg?w=900)
+![](media/estrutura.jpg)
 
 <figcaption>
 
@@ -62,9 +62,9 @@ A peça acima possui apenas quatro pontos de fixação no chassi do veículo, o 
 
 Veja abaixo os pontos de fixação da estrutura no chassi do carro. Como citei anteriormente são apenas quatro parafusos.
 
-<figure>
+<figure class="half">
 
-![](media/fixacao.jpg?w=900)
+![](media/fixacao.jpg)
 
 <figcaption>
 
@@ -78,9 +78,9 @@ Pontos de fixação da estrutura da suspensão traseira da CR-V
 
 Na imagem abaixo eu descrevo o sentido que a força é aplicada (chamo vetor de força) sobre a peça. Ressalto aqui que este é apenas um dos vetores de força, existem vários, mas para nossa explicação eu retrato apenas deste que é a força proveniente dos braços superiores da suspensão. Veja:
 
-<figure>
+<figure class="half">
 
-![](media/forca.jpg?w=900)
+![](media/forca.jpg)
 
 <figcaption>
 
@@ -92,11 +92,19 @@ Sentido das forças aplicadas pelos braços superiores sobre a estrutura da susp
 
 Esta força lateral, aliado ao fato de ter apenas dois parafusos de cada lado da estrutura propicia uma torção na peça, alterando significativamente os valores de cambagem das rodas traseiras. Isso acontece pela diminuição da distância entre os pontos A e B da figura abaixo.
 
-![](media/empeno.jpg?w=900)
+<figure class="half">
+
+![](media/empeno.jpg)
+
+</figure>
 
 Este movimento de torção na peça é suficiente para inclinar a roda em alguns graus, suficiente também para que nós proprietários percamos os pneus por ter as bandas de rodagem gastas somente pelo lado de dentro. Veja na imagem abaixo o movimento que o empeno na estrutura causa no conjunto:
 
-![](media/cambagem.jpg?w=1024)
+<figure class="half">
+
+![](media/cambagem.jpg)
+
+</figure>
 
 Apenas 0,5mm de afastamento do braço superior pode ser responsável por cerca de 1 grau a menos de cambagem, tornando-a negativa em excesso. O resultado disso é a inutilização do pneu em poucos quilômetros de uso.
 
@@ -116,7 +124,11 @@ Não existe um processo que resolva de uma vez por todas este mal comportamento,
 
 Certifique-se que o veículo esteja com o motor desligado e a alavanca de câmbio na posição P, após isso erga o veículo utilizando o macaco pela parte traseira do carro, conforme ilustração abaixo:
 
-![](media/apoio.jpg?w=800)
+<figure class="half">
+
+![](media/apoio.jpg)
+
+</figure>
 
 Suspenda o carro de modo que as duas rodas traseiras do veículo fiquem suspensas, assim você terá o peso das rodas ajudando a reposicionar a estrutura no local novamente. Após o carro erguido você deve utilizar a ferramenta de soquete 17mm para afrouxar os quatro parafusos da estrutura, nos pontos de fixação que temos conforme uma das imagens acima.
 
@@ -147,4 +159,3 @@ _Com o passar do tempo novas informações deverão surgir e voltarei a atualiza
 
 * * *
 
-## Temas Relacionados

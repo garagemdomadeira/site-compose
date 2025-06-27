@@ -18,7 +18,7 @@ tags:
   - "pecas"
 ---
 
-![](media/header_suspensao_diant.jpg?w=656)
+![](media/header_suspensao_diant.jpg)
 
 Continuando a série de esquemas e diagramas sobre a Honda CR-V 2007-2011. Agora as peças do conjunto mola/amortecedor.
 
@@ -28,7 +28,7 @@ A função deste conjunto é muito conhecida, ele absorve as irregularidades da 
 
 Segue abaixo o diagrama.
 
-![](media/conjunto-mola-amortecedor.jpg?w=873)
+![](media/conjunto-mola-amortecedor.jpg)
 
 * * *
 

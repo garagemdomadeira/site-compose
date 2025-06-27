@@ -18,7 +18,7 @@ tags:
   - "referencia"
 ---
 
-![](media/header_dtc.jpg?w=1024)
+![](media/header_dtc.jpg)
 
 Códigos de erro também são chamados comumente de DTC (Do inglês: Diagnostic Trouble Code ou Código de diagnóstico de problemas). Eles são armazenados na memória dos sistemas do carro toda vez que acontece alguma coisa fora do normal. Veja abaixo todos os DTC's relacionados ao sistema de ABS e VSA da CR-V.
 

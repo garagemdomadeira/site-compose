@@ -18,7 +18,7 @@ tags:
   - "2007-2011"
 ---
 
-![](media/header_vt.jpg?w=1024)
+![](media/header_vt.jpg)
 
 A válvula termostática é um componente crucial para o bom funcionamento do motor do seu veículo. Ela atua como um **regulador de temperatura**, garantindo que o motor atinja e mantenha sua faixa ideal de operação. Diferente de outras peças com prazo de validade definido, a substituição da válvula termostática ocorre quando ela apresenta sinais de mau funcionamento.
 

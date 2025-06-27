@@ -20,7 +20,7 @@ tags:
 
 ## Apenas um apaixonado por carros
 
-<img src="media/1000084608-01.png" style="float:right; width: 50%;">
+<img src="media/marcelo-madeira.webp" style="float:right; width: 30%; margin: 0 0 1rem 1rem" alt="Marcelo Madeira e seu Kia Sportage">
 
 Sou um empresário da área de tecnologia, desenvolvedor de software mas que possui uma outra paixão desde criança: Automóveis. Aqui neste site vou deixar muita informação para que possa ser útil para outras pessoas assim como foram para mim. Demorei bastante tempo para tomar coragem e começar a escrever. Após algum tempo notei que fazer vídeos é mais fácil de comunicar e vocês irão notar que tem muitos posts que são linkados com vídeos.  
 Neles eu falei bastante sobre o Honda CR-V que possuí por 3 anos (foi um ótimo carro) e atualmente estou fazendo conteúdo sobre Honda Fit e também sobre o Kia Sportage.

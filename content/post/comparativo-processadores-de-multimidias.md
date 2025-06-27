@@ -24,7 +24,10 @@ No mundo automotivo de hoje, cada vez mais carros são "inteligentes", mais segu
 
 ## UNISOC A8581: Versatilidade para sua Multimídia
 
-![Unisoc 8581](media/UNISOC8581.png)
+<figure class="half">
+  <img src="media/UNISOC8581.png" alt="Processador UNISOC A8581 - Solução inteligente e acessível para painel central e sistemas T-Box">
+  <figcaption>Processador UNISOC A8581 - Solução inteligente e acessível para painel central e sistemas T-Box</figcaption>
+</figure>
 
 O **UNISOC A8581** é a solução inteligente e acessível para o painel central do seu carro e para varios sistemas "tudo-em-um" (T-Box). Desenvolvido com tecnologia de **28 nanômetros (nm) HPC+**, ele foi feito para gastar pouca energia e se integrar facilmente, sendo uma opção econômica e eficiente.
 
@@ -34,7 +37,10 @@ Um dos seus grandes pontos fortes é a **versatilidade e integração para siste
 
 A conectividade é completa, com **4G**, Wi-Fi rápido (2.4/5GHz), **Bluetooth 5.1** e **GPS completo**, garantindo que o carro esteja sempre online e com boa localização. Recursos como câmeras 360°, DVR (gravador de vídeo), reconhecimento de voz e compatibilidade com Carlife e CarPlay fazem do A8581 uma opção funcional para os sistemas de **multimídia veicular** do dia a dia.
 
-![Unisoc 7862](media/UNISOC7862.png)
+<figure class="half">
+  <img src="media/UNISOC7862.png" alt="Processador UNISOC A7862 - Potência equilibrada para multimídia veicular e assistência à condução">
+  <figcaption>Processador UNISOC A7862 - Potência equilibrada para multimídia veicular e assistência à condução</figcaption>
+</figure>
 
 ## UNISOC A7862: Potência na Medida Certa e Multimídia de Qualidade
 
@@ -46,7 +52,10 @@ Ele também tem **processadores visuais (VDSPs)** que ajudam a otimizar as capac
 
 Em termos de conexão, o 4G é robusto e ele vem com **Bluetooth 5.0 BLE** (para chamadas e música sem fio) e um sistema de **GPS super preciso** (com suporte a três sistemas de satélites diferentes). Funções como visão panorâmica 360°, ADAS (que ajuda na segurança) e navegação com Realidade Aumentada (AR) são nativas, tornando a sua viagem mais segura e prática. Sua capacidade de funcionar em temperaturas extremas (-40°C a 85°C) mostra o quão confiável ele é.
 
-![Unisoc 7870](media/UNISOC7870.png)
+<figure class="half">
+  <img src="media/UNISOC7870.png" alt="Processador UNISOC A7870 - Tecnologia de ponta para cockpit inteligente com 5G e IA avançada">
+  <figcaption>Processador UNISOC A7870 - Tecnologia de ponta para cockpit inteligente com 5G e IA avançada</figcaption>
+</figure>
 
 ## UNISOC A7870: A Tecnologia Mais Avançada para o Seu Carro
 

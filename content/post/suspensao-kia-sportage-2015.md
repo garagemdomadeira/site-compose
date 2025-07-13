@@ -177,6 +177,8 @@ Abaixo segue o torque de aperto dos parafusos de suspensão traseira do kia spor
 
 **Basta clicar nos produtos para ir para o link de compra (Mercado Livre ou AliExpress)**
 
+<div class="figure-grid">
+
 <figure>
 
 [![](media/screenshot-2024-08-26-as-17.02.06.jpg)](https://mercadolivre.com/sec/2dH94oA)
@@ -215,7 +217,7 @@ Inclinômetro digital
 
 <figure>
 
-[![](media/screenshot-2024-08-26-as-17.09.08.jpg)](https://mercadolivre.com/sec/1u8N2vW)
+[![](media/screenshot-2024-08-26-as-17.09.08.jpg)](https://mercadolivre.com/sec/1SKxyDk)
 
 <figcaption>
 
@@ -248,3 +250,5 @@ Torquímetro de estalo MTX
 </figcaption>
 
 </figure>
+
+</div>

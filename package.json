@@ -7,7 +7,7 @@
     "start": "node src/index.js",
     "dev": "node src/server.js",
     "build": "node src/index.js",
-    "watch": "nodemon --watch src --watch structures --watch templates --watch content --ext js,json,html --exec 'npm run build'",
+    "watch": "nodemon --watch src/* --watch structures --watch templates --watch content/post --ext js,json,html,md,css --exec 'npm run build'",
     "deploy": "./deploy.sh",
     "deploy:output": "cd output && git add . && (git commit -m 'Deploy output' || echo 'Nada para commitar') && git push origin main",
     "normalize-tags": "node src/normalize-tags.js",

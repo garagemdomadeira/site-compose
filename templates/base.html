@@ -3,12 +3,33 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>{% if title %}{{ title|cleanTitle }} - {% endif %}Garagem do Madeira</title>
     <meta name="description"
         content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Seu portal de notícias automotivas{% endif %}">
     <meta name="keywords"
         content="{% if meta and meta.keywords %}{{ meta.keywords }}{% else %}carros, automóveis, notícias automotivas{% endif %}">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="{% if meta and meta.type %}{{ meta.type }}{% else %}website{% endif %}">
+    <meta property="og:url" content="{{ request.url if request else '' }}">
+    <meta property="og:title" content="{% if title %}{{ title|cleanTitle }}{% else %}Garagem do Madeira{% endif %}">
+    <meta property="og:description"
+        content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Seu portal de notícias automotivas{% endif %}">
+    <meta property="og:image"
+        content="{% if meta and meta.image %}{{ meta.image }}{% else %}/media/banner-square-1.jpg{% endif %}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="Garagem do Madeira">
+    <meta property="og:locale" content="pt_BR">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ request.url if request else '' }}">
+    <meta property="twitter:title" content="{% if title %}{{ title|cleanTitle }}{% else %}Garagem do Madeira{% endif %}">
+    <meta property="twitter:description"
+        content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Seu portal de notícias automotivas{% endif %}">
+    <meta property="twitter:image"
+        content="{% if meta and meta.image %}{{ meta.image }}{% else %}/media/banner-square-1.jpg{% endif %}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
     
     <!-- Bootstrap CSS -->

@@ -18,9 +18,16 @@ tags:
   - "video"
 ---
 
+Muitas pessoas me pedem os links dos produtos que eu utilizei em meu Honda Fit durante os vídeos que eu gravei. Separei aqui todos os produtos que utilizei quando fiz a suspensão do carro, os links são todos do Mercado Livre e você estará ajudando o canal com uma comissão ao comprar por eles. Boas compras.
+
+Basta clicar nos produtos para ir para o link de compra (Mercado Livre)
+
+
+<div class="figure-grid">
+
 <figure>
 
-[![](images/D_NQ_NP_2X_634230-MLB43593366746_092020-F.webp)](https://mercadolivre.com/sec/2Qk7LX1)
+[![](media/fit-amortecedor.webp)](https://mercadolivre.com/sec/2Qk7LX1)
 
 <figcaption>
 
@@ -32,7 +39,7 @@ Amortecedor dianteiro
 
 <figure>
 
-[![](media/mola.webp)](https://mercadolivre.com/sec/2ffk1yA)
+[![](media/fit-molas.webp)](https://mercadolivre.com/sec/2ffk1yA)
 
 <figcaption>
 
@@ -44,7 +51,7 @@ Conjunto de molas
 
 <figure>
 
-[![](images/D_NQ_NP_2X_963709-MLB47676802447_092021-F.webp)](https://mercadolivre.com/sec/1sTktue)
+[![](media/fit-coxim-amortecedor.webp)](https://mercadolivre.com/sec/1sTktue)
 
 <figcaption>
 
@@ -56,7 +63,7 @@ Coxim do amortecedor (unidade)
 
 <figure>
 
-[![](images/D_NQ_NP_2X_632127-MLB40252402433_122019-F.webp)](https://mercadolivre.com/sec/2ACqG7f)
+[![](media/fit-coxim-amortecedor-rolamento.webp)](https://mercadolivre.com/sec/2ACqG7f)
 
 <figcaption>
 
@@ -68,7 +75,7 @@ Coxim com rolamento
 
 <figure>
 
-[![](images/D_NQ_NP_2X_873657-MLB73103807255_112023-F.webp)](https://mercadolivre.com/sec/28cTYNc)
+[![](media/fit-braco-dianteiro-direito.webp)](https://mercadolivre.com/sec/28cTYNc)
 
 <figcaption>
 
@@ -80,7 +87,7 @@ Bandeja Original Direito
 
 <figure>
 
-[![](images/D_NQ_NP_2X_611829-MLB52405550304_112022-F.webp)](https://mercadolivre.com/sec/2nt3o9s)
+[![](media/fit-braco-dianteiro-esquerdo.webp)](https://mercadolivre.com/sec/2nt3o9s)
 
 <figcaption>
 
@@ -92,7 +99,7 @@ Bandeja Original Esquerdo
 
 <figure>
 
-[![](images/D_NQ_NP_2X_664606-MLB75571689828_042024-F.webp)](https://mercadolivre.com/sec/1RsASUP)
+[![](media/fit-bucha-barra-dianteira.webp)](https://mercadolivre.com/sec/1RsASUP)
 
 <figcaption>
 
@@ -104,7 +111,7 @@ Par bucha barra estabilizadora
 
 <figure>
 
-[![](images/D_NQ_NP_2X_985627-MLB74354447392_022024-F.webp)](https://mercadolivre.com/sec/2nDGbty)
+[![](media/fit-bieleta.webp)](https://mercadolivre.com/sec/2nDGbty)
 
 <figcaption>
 
@@ -114,7 +121,12 @@ Par Bieleta
 
 </figure>
 
+</div>
+
+
 ## Alguns vídeos do Honda fit
+
+Aqui mostro algunas intervenções minhas no meu Honda Fit.
 
 https://youtu.be/Z3f47pGh3rc
 

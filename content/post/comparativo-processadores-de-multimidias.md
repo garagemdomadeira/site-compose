@@ -71,6 +71,8 @@ A conectividade também é top de linha: ele é o único que oferece suporte ao 
 
 Para ajudar você a decidir, aqui está um resumo das principais características de cada processador:
 
+<div class="responsive-table">
+
 | Característica Principal  | UNISOC A7870                                      | UNISOC A7862                                                | UNISOC A8581                                       |
 | ------------------------- | ------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
 | **Foco Principal**        | Cockpit Inteligente de Ponta                      | Multimídia Veicular e Assistência à Condução 4G             | Console Central e T-Box All-in-One                 |
@@ -84,6 +86,7 @@ Para ajudar você a decidir, aqui está um resumo das principais característica
 | **Certificação**          | AEC-Q100 (Rigosa automotiva)                      | Faixa de temperatura automotiva                             | Integração OEM (Compatível com fabricantes)        |
 | **Recursos Específicos**  | QNX/Linux/Android Auto, Segurança, Voz Multi-zona | Câmera 360°, ADAS, Monitoramento do Motorista, AR Navegação | T-Box, AVM, DVR, CarPlay/Carlife                   |
 
+</div>
 ## Conclusão: A Escolha é Sua!
 
 Como vimos, cada processador da UNISOC - o A7870, o A7862 e o A8581 - foi feito com um objetivo específico para o mercado automotivo. Não existe um processador "melhor" para todos. A escolha certa **depende do que você (ou o fabricante do carro) mais valoriza**: o tipo de veículo, o orçamento disponível e a experiência que se quer oferecer ao dirigir.

@@ -1,25 +1,23 @@
 .youtube-embed {
-    width: 1920px;
-    height: 1080px;
-    max-width: 100%;
+    width: 100%;
     margin: 2rem auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #000;
+    padding: 1rem;
+        background-color: #333;
+        border-radius: 10px;
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
 
 .youtube-embed iframe {
-    width: 1920px;
-    height: 1080px;
-    max-width: 100%;
-    max-height: calc(100vw * 0.5625);
-    /* Mantém proporção 16:9 baseada na largura da tela */
+    width: 700px;
+        height: 400px;
     border: 0;
 }
 
-/* Media query para telas menores que 1920px */
-@media screen and (max-width: 1920px) {
+/* Media query para telas menores que 768px */
+@media screen and (max-width: 768px) {
     .youtube-embed {
         width: 100%;
         height: auto;
@@ -27,7 +25,6 @@
 
     .youtube-embed iframe {
         width: 100%;
-        height: calc(100vw * 0.5625);
-        /* Mantém proporção 16:9 */
+            height: calc(calc(100vw * 0.5625) - 2rem);
     }
 }

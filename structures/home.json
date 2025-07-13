@@ -1,6 +1,12 @@
 {
     "page": "home",
-    "title": "",
+    "title": "Garagem do Madeira - Seu Portal de Análises e Dicas Automotivas",
+    "meta": {
+        "descricao": "Garagem do Madeira é o seu portal completo de análises e dicas sobre o mundo automotivo, com foco em manutenção, tecnologia e achados de peças.",
+        "keywords": "carros, automóveis, manutenção automotiva, tecnologia automotiva, peças automotivas, Honda, CR-V, Fit, customização, dicas de carro",
+        "image": "/media/garagem_do_madeira_p.png",
+        "type": "website"
+    },
     "sections": [
         {
             "type": "highlight",

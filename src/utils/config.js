@@ -11,11 +11,13 @@ import nunjucks from 'nunjucks';
 // Configuração de diretórios
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, '../..');
-const outputDir = path.join(rootDir, 'output');
-const structuresDir = path.join(rootDir, 'structures');
-const templatesDir = path.join(rootDir, 'templates');
-const contentDir = path.join(rootDir, 'content', 'post');
-const mediaDir = path.join(rootDir, 'media');
+export const outputDir = path.join(rootDir, 'output');
+export const contentDir = path.join(rootDir, 'content', 'post');
+export const mediaDir = path.join(rootDir, 'media');
+export const structuresDir = path.join(rootDir, 'structures');
+export const templatesDir = path.join(rootDir, 'templates');
+
+export const baseUrl = 'https://garagemdomadeira.com.br';
 
 // Configuração do Nunjucks
 const env = nunjucks.configure(templatesDir, {
@@ -37,10 +39,5 @@ env.addFilter('date', function(str, format) {
 
 export {
     rootDir,
-    outputDir,
-    structuresDir,
-    templatesDir,
-    contentDir,
-    mediaDir,
     env
 }; 

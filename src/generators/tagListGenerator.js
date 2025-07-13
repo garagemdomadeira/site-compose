@@ -49,7 +49,12 @@ export async function generateTagListPage(posts) {
         // Gera a página de listagem
         const outputPath = path.join('output', 'tags.html');
         await renderTemplate('tag-list.html', outputPath, {
-            tags: sortedTags
+            tags: sortedTags,
+            title: 'Todas as Tags',
+            meta: {
+                descricao: 'Explore todas as tags de posts do Garagem do Madeira. Encontre o que você procura por palavras-chave automotivas.',
+                keywords: 'tags, palavras-chave, blog, Garagem do Madeira, notícias automotivas'
+            }
         });
 
         console.log('✅ Página de listagem de tags gerada com sucesso!');

@@ -34,7 +34,12 @@ export async function generateTagPages(posts) {
             
             await renderTemplate('tag.html', outputPath, {
                 tag,
-                posts: tagPosts
+                posts: tagPosts,
+                title: `Tag: ${tag}`,
+                meta: {
+                    descricao: `Posts marcados com a tag: ${tag}. Encontre notícias, dicas e análises automotivas relacionadas a ${tag}.`,
+                    keywords: `tag, ${tag}, carros, automóveis, notícias automotivas`
+                }
             });
         }
 

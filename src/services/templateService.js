@@ -7,6 +7,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import nunjucks from 'nunjucks';
+import { baseUrl } from '../utils/config.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -50,8 +51,17 @@ export async function renderTemplate(templateName, outputPath, data = {}) {
     try {
         console.log(`Renderizando template ${templateName} para ${outputPath}`);
         
+        // Constrói a URL completa da página
+        const fullUrl = `${baseUrl}/${outputPath}`.replace(/\/index\.html$/, '/');
+
+        // Adiciona a URL ao objeto de dados para ser acessível no template
+        const dataWithRequest = {
+            ...data,
+            request: { url: fullUrl }
+        };
+
         // Renderiza o template usando Nunjucks
-        const content = env.render(templateName, data);
+        const content = env.render(templateName, dataWithRequest);
         
         // Garante que o diretório existe
         await fs.mkdir(path.dirname(outputPath), { recursive: true });

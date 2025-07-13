@@ -43,7 +43,7 @@ export async function readMarkdownFiles() {
 
                 // Adiciona imagem de capa padrão se não existir
                 if (!metadata.coverImage) {
-                    metadata.coverImage = 'default_image.jpg';
+                    metadata.coverImage = '/media/garagem_do_madeira_p.png';
                 }
                 
                 return {

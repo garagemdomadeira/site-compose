@@ -20,7 +20,12 @@ export async function generatePost(post, menu) {
             post,
             menu,
             title: post.title,
-            description: post.description
+            meta: {
+                descricao: post.description || null,
+                keywords: post.keywords || null,
+                image: post.coverImage || post.image || null,
+                type: post.type || 'article'
+            }
         });
 
         const outputPath = path.join(outputDir, 'posts', `${post.slug}.html`);

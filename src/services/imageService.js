@@ -24,6 +24,16 @@ export async function copyImagesToOutput(posts) {
         await fs.mkdir(outputMediaDir, { recursive: true });
         console.log('✅ Pasta output/media criada com sucesso');
 
+        // Copia a imagem padrão garage_do_madeira_p.png para output/media
+        const defaultImagePath = path.join(mediaDir, 'garagem_do_madeira_p.png');
+        const targetDefaultImagePath = path.join(outputMediaDir, 'garagem_do_madeira_p.png');
+        try {
+            await fs.copyFile(defaultImagePath, targetDefaultImagePath);
+            console.log(`✅ Imagem padrão ${path.basename(defaultImagePath)} copiada com sucesso.`);
+        } catch (error) {
+            console.error(`❌ Erro ao copiar imagem padrão ${path.basename(defaultImagePath)}:`, error);
+        }
+
         // Processa cada post
         for (const post of posts) {
             const postSlug = (post.metadata && post.metadata.slug) || post.slug;

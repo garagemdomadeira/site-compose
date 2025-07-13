@@ -24,7 +24,14 @@ export async function generateContentPages() {
         for (const post of posts) {
             const pageData = {
                 ...post,
-                menu
+                menu,
+                // Mapeia metadados para a estrutura esperada pelo base.html
+                meta: {
+                    descricao: post.descricao || null,
+                    keywords: post.keywords || null,
+                    image: post.coverImage || post.image || null, // Prioriza coverImage, depois image
+                    type: post.type || 'article' // Define tipo padrão para posts
+                }
             };
 
             // Cria a estrutura de diretórios ano/mês/post

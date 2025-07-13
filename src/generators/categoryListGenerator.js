@@ -66,7 +66,12 @@ export async function generateCategoryListPage(posts) {
         // Gera a página de listagem
         const outputPath = path.join('output', 'categories.html');
         await renderTemplate('category-list.html', outputPath, {
-            categories: sortedCategories
+            categories: sortedCategories,
+            title: 'Todas as Categorias',
+            meta: {
+                descricao: 'Explore todas as categorias de posts do Garagem do Madeira. Encontre o que você procura por tópicos automotivos.',
+                keywords: 'categorias, tópicos, blog, Garagem do Madeira, notícias automotivas'
+            }
         });
 
         console.log('✅ Página de listagem de categorias gerada com sucesso!');

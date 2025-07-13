@@ -41,7 +41,12 @@ export async function generateCategoryPages(posts) {
             
             await renderTemplate('category.html', outputPath, {
                 category,
-                posts: categoryPosts
+                posts: categoryPosts,
+                title: `Categoria: ${category}`,
+                meta: {
+                    descricao: `Posts na categoria: ${category}. Encontre notícias, dicas e análises automotivas relacionadas a ${category}.`,
+                    keywords: `categoria, ${category}, carros, automóveis, notícias automotivas`
+                }
             });
         }
 

@@ -11,7 +11,7 @@ import { readStructure, readMenu, copyStaticFiles } from '../services/fileServic
 import { fileExists } from '../utils/fileExists.js';
 import { copyHomeImages } from '../services/homeImageService.js';
 
-const defaultImage = '/media/default.jpg';
+const defaultImage = '/media/garagem_do_madeira_p.png';
 
 function getImageFromSlug(link) {
     if (!link) return defaultImage;
@@ -67,7 +67,13 @@ export async function generateHomePage() {
         const pageData = {
             ...homeStructure,
             sections,
-            menu
+            menu,
+            meta: {
+                descricao: 'Garagem do Madeira - Seu portal de notícias automotivas',
+                keywords: 'carros, automóveis, notícias automotivas',
+                image: defaultImage,
+                type: 'website'
+            }
         };
 
         // Renderiza o template home.html com os dados combinados

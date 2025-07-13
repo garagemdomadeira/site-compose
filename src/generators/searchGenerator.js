@@ -7,6 +7,8 @@ import path from 'path';
 import { renderTemplate } from '../services/templateService.js';
 import { readMenu } from '../services/fileService.js';
 
+const defaultImage = '/media/garagem_do_madeira_p.png';
+
 /**
  * Gera a página de pesquisa
  * @returns {Promise<void>}
@@ -21,7 +23,9 @@ export async function generateSearchPage() {
                 title: 'Pesquisa',
                 meta: {
                     descricao: 'Pesquise por conteúdo no Garagem do Madeira',
-                    keywords: 'pesquisa, busca, carros, automóveis'
+                    keywords: 'pesquisa, busca, carros, automóveis',
+                    image: defaultImage,
+                    type: 'website'
                 },
                 menu
             }

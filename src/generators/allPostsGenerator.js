@@ -12,7 +12,7 @@ import { readMarkdownFiles } from '../services/contentReader.js';
 import { generatePostLink } from '../utils/postLink.js';
 import { detectMainImage } from '../utils/postImage.js';
 
-const defaultImage = '/assets/default_image.jpg';
+const defaultImage = '/media/garagem_do_madeira_p.png';
 
 /**
  * Gera a página que lista todos os posts
@@ -21,15 +21,6 @@ const defaultImage = '/assets/default_image.jpg';
  */
 export async function generateAllPostsPage() {
     try {
-        // Copia a imagem padrão para output/assets/default_image.jpg
-        // Removido: A imagem padrão agora é gerenciada pelo contentReader e deve estar na pasta media
-        // const assetsDir = path.join(outputDir, 'assets');
-        // await fs.mkdir(assetsDir, { recursive: true });
-        // await fs.copyFile(
-        //     path.join(mediaDir, 'default_image.jpg'),
-        //     path.join(assetsDir, 'default_image.jpg')
-        // );
-
         // Lê o menu e os posts
         const [menu, posts] = await Promise.all([
             readMenu(),
@@ -76,7 +67,9 @@ export async function generateAllPostsPage() {
             title: 'Todos os Posts',
             meta: {
                 descricao: 'Explore todos os posts do Garagem do Madeira, organizados por ano e mês.',
-                keywords: 'todos os posts, arquivo, blog, Garagem do Madeira, notícias automotivas'
+                keywords: 'todos os posts, arquivo, blog, Garagem do Madeira, notícias automotivas',
+                image: defaultImage,
+                type: 'website'
             }
         });
 

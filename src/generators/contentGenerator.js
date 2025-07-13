@@ -29,7 +29,7 @@ export async function generateContentPages() {
                 meta: {
                     descricao: post.descricao || null,
                     keywords: post.keywords || null,
-                    image: post.coverImage || post.image || null, // Prioriza coverImage, depois image
+                    image: `/media/${post.slug}.jpg`, // Usa apenas o slug do post para a imagem
                     type: post.type || 'article' // Define tipo padrão para posts
                 }
             };

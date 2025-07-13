@@ -1,12 +1,11 @@
 /**
  * Função utilitária para detectar a imagem principal de um post.
  * Estratégia:
- * 1. Verifica se há imagem no metadata (coverImage, image, etc)
- * 2. Procura a primeira imagem no conteúdo markdown
- * 3. Retorna uma imagem padrão se não encontrar nenhuma
+ * 1. Para posts, usa o nome do arquivo markdown
+ * 2. Para outras páginas, usa a imagem padrão
  *
  * @param {Object} post - Objeto do post (deve conter metadata e content)
- * @param {string} [defaultImage='/media/default.jpg'] - Caminho da imagem padrão
+ * @param {string} [defaultImage='/media/garagem_do_madeira_p.png'] - Caminho da imagem padrão
  * @returns {string} Caminho da imagem principal
  */
 
@@ -17,7 +16,7 @@ const cleanUrl = (url) => {
   return url.replace(/^["']|["']$/g, '').trim();
 };
 
-export function detectMainImage(post, defaultImage = '/media/default.jpg') {
+export function detectMainImage(post, defaultImage = '/media/garagem_do_madeira_p.png') {
   if (!post) return defaultImage;
   
   // Se o post tiver um slug, retorna o caminho da imagem baseado no slug

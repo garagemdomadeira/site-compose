@@ -23,7 +23,7 @@ export async function generatePost(post, menu) {
             meta: {
                 descricao: post.description || null,
                 keywords: post.keywords || null,
-                image: post.coverImage || post.image || null,
+                image: `/media/${post.slug}.jpg`, // Usa apenas o slug do post para a imagem
                 type: post.type || 'article'
             }
         });

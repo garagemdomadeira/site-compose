@@ -2,6 +2,8 @@ import { renderTemplate } from '../services/templateService.js';
 import { ensureDirectoryExists } from '../services/directoryService.js';
 import path from 'path';
 
+const defaultImage = '/media/garagem_do_madeira_p.png';
+
 /**
  * Gera páginas para cada categoria encontrada nos posts
  * @param {Array} posts - Lista de posts do blog
@@ -45,7 +47,9 @@ export async function generateCategoryPages(posts) {
                 title: `Categoria: ${category}`,
                 meta: {
                     descricao: `Posts na categoria: ${category}. Encontre notícias, dicas e análises automotivas relacionadas a ${category}.`,
-                    keywords: `categoria, ${category}, carros, automóveis, notícias automotivas`
+                    keywords: `categoria, ${category}, carros, automóveis, notícias automotivas`,
+                    image: defaultImage,
+                    type: 'website'
                 }
             });
         }

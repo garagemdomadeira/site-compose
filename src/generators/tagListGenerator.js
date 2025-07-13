@@ -4,6 +4,8 @@ import { generatePostLink } from '../utils/postLink.js';
 import { detectMainImage } from '../utils/postImage.js';
 import path from 'path';
 
+const defaultImage = '/media/garagem_do_madeira_p.png';
+
 /**
  * Gera a página de listagem de tags
  * @param {Array} posts - Lista de posts do blog
@@ -53,7 +55,9 @@ export async function generateTagListPage(posts) {
             title: 'Todas as Tags',
             meta: {
                 descricao: 'Explore todas as tags de posts do Garagem do Madeira. Encontre o que você procura por palavras-chave automotivas.',
-                keywords: 'tags, palavras-chave, blog, Garagem do Madeira, notícias automotivas'
+                keywords: 'tags, palavras-chave, blog, Garagem do Madeira, notícias automotivas',
+                image: defaultImage,
+                type: 'website'
             }
         });
 

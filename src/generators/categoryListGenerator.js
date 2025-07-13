@@ -4,6 +4,8 @@ import { generatePostLink } from '../utils/postLink.js';
 import { detectMainImage } from '../utils/postImage.js';
 import path from 'path';
 
+const defaultImage = '/media/garagem_do_madeira_p.png';
+
 function renderCategoryCards(posts) {
     return posts.map(post => `
         <div class="col-md-6 col-lg-3 mb-4">
@@ -70,7 +72,9 @@ export async function generateCategoryListPage(posts) {
             title: 'Todas as Categorias',
             meta: {
                 descricao: 'Explore todas as categorias de posts do Garagem do Madeira. Encontre o que você procura por tópicos automotivos.',
-                keywords: 'categorias, tópicos, blog, Garagem do Madeira, notícias automotivas'
+                keywords: 'categorias, tópicos, blog, Garagem do Madeira, notícias automotivas',
+                image: defaultImage,
+                type: 'website'
             }
         });
 

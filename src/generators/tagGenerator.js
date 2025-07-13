@@ -2,6 +2,8 @@ import { renderTemplate } from '../services/templateService.js';
 import { ensureDirectoryExists } from '../services/directoryService.js';
 import path from 'path';
 
+const defaultImage = '/media/garagem_do_madeira_p.png';
+
 /**
  * Gera páginas para cada tag encontrada nos posts
  * @param {Array} posts - Lista de posts do blog
@@ -38,7 +40,9 @@ export async function generateTagPages(posts) {
                 title: `Tag: ${tag}`,
                 meta: {
                     descricao: `Posts marcados com a tag: ${tag}. Encontre notícias, dicas e análises automotivas relacionadas a ${tag}.`,
-                    keywords: `tag, ${tag}, carros, automóveis, notícias automotivas`
+                    keywords: `tag, ${tag}, carros, automóveis, notícias automotivas`,
+                    image: defaultImage,
+                    type: 'website'
                 }
             });
         }

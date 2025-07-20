@@ -76,7 +76,7 @@ body {
         color: var(--gm-text-primary);
     }
 
-        .row>a {
+        .card-container {
             text-decoration: none;
         }
     /* Ajustes para textos em cards */

@@ -1,0 +1,414 @@
+{
+  "redirects": [
+    {
+      "from": "/multimidias-lelong/",
+      "to": "/2024/11/multimidias-lelong/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/diferencas-entre-a-cr-v-lx-e-cr-v-exl/",
+      "to": "/2021/03/diferencas-entre-a-cr-v-lx-e-cr-v-exl/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/diferencas-entre-a-cr-v-lx-e-cr-v-exl/amp/",
+      "to": "/2021/03/diferencas-entre-a-cr-v-lx-e-cr-v-exl/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/filtro-de-combustivel-honda-cr-v-2007-2011/",
+      "to": "/2021/03/filtro-de-combustivel-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/filtro-de-combustivel-honda-cr-v-2007-2011/amp/",
+      "to": "/2021/03/filtro-de-combustivel-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/qual-oleo-utilizar-na-cr-v-2007-2011",
+      "to": "/2021/03/qual-oleo-utilizar-na-cr-v-2007-2011",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/qual-oleo-utilizar-na-cr-v-2007-2011/",
+      "to": "/2021/03/qual-oleo-utilizar-na-cr-v-2007-2011",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/valvula-termostatica-honda-cr-v-2007-2011/",
+      "to": "/2021/03/valvula-termostatica-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/14/valvula-termostatica-honda-cr-v-2007-2011/amp/",
+      "to": "/2021/03/valvula-termostatica-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/25/como-regular-cambagem-traseira-da-cr-v/",
+      "to": "/2021/03/como-regular-cambagem-traseira-da-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/25/como-regular-cambagem-traseira-da-cr-v/amp/",
+      "to": "/2021/03/como-regular-cambagem-traseira-da-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/27/conhecendo-o-modo-scs-nos-honda/",
+      "to": "/2021/03/conhecendo-o-modo-scs-nos-honda/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/27/conhecendo-o-modo-scs-nos-honda/amp/",
+      "to": "/2021/03/conhecendo-o-modo-scs-nos-honda/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/28/diagnostico-de-problemas-no-abs-sem-scanner/amp/",
+      "to": "/2021/03/diagnostico-de-problemas-no-abs-sem-scanner/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/28/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/",
+      "to": "/2021/03/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/03/28/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/amp/",
+      "to": "/2021/03/lista-de-codigos-de-erro-em-abs-e-vsa-para-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/02/suspensao-cr-v-2007-2011-lista-de-pecas/",
+      "to": "/2021/04/suspensao-cr-v-2007-2011-lista-de-pecas/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/02/suspensao-cr-v-2007-2011-lista-de-pecas/amp/",
+      "to": "/2021/04/suspensao-cr-v-2007-2011-lista-de-pecas/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/10/diagnostico-ar-condicionado-digital-cr-v/amp/",
+      "to": "/2021/04/diagnostico-ar-condicionado-digital-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/14/chave-do-tipo-canivete-para-honda-cr-v/",
+      "to": "/2021/04/chave-do-tipo-canivete-para-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/14/chave-do-tipo-canivete-para-honda-cr-v/amp/",
+      "to": "/2021/04/chave-do-tipo-canivete-para-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/15/troca-parcial-atf-cambio-automatico-honda-cr-v/",
+      "to": "/2021/04/troca-parcial-atf-cambio-automatico-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/15/troca-parcial-atf-cambio-automatico-honda-cr-v/amp/",
+      "to": "/2021/04/troca-parcial-atf-cambio-automatico-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/30/inspecao-troca-de-velas-de-ignicao-honda-cr-v/amp/",
+      "to": "/2021/04/inspecao-troca-de-velas-de-ignicao-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/30/manutencao-periodica-honda-cr-v/",
+      "to": "/2021/04/manutencao-periodica-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/04/30/manutencao-periodica-honda-cr-v/amp/",
+      "to": "/2021/04/manutencao-periodica-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/08/14/diagrama-conjunto-mola-amortecedor-honda-cr-v/",
+      "to": "/2021/08/diagrama-conjunto-mola-amortecedor-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/08/14/diagrama-conjunto-mola-amortecedor-honda-cr-v/amp/",
+      "to": "/2021/08/diagrama-conjunto-mola-amortecedor-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/08/14/diagrama-montante-dianteiro-honda-cr-v/amp/",
+      "to": "/2021/08/diagrama-montante-dianteiro-honda-cr-v/",
+      "status": 301
+    },
+    {
+      "from": "/2021/08/14/suspensao-dianteira-honda-cr-v-2007-2011/",
+      "to": "/2021/08/suspensao-dianteira-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2021/08/14/suspensao-dianteira-honda-cr-v-2007-2011/amp/",
+      "to": "/2021/08/suspensao-dianteira-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2022/01/28/minhas-experiencias-apos-remap/",
+      "to": "/2022/01/minhas-experiencias-apos-remap/",
+      "status": 301
+    },
+    {
+      "from": "/2023/07/28/honda-cr-v-montagem-pos-pintura/",
+      "to": "/2023/07/honda-cr-v-montagem-pos-pintura/",
+      "status": 301
+    },
+    {
+      "from": "/2023/07/30/troca-lampadas-farol-de-neblina-honda-cr-v-2007-2011/",
+      "to": "/2023/07/troca-lampadas-farol-de-neblina-honda-cr-v-2007-2011/",
+      "status": 301
+    },
+    {
+      "from": "/2024/02/23/instalacao-camera-de-re-honda-fit-old-primeira-geracao-2003-ate-2008/",
+      "to": "/2024/02/instalacao-camera-de-re-honda-fit-old-primeira-geracao-2003-ate-2008/",
+      "status": 301
+    },
+    {
+      "from": "/2024/02/26/honda-cr-v-catalogo-eletronico-de-pecas-e-manuais-de-servico/",
+      "to": "/2024/02/honda-cr-v-catalogo-eletronico-de-pecas-e-manuais-de-servico/",
+      "status": 301
+    },
+    {
+      "from": "/2024/02/26/primeira-troca-de-oleo-e-filtros-da-sportage/",
+      "to": "/2024/02/primeira-troca-de-oleo-e-filtros-da-sportage/",
+      "status": 301
+    },
+    {
+      "from": "/2024/03/04/troca-de-oleo-do-cambio/",
+      "to": "/2024/03/troca-de-oleo-do-cambio/",
+      "status": 301
+    },
+    {
+      "from": "/2024/03/24/troca-do-fluido-de-freio/",
+      "to": "/2024/03/troca-do-fluido-de-freio/",
+      "status": 301
+    },
+    {
+      "from": "/2024/04/05/camera-360-parte-1/",
+      "to": "/2024/04/camera-360-parte-1/",
+      "status": 301
+    },
+    {
+      "from": "/2024/04/22/camera-360-parte-2/",
+      "to": "/2024/04/camera-360-parte-2/",
+      "status": 301
+    },
+    {
+      "from": "/2024/04/26/camera-360-parte-3/",
+      "to": "/2024/04/camera-360-parte-3/",
+      "status": 301
+    },
+    {
+      "from": "/2024/06/12/multimidia-android-conhecendo-o-conector-principal/",
+      "to": "/2024/06/multimidia-android-conhecendo-o-conector-principal/",
+      "status": 301
+    },
+    {
+      "from": "/2024/06/12/troca-rolamento-do-fit/",
+      "to": "/2024/06/troca-rolamento-do-fit/",
+      "status": 301
+    },
+    {
+      "from": "/2024/07/12/lelong-le-6321/",
+      "to": "/2024/07/lelong-le-6321/",
+      "status": 301
+    },
+    {
+      "from": "/about/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/achados-aliexpress-cr-v/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/achados-aliexpress-honda-fit/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/achados-do-aliexpress-ferramentas/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/achados-do-aliexpress-multimidias-cameras-e-afins/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/atualizacoes-das-multimidias/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/author/2madera/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/category/manutencao/codigos-de-erro/",
+      "to": "",
+      "status": 301
+    },
+    {
+      "from": "/category/meus-carros/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/category/meus-carros/feed/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/category/meus-carros/honda-fit/",
+      "to": "/category/honda-fit.html",
+      "status": 301
+    },
+    {
+      "from": "/category/multimidia/",
+      "to": "/category/multimidia.html",
+      "status": 301
+    },
+    {
+      "from": "/contato/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/home/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/itens-de-revisao-kia-sportage/",
+      "to": "/2024/09/itens-de-revisao-kia-sportage/",
+      "status": 301
+    },
+    {
+      "from": "/ofertas-do-aliexpress/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/page/2/",
+      "to": "/",
+      "status": 301
+    },
+    {
+      "from": "/produtos-que-eu-utilizo/",
+      "to": "/2023/10/produtos-que-eu-utilizo/",
+      "status": 301
+    },
+    {
+      "from": "/sportage/",
+      "to": "/categories/kia-sportage.html",
+      "status": 301
+    },
+    {
+      "from": "/suspensao-honda-fit/",
+      "to": "/2024/06/suspensao-honda-fit/",
+      "status": 301
+    },
+    {
+      "from": "/tag/0w20/",
+      "to": "/tags/0w20.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/10w30/",
+      "to": "/tags/10w30.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/4x4/",
+      "to": "/tags/4x4.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/android/",
+      "to": "/tags/android.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/arrefecimento/",
+      "to": "/tags/arrefecimento.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/cambio-automatico/",
+      "to": "/tags/cambio-automatico.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/camera360/",
+      "to": "/tags/camera360.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/diagnostico/",
+      "to": "/tags/diagnostico.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/fit/",
+      "to": "/tags/fit.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/honda-crv/",
+      "to": "/tags/honda-crv.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/honda-fit/",
+      "to": "/tags/honda-fit.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/kia-sportage/",
+      "to": "/tags/kia-sportage.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/motor/",
+      "to": "/tags/motor.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/multimidia-2/",
+      "to": "/tags/multimidia.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/multimidia/",
+      "to": "/tags/multimidia.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/obd2/",
+      "to": "/tags/obd2.html",
+      "status": 301
+    },
+    {
+      "from": "/tag/roda/",
+      "to": "/tags/roda.html",
+      "status": 301
+    }
+  ]
+} 

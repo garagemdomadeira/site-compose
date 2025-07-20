@@ -7,7 +7,8 @@
 
 import fs from 'fs/promises';
 import path from 'path';
-import { outputDir, env } from '../utils/config.js';
+import { outputDir, env, baseUrl } from '../utils/config.js';
+import { generatePostLink } from '../utils/postLink.js';
 import { readMarkdownFiles, readMenu } from '../services/fileService.js';
 import { copyPostImages } from '../utils/media.js';
 
@@ -31,7 +32,8 @@ export async function generateContentPages() {
                     keywords: post.keywords || null,
                     image: `/media/${post.slug}.jpg`, // Usa apenas o slug do post para a imagem
                     type: post.type || 'article' // Define tipo padrão para posts
-                }
+                },
+                canonical_url: `${baseUrl}${generatePostLink(post)}`
             };
 
             // Cria a estrutura de diretórios ano/mês/post

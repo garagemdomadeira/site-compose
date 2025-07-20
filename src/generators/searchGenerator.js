@@ -6,6 +6,7 @@
 import path from 'path';
 import { renderTemplate } from '../services/templateService.js';
 import { readMenu } from '../services/fileService.js';
+import { baseUrl } from '../utils/config.js';
 
 const defaultImage = '/media/garagem_do_madeira_p.png';
 
@@ -27,7 +28,8 @@ export async function generateSearchPage() {
                     image: defaultImage,
                     type: 'website'
                 },
-                menu
+                menu,
+                canonical_url: `${baseUrl}/search.html`
             }
         );
         console.log('🔍 Página de pesquisa gerada com sucesso!');

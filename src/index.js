@@ -18,6 +18,7 @@ import { generate as generateRedirects } from './generators/redirectsGenerator.j
 import { readMarkdownFiles } from './services/contentService.js';
 import { readMenu, cleanOutput } from './services/fileService.js';
 import { copyImagesToOutput } from './services/imageService.js';
+import { copyStaticFiles } from './services/fileService.js';
 
 /**
  * Função principal que coordena a geração do site
@@ -37,6 +38,8 @@ async function main() {
         
         // Copia as imagens para output/media
         await copyImagesToOutput(posts);
+        // Copia arquivos estáticos (inclui robots.txt)
+        await copyStaticFiles();
         
         // Gera as páginas
         await generateHomePage();

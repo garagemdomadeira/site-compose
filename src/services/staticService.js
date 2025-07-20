@@ -32,6 +32,11 @@ const staticFiles = [
     {
         source: path.join(rootDir, 'src', 'assets', 'search.js'),
         target: path.join(outputDir, 'assets', 'search.js')
+    },
+    // robots.txt
+    {
+        source: path.join(rootDir, 'src', 'robots.txt'),
+        target: path.join(outputDir, 'robots.txt')
     }
 ];
 

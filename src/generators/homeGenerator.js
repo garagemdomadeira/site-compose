@@ -6,7 +6,7 @@
 
 import fs from 'fs/promises';
 import path from 'path';
-import { outputDir, env } from '../utils/config.js';
+import { outputDir, env, baseUrl } from '../utils/config.js';
 import { readStructure, readMenu, copyStaticFiles } from '../services/fileService.js';
 import { fileExists } from '../utils/fileExists.js';
 import { copyHomeImages } from '../services/homeImageService.js';
@@ -64,6 +64,22 @@ export async function generateHomePage() {
 
         // Ajusta as imagens das seções
         const sections = await processSections(homeStructure.sections || []);
+
+        // Coleta todos os links com prefetch: true
+        const prefetchLinks = [];
+        for (const section of sections) {
+            if (section.data && section.data.prefetch && section.data.link) {
+                prefetchLinks.push(section.data.link);
+            }
+            if (section.items) {
+                for (const item of section.items) {
+                    if (item.prefetch && item.link) {
+                        prefetchLinks.push(item.link);
+                    }
+                }
+            }
+        }
+
         const pageData = {
             ...homeStructure,
             sections,
@@ -73,7 +89,9 @@ export async function generateHomePage() {
                 keywords: 'carros, automóveis',
                 image: defaultImage,
                 type: 'website'
-            }
+            },
+            canonical_url: `${baseUrl}/`,
+            prefetchLinks
         };
 
         // Renderiza o template home.html com os dados combinados

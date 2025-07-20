@@ -22,46 +22,48 @@ tags:
 
 Os requisitos para fazer o update da multimídia são:
 
-- APPVER: precisa começar com **K4811\_NWD**
+- APPVER: precisa começar com **K4811** ou **K2001N**
 
 - Cabo USB da multimídia acessível para conectar o pendrive
 
-> Este é um processo arriscado, caso não tenha a segurança necessária para tal, **NÃO FAÇA**. Embora sejam baixas as chances, sempre há uma pequena chance de algo dar errado. Eu não me responsabilizo por eventuais erros de procedimento. Os arquivos disponibilizados aqui vieram de grupos russos de Telegram, onde há um bate papo (em russo) sobre as multimídias.
+### Aviso importante:
+
+> Este é um processo arriscado feito por entusiastas como eu, caso não tenha a segurança necessária para tal, **NÃO FAÇA**. Embora sejam baixas as chances, sempre há uma pequena chance de algo dar errado. Eu não me responsabilizo por eventuais erros de procedimento. Os arquivos disponibilizados aqui vieram de grupos internacionais, onde há um bate papo (em russo) sobre as multimídias. Dúvidas caso algo errado tenha acontecido devem ser levadas para discussão nesse grupo do telegram.
 
 ## Segue abaixo os dois firmwares:
 
-![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/image-1.png)
+Para saber qual firmware é o certo para você, você precisa comparar o código **APPVER** que está nas configurações do seu aparelho com a versão de firmware correspondente. Cada código indica recursos específicos, resoluções de tela ou tipos de interface de usuário (UI) que o firmware suporta.
 
-### Lelong LE-6334 - Tela vertical
+## Plataforma K4811
 
-<a class="btn" target="_blank" href="https://1drv.ms/u/c/3e4168556a91f2df/EXeEoywI5LJNvuM2B6xxYG8B8uDw41TAkdCtUYFfqp0fWw?e=gTOudn">Download</a>
+| Plataforma | Código APPVER | Link para Download                                     | Resolução da Tela/Recursos                                                                       |
+| :--------- | :------------ | :----------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| K4811      | **S217660**   | [Download](https://t.me/magnitolaandroid/42219/217918) | Resolução 1280x720 com interface Planet Dynamic                                                  |
+| K4811      | **S217852**   | [Download](https://t.me/magnitolaandroid/42219/225846) | Resolução 1280x720 com 26 conjuntos de UI na versão pública, compatível com gravação dupla (360) |
+| K4811      | **S21B104**   | [Download](https://t.me/magnitolaandroid/42219/217541) | Resolução 1920x1200                                                                              |
+| K4811      | **S215A55**   | [Download](https://t.me/magnitolaandroid/42219/210737) | Tela widescreen/tela longa com resolução 1600x720, 1280x480 ou 1920x720                          |
+| K4811      | **S21D267**   | [Download](https://t.me/magnitolaandroid/42219/212467) | Suporte para tela com dois botões giratórios                                                     |
+| K4811      | **S21D851**   | [Download](https://t.me/magnitolaandroid/42219/217917) | Apenas tela horizontal 2K                                                                        |
+| K4811      | **S223259**   | [Download](https://t.me/magnitolaandroid/42219/226379) | Suporte para tela vertical (768x1024)                                                            |
+| K4811      | **S223163**   | [Download](https://t.me/magnitolaandroid/42219/217919) | Suporte para tela giratória                                                                      |
 
-[Download](https://downloads-madeira.s3.us-east-1.amazonaws.com/horizontal/K4811_NWD_S217852-20241105-all-0-25.zip)
+> Mais opções podem ser encontradas no [grupo internacional de discussão](https://t.me/magnitolaandroid/42219)
 
-* * *
+## Plataforma K2001N
 
-![](https://garagemdomadeira.wordpress.com/wp-content/uploads/2025/02/image.png)
+| Plataforma | Código APPVER        | Link para Download                                     | Resolução da Tela/Recursos                                                                       |
+| :--------- | :------------------- | :----------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
+| K2001N     | **S212917_20250212** | [Download](https://t.me/magnitolaandroid/95201/194636) | Resolução 1280x720 com interface Planet Dynamic                                                  |
+| K2001N     | **S212909_20240709** | [Download](https://t.me/magnitolaandroid/95201/151523) | Resolução 1280x720 com 26 conjuntos de UI na versão pública, compatível com gravação dupla (360) |
+| K2001N     | **S212968_20250212** | [Download](https://t.me/magnitolaandroid/95201/194648) | Resolução 1920x1200                                                                              |
+| K2001N     | **S212969_20250310** | [Download](https://t.me/magnitolaandroid/95201/209820) | Tela widescreen/tela longa com resolução 1600x720, 1280x480 ou 1920x720                          |
+| K2001N     | **S212B72_20241118** | [Download](https://t.me/magnitolaandroid/95201/174770) | Suporte para tela vertical (768x1024)                                                            |
+| K2001N     | **S217956_20250108** | [Download](https://t.me/magnitolaandroid/95201/185372) | Suporte para tela giratória                                                                      |
 
-### Lelong LE-6321 ou LE-6320
+> Mais opções podem ser encontradas no [grupo internacional de discussão](https://t.me/magnitolaandroid/95201)
 
-<a class="btn" target="_blank" href="https://1drv.ms/u/c/3e4168556a91f2df/EXwFOY9eUjNOjvyNTlweKnkBeM-R5wvhx6vSSAMUwHdi3w?e=Wapa43">Download</a>
+### Observações
 
-* * *
-
-## Passo a passo
-
-Para atualizar as multimídias Lelong você precisa seguir os passos:
-
-- Baixar o arquivo correspondente e copiar para um pendrive.
-
-- Renomear o arquivo para **update.zip**
-
-- Espetar o pendrive com o arquivo update na USB da multimídia.
-
-- Vai aparecer a opção de update se revelar no menu de configurações.
-
-- Basta apertar no botão upgrade e o processo vai começar.
-
-- A multimídia vai reiniciar algumas vezes.
-
-O processo demora um pouco, seja paciente e não remova o pendrive até que tenha acabado.
+* Os links precisam que você tenha conta no aplicativo telegram e eles pertencem à uum grupo internacional.
+* Eu não tenho responsabilidade sobre os assuntos comentados nesse grupo do telegram.
+* Frequentemente surgem novos firmwares e eu vou tentar atualizar os links aqui.

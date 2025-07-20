@@ -72,7 +72,7 @@ export async function generateCategoryListPage(posts) {
             title: 'Todas as Categorias',
             meta: {
                 descricao: 'Explore todas as categorias de posts do Garagem do Madeira. Encontre o que você procura por tópicos automotivos.',
-                keywords: 'categorias, tópicos, blog, Garagem do Madeira, notícias automotivas',
+                keywords: 'categorias, tópicos, blog, Garagem do Madeira, uma coletânea de experiências e dicas sobre os carros que já tive',
                 image: defaultImage,
                 type: 'website'
             }

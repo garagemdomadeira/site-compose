@@ -67,7 +67,7 @@ export async function generateAllPostsPage() {
             title: 'Todos os Posts',
             meta: {
                 descricao: 'Explore todos os posts do Garagem do Madeira, organizados por ano e mês.',
-                keywords: 'todos os posts, arquivo, blog, Garagem do Madeira, notícias automotivas',
+                keywords: 'todos os posts, arquivo, blog, Garagem do Madeira',
                 image: defaultImage,
                 type: 'website'
             }

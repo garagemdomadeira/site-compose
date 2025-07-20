@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Site de notícias automotivas Garagem do Madeira",
+  "description": "Uma coletânea de experiências e dicas sobre os carros que já tive",
   "devDependencies": {
     "browser-sync": "^3.0.3",
     "nodemon": "^3.0.3"

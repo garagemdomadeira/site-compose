@@ -69,8 +69,8 @@ export async function generateHomePage() {
             sections,
             menu,
             meta: {
-                descricao: 'Garagem do Madeira - Seu portal de notícias automotivas',
-                keywords: 'carros, automóveis, notícias automotivas',
+                descricao: 'Garagem do Madeira - Uma coletânea de experiências e dicas sobre os carros que já tive',
+                keywords: 'carros, automóveis',
                 image: defaultImage,
                 type: 'website'
             }

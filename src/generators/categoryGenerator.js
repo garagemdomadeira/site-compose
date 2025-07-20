@@ -46,8 +46,8 @@ export async function generateCategoryPages(posts) {
                 posts: categoryPosts,
                 title: `Categoria: ${category}`,
                 meta: {
-                    descricao: `Posts na categoria: ${category}. Encontre notícias, dicas e análises automotivas relacionadas a ${category}.`,
-                    keywords: `categoria, ${category}, carros, automóveis, notícias automotivas`,
+                    descricao: `Posts na categoria: ${category}. Encontre dicas e análises automotivas relacionadas a ${category}.`,
+                    keywords: `categoria, ${category}, carros, automóveis`,
                     image: defaultImage,
                     type: 'website'
                 }

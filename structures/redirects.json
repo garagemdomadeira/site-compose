@@ -227,27 +227,27 @@
     },
     {
       "from": "/about/",
-      "to": "/",
+      "to": "/2021/03/about/",
       "status": 301
     },
     {
       "from": "/achados-aliexpress-cr-v/",
-      "to": "",
+      "to": "/2023/10/achados-aliexpress-cr-v/",
       "status": 301
     },
     {
       "from": "/achados-aliexpress-honda-fit/",
-      "to": "",
+      "to": "/2023/10/achados-aliexpress-honda-fit/",
       "status": 301
     },
     {
       "from": "/achados-do-aliexpress-ferramentas/",
-      "to": "",
+      "to": "/2023/10/achados-do-aliexpress-ferramentas/",
       "status": 301
     },
     {
       "from": "/achados-do-aliexpress-multimidias-cameras-e-afins/",
-      "to": "",
+      "to": "/2023/10/achados-do-aliexpress-multimidias-cameras-e-afins/",
       "status": 301
     },
     {
@@ -257,12 +257,12 @@
     },
     {
       "from": "/author/2madera/",
-      "to": "",
+      "to": "/2021/03/about/",
       "status": 301
     },
     {
       "from": "/category/manutencao/codigos-de-erro/",
-      "to": "",
+      "to": "/tags/codigos-de-montagem.html",
       "status": 301
     },
     {

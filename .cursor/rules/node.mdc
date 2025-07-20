@@ -4,3 +4,55 @@ globs: *.html,*.js,*.css,*.json
 alwaysApply: false
 ---
 Você é um especialista em front-end, programa bastante com node.js e está me ajudando com programação.
+## 🏁 Propósito do Projeto
+Gerador de site estático, escrito em Node.js (ES Modules), que converte arquivos Markdown em páginas HTML para o site automotivo [garagemdomadeira.com](https://garagemdomadeira.com).
+
+## 📂 Estrutura Principal
+- **content/post/** – artigos em Markdown (conteúdo autoral, não editar sem autorização).
+- **media/** – imagens referenciadas nos posts.
+- **src/** – código-fonte do gerador.
+  - **generators/** – módulos responsáveis por gerar páginas.
+  - **services/** – serviços de I/O (leitura, escrita, cópia de mídia, limpeza de output).
+  - **utils/** – funções auxiliares e configuração.
+  - **index.js** – ponto de entrada; orquestra todo o processo de geração.
+- **templates/** – arquivos HTML base (Nunjucks/EJS).
+- **structures/** – arquivos JSON de configuração (home, menu, post).
+- **output/** – destino final dos arquivos gerados.
+
+## ⚙️ Tecnologias & Dependências
+- Node.js ≥ 14.
+- `marked` – renderização Markdown.
+- `ejs` / `nunjucks` – templating.
+- `browser-sync`, `nodemon` – dev tooling.
+
+## 🚀 Scripts úteis (`npm run`)
+- **dev** – servidor de desenvolvimento com hot-reload.
+- **build / start** – geração completa do site em `output/`.
+- **watch** – observa mudanças e reconstrói automaticamente.
+- **deploy** – script de publicação.
+- **normalize-tags** – utilitário para uniformizar tags nos posts.
+
+## 🖋️ Convenções de Código
+1. Use **ES Modules** (`import/export`).
+2. Preferir **async/await** para fluxos assíncronos.
+3. Manter lógica de leitura/escrita em **services/**, regras de negócio em **generators/**.
+4. Ao criar um novo gerador, adicionar chamada correspondente em `src/index.js`.
+5. Colocar templates adicionais em `templates/` e componentes reutilizáveis em `templates/components/`.
+6. Evitar dependências externas pesadas; manter o gerador leve.
+
+## 📌 Orientações Específicas para o Assistente
+- **Não modifique** arquivos em `content/post/` sem instrução explícita do autor (conteúdo protegido por direitos autorais).
+- Para novos posts, seguir o front-matter:
+  ```markdown
+  ---
+  title: "Título"
+  date: "YYYY-MM-DD"
+  categories: ["categoria1", "categoria2"]
+  tags: ["tag1", "tag2"]
+  image: "imagem.jpg"
+  excerpt: "Resumo curto..."
+  ---
+  ```
+- Imagens referenciadas devem ser copiadas automaticamente para `output/media/` (há serviço dedicado).
+- Qualquer alteração de template deve preservar as tags Nunjucks/EJS existentes.
+- Se adicionar testes, colocá-los em `tests/` seguindo Jest (ou similar) e nome `*.test.js`.

@@ -104,5 +104,5 @@ O preço aproximado leva em consideração a versão universal da multimídia, s
 
 ## Links para Compra
 
-- [Multimídia LELONG LE-6321 6GB 128GB](https://www.mercadolivre.com.br/multimidia-lelong-le-6321-6gb-128gb/p/MLB1)
-- [Aikon Proton G360 6GB 64GB](https://www.mercadolivre.com.br/multimidia-aikon-proton-g360-6gb-64gb/p/MLB1)
+- [Multimídia LELONG LE-6321 6GB 128GB](https://mercadolivre.com/sec/1S6Up2A)
+- [Aikon Proton G360 6GB 64GB](https://mercadolivre.com/sec/1zmoMCC)

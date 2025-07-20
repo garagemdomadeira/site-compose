@@ -16,16 +16,15 @@
     {% if section.title %}<h2 class="mb-3">{{ section.title }}</h2>{% endif %}
     <div class="row">
         {% for item in section.items %}
-        <div class="col-md-{{ 12 // (section.layout == 'two-columns' and 2 or 4) }} mb-3">
+        <a href="{{ item.link }}" class="col-md-{{ 12 // (section.layout == 'two-columns' and 2 or 4) }} mb-3">
             <div class="card h-100">
                 <img src="{{ item.mainImage or item.image }}" class="card-img-top" alt="{{ item.title }}">
                 <div class="card-body">
                     <h3 class="card-title">{{ item.title }}</h3>
                     <p class="card-text">{{ item.description }}</p>
-                    <a href="{{ item.link }}" class="btn btn-outline-primary btn-sm">Leia mais</a>
                 </div>
             </div>
-        </div>
+        </a>
         {% endfor %}
     </div>
 </div>

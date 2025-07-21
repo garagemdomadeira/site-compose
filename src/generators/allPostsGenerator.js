@@ -6,7 +6,7 @@
 
 import fs from 'fs/promises';
 import path from 'path';
-import { outputDir, env, mediaDir } from '../utils/config.js';
+import { outputDir, env, mediaDir, baseUrl } from '../utils/config.js';
 import { readMenu } from '../services/fileService.js';
 import { readMarkdownFiles } from '../services/contentReader.js';
 import { generatePostLink } from '../utils/postLink.js';
@@ -70,7 +70,8 @@ export async function generateAllPostsPage() {
                 keywords: 'todos os posts, arquivo, blog, Garagem do Madeira',
                 image: defaultImage,
                 type: 'website'
-            }
+            },
+            canonical_url: `${baseUrl}/all-posts.html`
         });
 
         // Salva o arquivo

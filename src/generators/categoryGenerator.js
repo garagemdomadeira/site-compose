@@ -1,6 +1,7 @@
 import { renderTemplate } from '../services/templateService.js';
 import { ensureDirectoryExists } from '../services/directoryService.js';
 import path from 'path';
+import { baseUrl } from '../utils/config.js';
 
 const defaultImage = '/media/garagem_do_madeira_p.png';
 
@@ -50,7 +51,8 @@ export async function generateCategoryPages(posts) {
                     keywords: `categoria, ${category}, carros, automóveis`,
                     image: defaultImage,
                     type: 'website'
-                }
+                },
+                canonical_url: `${baseUrl}/categories/${category.toLowerCase().replace(/\s+/g, '-')}.html`
             });
         }
 

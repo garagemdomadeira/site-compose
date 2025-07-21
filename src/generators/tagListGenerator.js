@@ -2,6 +2,7 @@ import { renderTemplate } from '../services/templateService.js';
 import { ensureDirectoryExists } from '../services/directoryService.js';
 import { generatePostLink } from '../utils/postLink.js';
 import { detectMainImage } from '../utils/postImage.js';
+import { baseUrl } from '../utils/config.js';
 import path from 'path';
 
 const defaultImage = '/media/garagem_do_madeira_p.png';
@@ -58,7 +59,8 @@ export async function generateTagListPage(posts) {
                 keywords: 'tags, palavras-chave, blog, Garagem do Madeira, uma coletânea de experiências e dicas sobre os carros que já tive',
                 image: defaultImage,
                 type: 'website'
-            }
+            },
+            canonical_url: `${baseUrl}/tags.html`
         });
 
         console.log('✅ Página de listagem de tags gerada com sucesso!');

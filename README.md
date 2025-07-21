@@ -134,3 +134,15 @@ Para questões sobre o gerador ou solicitações de uso do conteúdo:
 ---
 
 **Nota**: Este projeto é mantido como uma ferramenta pessoal para gerenciar meu site automotivo. O foco principal é o conteúdo, mas o gerador está disponível para a comunidade. 
+
+## 🚀 Novo fluxo de build e deploy
+
+Agora, após gerar o site (output), execute:
+
+```
+npm run minify
+```
+
+Isso irá criar a pasta `production/` com todos os arquivos minificados (HTML, CSS, JS). O deploy agora utiliza a pasta `production` como fonte.
+
+A pasta `production/` está no `.gitignore` e não é versionada. 

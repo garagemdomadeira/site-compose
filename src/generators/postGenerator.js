@@ -7,6 +7,8 @@ import fs from 'fs/promises';
 import path from 'path';
 import { outputDir } from '../utils/config.js';
 import { renderTemplate } from '../utils/template.js';
+import { baseUrl } from '../utils/config.js';
+import { generatePostLink } from '../utils/postLink.js';
 
 /**
  * Gera uma página de post individual
@@ -25,7 +27,8 @@ export async function generatePost(post, menu) {
                 keywords: post.keywords || null,
                 image: `/media/${post.slug}.jpg`, // Usa apenas o slug do post para a imagem
                 type: post.type || 'article'
-            }
+            },
+            canonical_url: `${baseUrl}${generatePostLink(post)}`
         });
 
         const outputPath = path.join(outputDir, 'posts', `${post.slug}.html`);

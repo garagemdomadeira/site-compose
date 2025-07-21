@@ -71,12 +71,19 @@ if [ ! -d "$OUTPUT_DIR" ]; then
     exit 1
 fi
 
-# Copia todos os arquivos da pasta output para garagemdomadeira.github.io
+# Verifica se a pasta production existe
+PRODUCTION_DIR="$PROJECT_ROOT/production"
+if [ ! -d "$PRODUCTION_DIR" ]; then
+    echo "❌ Pasta production não encontrada! Execute 'npm run minify' antes do deploy."
+    exit 1
+fi
+
+# Copia todos os arquivos da pasta production para garagemdomadeira.github.io
 echo ""
-echo "📋 Copiando arquivos do output..."
+echo "📋 Copiando arquivos da production..."
 
 # Copia todos os arquivos e pastas recursivamente
-cp -r "$OUTPUT_DIR"/* "$DEPLOY_DIR/"
+cp -r "$PRODUCTION_DIR"/* "$DEPLOY_DIR/"
 echo "✅ Cópia concluída!"
 
 # Gera a data e hora para o commit

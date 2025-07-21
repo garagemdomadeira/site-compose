@@ -38,7 +38,8 @@
                 {
                     "title": "GRUPO DE WHATSAPP GARAGEM DO MADEIRA",
                     "description": "Conecte-se com outros apaixonados por carros",
-                    "link": "/2025/05/grupo-de-whatsapp/"
+                    "link": "/2025/05/grupo-de-whatsapp/",
+                    "prefetch": true
                 },
                 {
                     "title": "'REGULANDO' A CAMBAGEM TRASERA DA CR-V",
@@ -96,7 +97,8 @@
                 {
                     "title": "Atualizações das multimídias",
                     "description": "Confira as atualizações das multimídias Lelong",
-                    "link": "/2025/02/atualizacoes-das-multimidias/"
+                    "link": "/2025/02/atualizacoes-das-multimidias/",
+                    "prefetch": true
                 },
                 {
                     "title": "Honda Fit CVT 2007",

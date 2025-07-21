@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>{% if title %}{{ title|cleanTitle }}{% endif %}</title>
+    <title>{% if title %}{{ title|cleanTitle }}{% else %}Garagem do Madeira - Dicas, experiências e manutenção automotiva{%
+        endif %}</title>
     <meta name="description"
-        content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Uma coletânea de experiências e dicas sobre os carros que já tive{% endif %}">
+        content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Garagem do Madeira: dicas, experiências, manutenção, avaliações e tutoriais sobre carros Honda, Kia, acessórios, peças e muito mais para entusiastas automotivos.{% endif %}">
     <meta name="keywords"
-        content="{% if meta and meta.keywords %}{{ meta.keywords }}{% else %}carros, automóveis, dicas automotivas{% endif %}">
+        content="{% if meta and meta.keywords %}{{ meta.keywords }}{% else %}carros, automóveis, dicas automotivas, manutenção, Honda, Kia, CR-V, Fit, Sportage, peças, acessórios, óleo, filtros, suspensão, câmbio, multimídia, ferramentas, avaliações, tutoriais, comparativos, produtos automotivos, tecnologia automotiva, troca de óleo, revisão, diagnóstico, limpeza, segurança, DIY, mercado livre, AliExpress{% endif %}">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="{% if meta and meta.type %}{{ meta.type }}{% else %}website{% endif %}">
-    <meta property="og:url" content="{{ request.url if request else '' }}">
+    <meta property="og:url" content="{{ canonical_url|default(request.url if request else '') }}">
     <meta property="og:title" content="{% if title %}{{ title|cleanTitle }}{% else %}Garagem do Madeira{% endif %}">
     <meta property="og:description"
         content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Uma coletânea de experiências e dicas sobre os carros que já tive{% endif %}">
@@ -24,24 +25,45 @@
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="{{ request.url if request else '' }}">
+    <meta property="twitter:url" content="{{ canonical_url|default(request.url if request else '') }}">
     <meta property="twitter:title" content="{% if title %}{{ title|cleanTitle }}{% else %}Garagem do Madeira{% endif %}">
     <meta property="twitter:description"
         content="{% if meta and meta.descricao %}{{ meta.descricao }}{% else %}Uma coletânea de experiências e dicas sobre os carros que já tive{% endif %}">
     <meta property="twitter:image"
         content="{% if meta and meta.image %}{{ meta.image }}{% else %}/media/garagem_do_madeira_p.png{% endif %}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+    <link rel="canonical" href="{{ canonical_url|default(request.url if request else '') }}">
     
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon/android-chrome-512x512.png">
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Bootstrap Icons -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    <!-- FontAwesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/assets/styles.css">
     <base href="/">
     {% block extra_css %}{% endblock %}
+    <!-- Dados estruturados Schema.org (JSON-LD) -->
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Garagem do Madeira",
+          "url": "https://garagemdomadeira.com.br/",
+          "logo": "https://garagemdomadeira.com.br/media/garagem_do_madeira_p.png",
+          "description": "Dicas, experiências, manutenção, avaliações e tutoriais sobre carros Honda, Kia, acessórios, peças e muito mais para entusiastas automotivos.",
+          "sameAs": [
+            "https://www.youtube.com/@garagemdomadeira",
+            "https://instagram.com/garagemdomadeira",
+            "https://www.tiktok.com/@garagemdomadeira",
+            "https://www.kwai.com/@garagemdomadeira"
+          ]
+        }
+        </script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-89LD5TFFMH"></script>
     <script>
@@ -51,6 +73,20 @@
 
     gtag('config', 'G-89LD5TFFMH');
     </script>
+    <!-- Meta tags modernas -->
+    <meta name="theme-color" content="#ffffff">
+    <meta name="author" content="Garagem do Madeira">
+    <meta name="copyright" content="Garagem do Madeira 2021-2024">
+    
+    <!-- Performance: Preload CSS e favicon -->
+    <link rel="preload" href="/assets/styles.css" as="style">
+    <link rel="preload" href="/assets/favicon/favicon-32x32.png" as="image" type="image/png">
+    {% if prefetchLinks %}
+    <!-- Prefetch dinâmico de páginas -->
+    {% for url in prefetchLinks %}
+    <link rel="prefetch" href="{{ url }}">
+    {% endfor %}
+    {% endif %}
 </head>
 
 <body>

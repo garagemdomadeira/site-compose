@@ -1,6 +1,7 @@
 import { renderTemplate } from '../services/templateService.js';
 import { ensureDirectoryExists } from '../services/directoryService.js';
 import path from 'path';
+import { baseUrl } from '../utils/config.js';
 
 const defaultImage = '/media/garagem_do_madeira_p.png';
 
@@ -43,7 +44,8 @@ export async function generateTagPages(posts) {
                     keywords: `tag, ${tag}, carros, automóveis`,
                     image: defaultImage,
                     type: 'website'
-                }
+                },
+                canonical_url: `${baseUrl}/tags/${tag.toLowerCase().replace(/\s+/g, '-')}.html`
             });
         }
 

@@ -64,6 +64,12 @@ cd "$PROJECT_ROOT"
 npm run build
 echo "✅ Build concluído!"
 
+# Minifica os arquivos
+echo "🧹 Minificando arquivos..."
+npm run minify
+
+echo "✅ Minificação concluída!"
+
 # Verifica se a pasta output existe
 OUTPUT_DIR="$PROJECT_ROOT/output"
 if [ ! -d "$OUTPUT_DIR" ]; then

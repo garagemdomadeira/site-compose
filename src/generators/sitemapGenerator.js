@@ -7,6 +7,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { readMarkdownFiles } from '../services/contentService.js';
+import { baseUrl } from '../utils/config.js';
 
 /**
  * Gera o arquivo sitemap.xml com todas as URLs do site
@@ -15,7 +16,6 @@ import { readMarkdownFiles } from '../services/contentService.js';
 export async function generateSitemap() {
     try {
         const posts = await readMarkdownFiles();
-        const baseUrl = 'https://garagemdomadeira.com.br'; // Substitua pelo seu domínio real
         
         // URLs fixas do site
         const staticUrls = [

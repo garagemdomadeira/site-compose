@@ -15,7 +15,8 @@ tags:
   - "chave-presencial"
   - "suspensao"
   - "porta-malas"
-  - "youtube"coverImage: "sporttage.jpeg"
+  - "youtube"
+coverImage: "sporttage.jpeg"
 ---
 
 🚗 Kia Sportage 2015 vs. Honda CR-V 2011 - Vantagens e Desvantagens 🚗

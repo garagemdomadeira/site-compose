@@ -15,7 +15,8 @@ tags:
   - "elementos-quimicos"
   - "graficos"
   - "youtube"
-  - "tecnologia-automotiva"coverImage: "oil.png"
+  - "tecnologia-automotiva"
+coverImage: "oil.png"
 ---
 
 <!--more-->

@@ -20,138 +20,17 @@ tags:
 
 Muitas pessoas me pedem os links dos produtos que eu utilizei em minha Sportage durante os vídeos que eu gravei. Separei aqui todos os produtos que utilizei quando fiz a suspensão do carro, os links são todos do Mercado Livre e você estará ajudando o canal com uma comissão ao comprar por eles. Boas compras.
 
-**Basta clicar nos produtos para ir para o link de compra (Mercado Livre ou AliExpress)**
-<div class="figure-grid">
-<figure>
+## Suspensão traseira
 
-[![](media/d_nq_np_2x_804688-mlb53249058497_012023-f.webp)](https://mercadolivre.com/sec/19gvgqi)
+> Basta clicar em cada um dos nomes das peças indicado. O link pode ser Mercado Livre ou Aliexpress.
 
-<figcaption>
+<object class="object-catalog" data="/media/sportage_suspensao_traseira.svg" type="image/svg+xml"></object>
 
-Amortecedores dianteiros  
-(Par esquerdo e direito)
+## Suspensão dianteira
 
-</figcaption>
+> Basta clicar em cada um dos nomes das peças indicado. O link pode ser Mercado Livre ou Aliexpress.
 
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-07-26-as-18.14.01.jpg)](https://mercadolivre.com/sec/2uUPHZm)
-
-<figcaption>
-
-Amortecedor traseiro  
-(par esquerdo e direito)
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/d_nq_np_2x_642779-mlb25852308899_082017-f.webp)](https://mercadolivre.com/sec/2WJXnaG)
-
-<figcaption>
-
-Coifa e batente
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/d_nq_np_2x_696267-mlb69852734979_062023-f.webp)](https://mercadolivre.com/sec/1DLNTtY)
-
-<figcaption>
-
-Molas dianteiras
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-07-26-as-18.16.34.jpg)](https://mercadolivre.com/sec/1N1WHHr)
-
-<figcaption>
-
-Molas traseiras
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-07-26-as-18.17.35.jpg)](https://mercadolivre.com/sec/1NbQ5Qn)
-
-<figcaption>
-
-Bieleta traseira DLZ  
-(par completo)
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-08-22-as-10.23.50.jpg)](https://mercadolivre.com/sec/1sbv8md)
-
-<figcaption>
-
-Kit Bucha Facão Traseiro  
-(Par completo)
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-08-22-as-10.25.12.jpg)](https://mercadolivre.com/sec/26v5NX5)
-
-<figcaption>
-
-Bucha Pivô (Hidráulica) da  
-Manga de eixo  
-(Par completo)
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-08-22-as-10.26.00.jpg)](https://mercadolivre.com/sec/1qxroVC)
-
-<figcaption>
-
-Bucha principal + pequenina  
-_(1 kit para cada lado)_
-
-</figcaption>
-
-</figure>
-
-<figure>
-
-[![](media/screenshot-2024-08-22-as-10.26.05.jpg)](https://mercadolivre.com/sec/1sHtjrj)
-
-<figcaption>
-
-4 buchas braço curvo  
-(Kit completo)
-
-</figcaption>
-
-</figure>
-
-</div>
-
+<object class="object-catalog" data="/media/sportage_suspensao_dianteira.svg" type="image/svg+xml"></object>
 
 ## Os vídeos que eu fiz trocando essas peças:
 

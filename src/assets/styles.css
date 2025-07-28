@@ -124,6 +124,27 @@ body {
         color: var(--bs-primary-dark);
 }
 
+.object-catalog {
+    display: block;
+    width: 600px;
+    height: auto;
+    border: 1px solid var(--gm-border-color);
+    border-radius: var(--gm-border-radius);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 2rem auto;
+}
+
+@media (max-width: 768px) {
+    .object-catalog {
+        width: 100%;
+        height: auto;
+        border: 1px solid var(--gm-border-color);
+        border-radius: var(--gm-border-radius);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+}
 /* Ajustes de imagens */
 .img-fluid {
     max-width: 100%;

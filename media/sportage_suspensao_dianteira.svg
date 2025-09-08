@@ -33,6 +33,11 @@
      inkscape:window-y="1118"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg37" />
+     <style>
+     a:hover path:first-child {
+      fill: rgba(0,0,255,0.2);
+     }
+     </style>
   <image
      height="1060.5001"
      preserveAspectRatio="none"

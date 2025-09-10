@@ -202,7 +202,7 @@ const mountMaintenancePlan = () => {
         });
         
         requiredCheckItems.forEach(item => {
-          checkList.innerHTML += PRODUCT_ITEM_TEMPLATE(item.name, item.purchaseLink);
+          checkList.innerHTML += PRODUCT_ITEM_TEMPLATE(item.name, item.purchaseLink, item.description);
         });
         maintenanceResultsDiv.appendChild(checkList);
       } else {
@@ -219,7 +219,6 @@ const HEADER_TEMPLATE = (title) => `
 
 const ODOMETER_INPUT_TEMPLATE = `
   <form class="input-group mb-3" id="odometerForm">
-    <span class="input-group-text">Odômetro (km)</span>
     <input type="number" keyboard="numeric" class="form-control" id="odometerInput" placeholder="Digite o odômetro atual" min="0">
     <button type="submit" class="btn btn-primary">Calcular</button>
   </form>

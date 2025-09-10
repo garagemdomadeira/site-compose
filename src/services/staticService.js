@@ -33,6 +33,10 @@ const staticFiles = [
         source: path.join(rootDir, 'src', 'assets', 'search.js'),
         target: path.join(outputDir, 'assets', 'search.js')
     },
+    {
+        source: path.join(rootDir, 'src', 'assets', 'kia-sportage-maintenance.js'),
+        target: path.join(outputDir, 'assets', 'kia-sportage-maintenance.js')
+    },
     // robots.txt
     {
         source: path.join(rootDir, 'src', 'robots.txt'),

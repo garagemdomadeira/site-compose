@@ -1,8 +1,8 @@
 ---
-title: "Guia de revisões do Kia Sportage"
-date: "2025-09-10"
+title: "Guia de revisões do Honda Fit"
+date: "2025-09-17"
 categories:
-  - "kia-sportage"
+  - "honda-fit"
   - "manutencao"
   - "revisao"
 tags:
@@ -15,16 +15,17 @@ tags:
   - "manutencao"
 ---
 
-> Acabou de adquirir seu kia sportage e não sabe por onde começar, leia a quilometragem do seu carro e vamos aos pontos.
-> Esse plano de manutenção usa o plano original da KIA, mas eu fiz alterações e outras recomendações visando cuidar melhor do carro e fazer além do básico.
+> Acabou de adquirir seu Honda Fit e não sabe por onde começar, leia a quilometragem do seu carro e vamos aos pontos.
+> Esse plano de manutenção usa o plano original da Honda, mas eu fiz alterações e outras recomendações visando cuidar melhor do carro e fazer além do básico.
 
 ## Vamos começar
 
 Digite o valor do odômetro do seu carro e verifique qual a próxima revisão e quais itens.
 
-<div id="kia-sportage-maintenance-plan" ></div>
+<div id="honda-fit-maintenance-plan" ></div>
 
 > Comprando pelos links indicados você incentiva o canal GARAGEM DO MADEIRA a produzir mais conteúdos
+
 
 # Gravei uma pequena revisão
 

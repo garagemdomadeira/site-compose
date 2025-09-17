@@ -5,29 +5,23 @@ const mountMaintenancePlan = () => {
       name: 'Óleo lubrificante do motor',
       description: '4 litros para troca',
       period: 10000,
-      purchaseLink: 'https://mercadolivre.com/sec/1Mho7fk',
+      purchaseLink: 'https://mercadolivre.com/sec/1DhNavX',
     },
     {
-      name: 'Filtro de óleo do motor',
-      description: '1 filtro para troca',
+      name: 'Filtro de ar e óleo',
+      description: '1 filtro de ar e óleo para troca',
       period: 10000,
-      purchaseLink: 'https://mercadolivre.com/sec/1s8rP9J',
-    },
-    {
-      name: 'Filtro de ar',
-      description: '1 filtro para troca',
-      period: 10000,
-      purchaseLink: 'https://mercadolivre.com/sec/1s8rP9J',
+      purchaseLink: 'https://mercadolivre.com/sec/1Z5dEnS',
     },
     {
       name: 'Filtro de combustível',
-      description: '1 filtro para troca',
-      period: 10000,
-      purchaseLink: 'https://mercadolivre.com/sec/1s8rP9J',
+      description: '1 filtro interno para troca',
+      period: 80000,
+      purchaseLink: 'https://mercadolivre.com/sec/2eFy12D',
     },
     {
       name: 'Fluido de freio',
-      description: 'Requer 2 frascos de 500ml',
+      description: 'Requer 1 frasco de 500ml',
       period: 40000,
       purchaseLink: 'https://mercadolivre.com/sec/2e2VXh5',
     },
@@ -38,28 +32,28 @@ const mountMaintenancePlan = () => {
       purchaseLink: 'https://mercadolivre.com/sec/2o6THsJ',
     },
     {
-      name: 'Velas de ignição',
-      description: 'kit de 4 velas para troca',
+      name: 'Velas de ignição 1.4 8v',
+      description: 'kit de 8 velas para troca',
       period: 40000,
-      purchaseLink: 'https://mercadolivre.com/sec/24BBhPj',
+      purchaseLink: 'https://mercadolivre.com/sec/1dT6JKh',
     },
     {
-      name: 'Filtro de cabine',
-      description: '1 filtro para troca',
-      period: 10000,
-      purchaseLink: 'https://mercadolivre.com/sec/2NBaoMu',
+      name: 'Velas de ignição 1.5 16v',
+      description: 'kit de 4 velas para troca',
+      period: 40000,
+      purchaseLink: 'https://mercadolivre.com/sec/2xFF7BB',
     },
     {
       name: 'Fluido de transmissão automática',
-      description: 'Troca parcial por volta de 4 litros ou faça total',
+      description: 'Troca parcial por volta de 4 litros, utilizo o Gulf CVT no meu carro',
       period: 60000,
-      purchaseLink: 'https://mercadolivre.com/sec/2MUepTU',
+      purchaseLink: 'https://mercadolivre.com/sec/2w5zuLf',
     },
     {
       name: 'Correia do alternador',
       description: '1 correia para troca',
-      period: 60000,
-      purchaseLink: 'https://mercadolivre.com/sec/1MMNDro',
+      period: 80000,
+      purchaseLink: 'https://mercadolivre.com/sec/1KEhr87',
     },
     {
       name: 'Lubrificação canaletas dos vidros',
@@ -84,7 +78,7 @@ const mountMaintenancePlan = () => {
   const itemsForCheck = [
     { 
       name: 'Alinhamento e balanceamento de rodas', 
-      description: 'Alinhamento 3d para garantir cambagem traseira correta',
+      description: 'Alinhamento simples, não há ajuste de cambagem',
       period: 20000, 
       purchaseLink: ''
     },
@@ -92,7 +86,7 @@ const mountMaintenancePlan = () => {
       name: 'Aferir pastilhas de freio', 
       description: 'Para garantir que elas estão com espessura suficiente',
       period: 10000, 
-      purchaseLink: 'https://mercadolivre.com/sec/316HypA'
+      purchaseLink: 'https://mercadolivre.com/sec/15Ggu8k'
     },
     { 
       name: 'Limpar Corpo de borboleta', 
@@ -122,13 +116,13 @@ const mountMaintenancePlan = () => {
       name: 'Estado dos componentes de suspensão', 
       period: 20000, 
       description: 'O link vai para o catálogo de peças da suspensão',
-      purchaseLink: 'https://garagemdomadeira.com/2024/07/suspensao-kia-sportage-2015/'
+      purchaseLink: 'https://garagemdomadeira.com/2024/06/suspensao-honda-fit/'
     },
     { 
       name: 'Terminais de direção', 
       description: 'Verificar folgas e barulhos',
       period: 20000, 
-      purchaseLink: ''
+      purchaseLink: 'https://mercadolivre.com/sec/2dzmkca'
     },
     { 
       name: 'Ajuste do freio de estacionamento', 
@@ -150,7 +144,7 @@ const mountMaintenancePlan = () => {
     },
   ]
 
-  const maintenancePlanDiv = document.getElementById('kia-sportage-maintenance-plan');
+  const maintenancePlanDiv = document.getElementById('honda-fit-maintenance-plan');
   if (maintenancePlanDiv) {
     maintenancePlanDiv.innerHTML = ODOMETER_INPUT_TEMPLATE;
 

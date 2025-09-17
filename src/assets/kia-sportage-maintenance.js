@@ -1,4 +1,4 @@
-const mountMaintenancePlan = () => {
+const kiaSportageMaintenancePlan = () => {
 
   const itemsForChange = [
     {
@@ -236,7 +236,7 @@ const PRODUCT_ITEM_TEMPLATE = (itemName, purchaseLink, description) => `
 
 
 document.addEventListener('DOMContentLoaded', () => {
-  mountMaintenancePlan();
+  kiaSportageMaintenancePlan();
 });
 
 

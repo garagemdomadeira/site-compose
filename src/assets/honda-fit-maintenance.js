@@ -1,4 +1,4 @@
-const mountMaintenancePlan = () => {
+const hondaFitMaintenancePlan = () => {
 
   const itemsForChange = [
     {
@@ -230,7 +230,7 @@ const PRODUCT_ITEM_TEMPLATE = (itemName, purchaseLink, description) => `
 
 
 document.addEventListener('DOMContentLoaded', () => {
-  mountMaintenancePlan();
+  hondaFitMaintenancePlan();
 });
 
 

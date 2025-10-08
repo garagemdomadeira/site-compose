@@ -1,11 +1,25 @@
 {
 	"sportage": {
 		"2011-2016": {
+			"motor": {
+				"kit-3-filtros-mann": "https://mercadolivre.com/sec/1s8rP9J",
+				"oleo-motul-x-tech-clean-5w30": "https://mercadolivre.com/sec/1Mho7fk",
+				"oleo-total-ineo-mc3-5w30": "https://mercadolivre.com/sec/1DLMhw2",
+				"oleo-shell-helix-hx8-5w30": "https://mercadolivre.com/sec/1MG4432",
+				"oleo-castrol-magnatec-suv-5w30": "https://mercadolivre.com/sec/1Jso3x7",
+			},
+			"cambio-automatico": {
+				"motul-atf-vi": "https://mercadolivre.com/sec/2MUepTU",
+				"mobil-multiveiculo-dexron-vi": "https://mercadolivre.com/sec/2fZ3nxy",
+				"idemitsu-atf-type-hk": "https://mercadolivre.com/sec/1Tz2je6",
+				"total-fluidmatic-atf": "https://mercadolivre.com/sec/2nrjJ6v"
+			},
 			"suspensao-traseira": {
 				"bucha-braco-superior": "https://mercadolivre.com/sec/12UseGy",
 				"coxim-amortecedor": "https://mercadolivre.com/sec/2AwGuKm",
 				"bucha-pequena-manga-de-eixo": "https://mercadolivre.com/sec/2Quwuuk",
 				"amortecedor": "https://mercadolivre.com/sec/18QwYcU",
+				"mola-traseira": "https://mercadolivre.com/sec/2vWPNxP",
 				"bucha-hidraulica": "https://mercadolivre.com/sec/26v5NX5",
 				"coxim-inferior-mola": "https://s.click.aliexpress.com/e/_opvUeA3",
 				"bucha-bandeja-inferior": "https://mercadolivre.com/sec/1M6MYqx",
@@ -27,6 +41,23 @@
 				"bucha-grande-bandeja": "https://mercadolivre.com/sec/1XPbxX4",
 				"bucha-barra-estabilizadora": "https://mercadolivre.com/sec/2ac4oKJ",
 				"bieleta": "https://mercadolivre.com/sec/16vCL6s"
+			}
+		}
+	},
+	"cr-v": {
+		"2007-2011": {
+			"suspensao-traseira": {
+				"coxim-amortecedor": "https://mercadolivre.com/sec/1h1SQHj",
+				"kit-6-buchas-reforcado": "https://mercadolivre.com/sec/2YAKv9W",
+				"amortecedor": "https://mercadolivre.com/sec/2PuNiKg"
+			},
+			"suspensao-dianteira": {
+				"amortecedor": "https://mercadolivre.com/sec/1EBMm4v",
+				"coxim-do-amortecedor": "https://mercadolivre.com/sec/1cPWwpX",
+				"coifa-e-batente-direito": "https://mercadolivre.com/sec/2gADZXo",
+				"coifa-e-batente-esquerdo": "https://mercadolivre.com/sec/15Q3CAv",
+				"bucha-barra-estabilizadora": "https://mercadolivre.com/sec/2sKBfbi",
+				"kit-buchas-bandeja": "https://mercadolivre.com/sec/2vuU1qp"
 			}
 		}
 	}

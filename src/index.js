@@ -15,6 +15,7 @@ import { generateTagPages } from './generators/tagGenerator.js';
 import { generateCategoryListPage } from './generators/categoryListGenerator.js';
 import { generateTagListPage } from './generators/tagListGenerator.js';
 import { generate as generateRedirects } from './generators/redirectsGenerator.js';
+import { generate as generateLinks } from './generators/linksGenerator.js';
 import { readMarkdownFiles } from './services/contentService.js';
 import { readMenu, cleanOutput } from './services/fileService.js';
 import { copyImagesToOutput } from './services/imageService.js';
@@ -53,6 +54,7 @@ async function main() {
         await generateSearchIndex();
         await generateSearchPage();
         await generateRedirects();
+        await generateLinks();
         
         console.log('✨ Geração de páginas concluída com sucesso!');
     } catch (error) {
